@@ -1,0 +1,23 @@
+# 通用忽略规则
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+*.log
+.DS_Store
+node_modules/
+.env
+
+# 特定目录
+novels/
+logs/
+
+# 大型数据文件
+data/
+*.zip
+*.tar.gz
+*.rar

@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>客户数据分析报告</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1, h2, h3 { color: #333; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .section { margin: 30px 0; }
+        .chart { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>客户数据分析报告</h1>
+    
+    <div class="section">
+        <h2>1. 数据概况</h2>
+        <p>数据总量: 100 条记录</p>
+        <p>数据字段: 8 个字段</p>
+    </div>
+    
+    <div class="section">
+        <h2>2. 数据分析结果</h2>
+        
+        <h3>2.1 性别分析</h3>
+        <table>
+            <tr>
+                <th>性别</th>
+                <th>平均收入</th>
+                <th>平均支出得分</th>
+                <th>平均购买频率</th>
+            </tr>
+            <tr><td>Female</td><td>53123.46</td><td>49.35</td><td>11.30</td></tr><tr><td>Male</td><td>61600.30</td><td>53.03</td><td>8.90</td></tr>
+        </table>
+        
+        <h3>2.2 地区分析</h3>
+        <table>
+            <tr>
+                <th>地区</th>
+                <th>平均收入</th>
+                <th>平均支出得分</th>
+                <th>平均购买频率</th>
+            </tr>
+            <tr><td>East</td><td>66887.08</td><td>50.31</td><td>8.96</td></tr><tr><td>North</td><td>58418.82</td><td>56.06</td><td>10.74</td></tr><tr><td>South</td><td>54106.62</td><td>48.49</td><td>9.21</td></tr><tr><td>West</td><td>51176.32</td><td>49.79</td><td>10.47</td></tr>
+        </table>
+    </div>
+    
+    <div class="section">
+        <h2>3. 模型性能</h2>
+        <table>
+            <tr>
+                <th>模型</th>
+                <th>MSE</th>
+                <th>R²</th>
+            </tr>
+            <tr>
+                <td>线性回归</td>
+                <td>1255.71</td>
+                <td>-0.28</td>
+            </tr>
+            <tr>
+                <td>随机森林</td>
+                <td>440.76</td>
+                <td>0.55</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="section">
+        <h2>4. 客户分群</h2>
+        <table>
+            <tr>
+                <th>聚类</th>
+                <th>平均年龄</th>
+                <th>平均收入</th>
+                <th>平均支出得分</th>
+                <th>平均购买频率</th>
+            </tr>
+            <tr><td>0</td><td>44.00</td><td>49290.04</td><td>60.21</td><td>3.46</td></tr><tr><td>1</td><td>45.31</td><td>79977.34</td><td>83.50</td><td>12.06</td></tr><tr><td>2</td><td>42.15</td><td>75745.30</td><td>23.09</td><td>8.78</td></tr><tr><td>3</td><td>42.84</td><td>39182.42</td><td>52.60</td><td>15.03</td></tr>
+        </table>
+    </div>
+    
+    <div class="section">
+        <h2>5. 结论与建议</h2>
+        <ul>
+            <li>客户群体可以分为4个不同的聚类，每个聚类具有不同的消费行为特征</li>
+            <li>随机森林模型在预测客户支出得分方面表现良好</li>
+            <li>收入和购买频率是影响支出得分的重要因素</li>
+            <li>建议针对不同聚类的客户制定差异化的营销策略</li>
+        </ul>
+    </div>
+</body>
+</html>
