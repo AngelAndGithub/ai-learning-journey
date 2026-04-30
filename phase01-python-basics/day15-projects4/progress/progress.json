@@ -2797,7 +2797,7 @@
     ]
   },
   "仙侠小说": {
-    "completed": false,
+    "completed": true,
     "novels": [
       {
         "name": "从聊斋开始做狐仙",
@@ -4414,6 +4414,6851 @@
       {
         "name": "三寸人间",
         "url": "https://www.sudugu.org/1643/"
+      },
+      {
+        "name": "一念永恒",
+        "url": "https://www.sudugu.org/1642/"
+      },
+      {
+        "name": "我师兄实在太稳健了",
+        "url": "https://www.sudugu.org/423/"
+      },
+      {
+        "name": "我欲封天",
+        "url": "https://www.sudugu.org/1641/"
+      },
+      {
+        "name": "志怪书",
+        "url": "https://www.sudugu.org/421/"
+      },
+      {
+        "name": "诛仙",
+        "url": "https://www.sudugu.org/417/"
+      },
+      {
+        "name": "凡人修仙之仙界篇",
+        "url": "https://www.sudugu.org/418/"
+      },
+      {
+        "name": "谁让他修仙的！",
+        "url": "https://www.sudugu.org/207/"
+      },
+      {
+        "name": "仙逆",
+        "url": "https://www.sudugu.org/410/"
+      },
+      {
+        "name": "苟在女魔头身边偷偷修炼",
+        "url": "https://www.sudugu.org/615/"
+      },
+      {
+        "name": "大奉打更人",
+        "url": "https://www.sudugu.org/405/"
+      },
+      {
+        "name": "我有一个修仙世界",
+        "url": "https://www.sudugu.org/187/"
+      },
+      {
+        "name": "天倾之后",
+        "url": "https://www.sudugu.org/172/"
+      },
+      {
+        "name": "凡人修仙传",
+        "url": "https://www.sudugu.org/128/"
+      },
+      {
+        "name": "我的模拟长生路",
+        "url": "https://www.sudugu.org/167/"
+      }
+    ]
+  },
+  "都市小说": {
+    "completed": true,
+    "novels": [
+      {
+        "name": "美女别撩，哥不玩闪婚",
+        "url": "https://www.sudugu.org/3914/"
+      },
+      {
+        "name": "大学没毕业，你怎么登上福布斯了",
+        "url": "https://www.sudugu.org/5779/"
+      },
+      {
+        "name": "都市古仙医2：大医镇世",
+        "url": "https://www.sudugu.org/3578/"
+      },
+      {
+        "name": "吸血剑娘没人要？快来我这我血厚",
+        "url": "https://www.sudugu.org/5241/"
+      },
+      {
+        "name": "1977：从恢复高考到大国工匠",
+        "url": "https://www.sudugu.org/6009/"
+      },
+      {
+        "name": "华娱：从拒绝嫦娥开始",
+        "url": "https://www.sudugu.org/5573/"
+      },
+      {
+        "name": "伴侣盲盒狗都不选？我开出苏妲己",
+        "url": "https://www.sudugu.org/5251/"
+      },
+      {
+        "name": "在seed开高达的歌姬",
+        "url": "https://www.sudugu.org/5040/"
+      },
+      {
+        "name": "我全家都是从贴吧认识的",
+        "url": "https://www.sudugu.org/5027/"
+      },
+      {
+        "name": "重生游戏黄金时代：我成世嘉太子",
+        "url": "https://www.sudugu.org/3959/"
+      },
+      {
+        "name": "制卡：这不是神话卡吗？",
+        "url": "https://www.sudugu.org/3952/"
+      },
+      {
+        "name": "重生童年：从救下小青梅开始",
+        "url": "https://www.sudugu.org/3492/"
+      },
+      {
+        "name": "巨星之路从表演绝活开始",
+        "url": "https://www.sudugu.org/3479/"
+      },
+      {
+        "name": "都重生了谁还做演员啊",
+        "url": "https://www.sudugu.org/3464/"
+      },
+      {
+        "name": "我15岁拿金棕榈很合理啊",
+        "url": "https://www.sudugu.org/3452/"
+      },
+      {
+        "name": "我在未来留过学",
+        "url": "https://www.sudugu.org/3078/"
+      },
+      {
+        "name": "最强狂兵Ⅱ：黑暗荣耀(正)",
+        "url": "https://www.sudugu.org/5006/"
+      },
+      {
+        "name": "刚离婚！八千万拆迁款到账！！！",
+        "url": "https://www.sudugu.org/5402/"
+      },
+      {
+        "name": "我真没想霍霍娱乐圈",
+        "url": "https://www.sudugu.org/2059/"
+      },
+      {
+        "name": "一首向天再借五百年校花悔哭了",
+        "url": "https://www.sudugu.org/2423/"
+      },
+      {
+        "name": "改运奇书",
+        "url": "https://www.sudugu.org/5999/"
+      },
+      {
+        "name": "娱乐圈风水秘闻",
+        "url": "https://www.sudugu.org/5085/"
+      },
+      {
+        "name": "都重生了谁还正经创业啊",
+        "url": "https://www.sudugu.org/2064/"
+      },
+      {
+        "name": "极品女武神赖上我",
+        "url": "https://www.sudugu.org/5392/"
+      },
+      {
+        "name": "重生都市仙帝",
+        "url": "https://www.sudugu.org/3863/"
+      },
+      {
+        "name": "全民神祇：你拜寿星，我拜阎王！",
+        "url": "https://www.sudugu.org/2710/"
+      },
+      {
+        "name": "转生蚊子，吸哭的校花是女帝重生",
+        "url": "https://www.sudugu.org/1775/"
+      },
+      {
+        "name": "一秒一个技能点，我把火球变禁咒",
+        "url": "https://www.sudugu.org/5443/"
+      },
+      {
+        "name": "人在高武，开局送老婆",
+        "url": "https://www.sudugu.org/5981/"
+      },
+      {
+        "name": "我在都市修了个野仙",
+        "url": "https://www.sudugu.org/3519/"
+      },
+      {
+        "name": "重生后，我的目标是太空",
+        "url": "https://www.sudugu.org/5785/"
+      },
+      {
+        "name": "重生1988，我在苏联当倒爷",
+        "url": "https://www.sudugu.org/5323/"
+      },
+      {
+        "name": "让你代管废材班，怎么成武神殿了",
+        "url": "https://www.sudugu.org/2482/"
+      },
+      {
+        "name": "1986：从厂二代开始",
+        "url": "https://www.sudugu.org/6043/"
+      },
+      {
+        "name": "美利坚：疾速追杀1924",
+        "url": "https://www.sudugu.org/2468/"
+      },
+      {
+        "name": "最强狂兵Ⅱ：黑暗荣耀",
+        "url": "https://www.sudugu.org/2346/"
+      },
+      {
+        "name": "高武：开局俘获校花，我靠装杯杀疯了",
+        "url": "https://www.sudugu.org/5624/"
+      },
+      {
+        "name": "高中生！长生仙族系统什么鬼！",
+        "url": "https://www.sudugu.org/5521/"
+      },
+      {
+        "name": "完美人生，从改变时间线开始",
+        "url": "https://www.sudugu.org/5511/"
+      },
+      {
+        "name": "重生高中，我的悠哉修仙日常",
+        "url": "https://www.sudugu.org/5978/"
+      },
+      {
+        "name": "重回六十年代，从挖何首乌开始",
+        "url": "https://www.sudugu.org/3513/"
+      },
+      {
+        "name": "影视：系统从欢乐颂消费返还开始",
+        "url": "https://www.sudugu.org/5368/"
+      },
+      {
+        "name": "这倒霉太棒了",
+        "url": "https://www.sudugu.org/3455/"
+      },
+      {
+        "name": "天医出山：专治不服，专救女神",
+        "url": "https://www.sudugu.org/5256/"
+      },
+      {
+        "name": "谁让这个邪修做饭的？",
+        "url": "https://www.sudugu.org/3457/"
+      },
+      {
+        "name": "四合院：刚穿就被抓，我要见太阳",
+        "url": "https://www.sudugu.org/6031/"
+      },
+      {
+        "name": "娱乐大亨：从互联网开始布局",
+        "url": "https://www.sudugu.org/2769/"
+      },
+      {
+        "name": "好莱坞的亿万富豪",
+        "url": "https://www.sudugu.org/5055/"
+      },
+      {
+        "name": "华娱97：从歌手开始",
+        "url": "https://www.sudugu.org/2575/"
+      },
+      {
+        "name": "从忽悠豪门范开始成为全能导演",
+        "url": "https://www.sudugu.org/2544/"
+      },
+      {
+        "name": "我捡到一部重生笔记本",
+        "url": "https://www.sudugu.org/2476/"
+      },
+      {
+        "name": "都重生了，必须打网球啊！",
+        "url": "https://www.sudugu.org/2195/"
+      },
+      {
+        "name": "重生60带空间",
+        "url": "https://www.sudugu.org/3387/"
+      },
+      {
+        "name": "隐蛾",
+        "url": "https://www.sudugu.org/3211/"
+      },
+      {
+        "name": "从1984开始的淘金生涯",
+        "url": "https://www.sudugu.org/2046/"
+      },
+      {
+        "name": "我在墨西哥当警察",
+        "url": "https://www.sudugu.org/3477/"
+      },
+      {
+        "name": "重生60带空间",
+        "url": "https://www.sudugu.org/3626/"
+      },
+      {
+        "name": "如月长存怪异收集备忘录",
+        "url": "https://www.sudugu.org/5302/"
+      },
+      {
+        "name": "D级潜力？我万倍返还成武神！",
+        "url": "https://www.sudugu.org/5666/"
+      },
+      {
+        "name": "我有一张小丑牌",
+        "url": "https://www.sudugu.org/5250/"
+      },
+      {
+        "name": "华娱，不放纵能叫影帝吗？",
+        "url": "https://www.sudugu.org/269/"
+      },
+      {
+        "name": "国运求生：我的技能有亿点点多",
+        "url": "https://www.sudugu.org/3950/"
+      },
+      {
+        "name": "高武圈传来噩耗",
+        "url": "https://www.sudugu.org/5401/"
+      },
+      {
+        "name": "分手综艺唱哭田希薇，我爆红全网",
+        "url": "https://www.sudugu.org/5774/"
+      },
+      {
+        "name": "美警生存实录：以德服人",
+        "url": "https://www.sudugu.org/2073/"
+      },
+      {
+        "name": "激荡1979！",
+        "url": "https://www.sudugu.org/267/"
+      },
+      {
+        "name": "从满仓A股开始成为资本",
+        "url": "https://www.sudugu.org/191/"
+      },
+      {
+        "name": "离婚后，我走向人生巅峰",
+        "url": "https://www.sudugu.org/5652/"
+      },
+      {
+        "name": "神医下山：美女总裁非我不嫁",
+        "url": "https://www.sudugu.org/5383/"
+      },
+      {
+        "name": "吃蘑菇后，我成了绝世古仙医",
+        "url": "https://www.sudugu.org/5354/"
+      },
+      {
+        "name": "直播科普：开局获得响雷果实",
+        "url": "https://www.sudugu.org/5501/"
+      },
+      {
+        "name": "八十年代渔猎日常",
+        "url": "https://www.sudugu.org/1670/"
+      },
+      {
+        "name": "诡异游戏：开局觉醒Bug级天赋",
+        "url": "https://www.sudugu.org/2355/"
+      },
+      {
+        "name": "四合院：进来一个最阴的",
+        "url": "https://www.sudugu.org/5976/"
+      },
+      {
+        "name": "749局守夜人？我乃道门真君",
+        "url": "https://www.sudugu.org/5908/"
+      },
+      {
+        "name": "华娱之2000",
+        "url": "https://www.sudugu.org/352/"
+      },
+      {
+        "name": "华娱：这个天仙不对劲",
+        "url": "https://www.sudugu.org/3480/"
+      },
+      {
+        "name": "华娱2001：叫我导演！",
+        "url": "https://www.sudugu.org/3472/"
+      },
+      {
+        "name": "华娱之摄影系大导",
+        "url": "https://www.sudugu.org/274/"
+      },
+      {
+        "name": "极品女神赖上我",
+        "url": "https://www.sudugu.org/5008/"
+      },
+      {
+        "name": "东京刑警：每日一个炸裂情报",
+        "url": "https://www.sudugu.org/3949/"
+      },
+      {
+        "name": "人在美利坚：我的叔叔堂吉诃德",
+        "url": "https://www.sudugu.org/3748/"
+      },
+      {
+        "name": "移动城市，神级资源批发商",
+        "url": "https://www.sudugu.org/5906/"
+      },
+      {
+        "name": "诸天美食，从获得宝石肉开始",
+        "url": "https://www.sudugu.org/5877/"
+      },
+      {
+        "name": "重生1878：美利坚头号悍匪",
+        "url": "https://www.sudugu.org/1936/"
+      },
+      {
+        "name": "阎王下山",
+        "url": "https://www.sudugu.org/1866/"
+      },
+      {
+        "name": "重生高三：这一世翻手为云",
+        "url": "https://www.sudugu.org/5955/"
+      },
+      {
+        "name": "被关女子监狱三年，我修炼成仙了",
+        "url": "https://www.sudugu.org/3530/"
+      },
+      {
+        "name": "华娱：天仙真的太想进步了",
+        "url": "https://www.sudugu.org/3481/"
+      },
+      {
+        "name": "发薪就能变强，我有十亿员工！",
+        "url": "https://www.sudugu.org/118/"
+      },
+      {
+        "name": "重生1984：我靠赶海打渔成首富",
+        "url": "https://www.sudugu.org/1892/"
+      },
+      {
+        "name": "创业系神豪：我要供养百万员工！",
+        "url": "https://www.sudugu.org/3873/"
+      },
+      {
+        "name": "游戏入侵：我有一万种天赋",
+        "url": "https://www.sudugu.org/5203/"
+      },
+      {
+        "name": "东京：我的影帝装备栏",
+        "url": "https://www.sudugu.org/5299/"
+      },
+      {
+        "name": "国潮1980",
+        "url": "https://www.sudugu.org/3068/"
+      },
+      {
+        "name": "重生房地产企业当高管",
+        "url": "https://www.sudugu.org/5416/"
+      },
+      {
+        "name": "我医武双绝，踏出女子监狱起无敌！",
+        "url": "https://www.sudugu.org/3316/"
+      },
+      {
+        "name": "御兽之王：我有一座饲育基地",
+        "url": "https://www.sudugu.org/3967/"
+      },
+      {
+        "name": "杀戮都市！",
+        "url": "https://www.sudugu.org/2418/"
+      },
+      {
+        "name": "华娱之我是一名历史片导演",
+        "url": "https://www.sudugu.org/3545/"
+      },
+      {
+        "name": "重生80，从狩猎林海雪原开始！",
+        "url": "https://www.sudugu.org/5609/"
+      },
+      {
+        "name": "1978从长影厂开始",
+        "url": "https://www.sudugu.org/3502/"
+      },
+      {
+        "name": "1978：从饮料巨头到实业之王",
+        "url": "https://www.sudugu.org/3198/"
+      },
+      {
+        "name": "回到八零机械厂",
+        "url": "https://www.sudugu.org/3073/"
+      },
+      {
+        "name": "激活传送门，带萝莉校花荒野求生",
+        "url": "https://www.sudugu.org/5479/"
+      },
+      {
+        "name": "道具影帝，我的演技无上限",
+        "url": "https://www.sudugu.org/5370/"
+      },
+      {
+        "name": "高武：我永远比儿子高四个境界",
+        "url": "https://www.sudugu.org/5945/"
+      },
+      {
+        "name": "说好的保卫科干事，你破什么案？",
+        "url": "https://www.sudugu.org/121/"
+      },
+      {
+        "name": "第九帝国",
+        "url": "https://www.sudugu.org/3156/"
+      },
+      {
+        "name": "美女总裁，请上车",
+        "url": "https://www.sudugu.org/5380/"
+      },
+      {
+        "name": "高武纪元：开局加载田伯光模板",
+        "url": "https://www.sudugu.org/5369/"
+      },
+      {
+        "name": "直播冒险：开局探寻尼斯湖水怪",
+        "url": "https://www.sudugu.org/5253/"
+      },
+      {
+        "name": "SSS灭世级灾厄？那是我老婆！",
+        "url": "https://www.sudugu.org/5243/"
+      },
+      {
+        "name": "什么？她们没有被催眠？",
+        "url": "https://www.sudugu.org/5395/"
+      },
+      {
+        "name": "狂仙出狱",
+        "url": "https://www.sudugu.org/1869/"
+      },
+      {
+        "name": "回家过年，和五个少妇挤房车同行",
+        "url": "https://www.sudugu.org/5163/"
+      },
+      {
+        "name": "这个卧底，业界口碑很差",
+        "url": "https://www.sudugu.org/5952/"
+      },
+      {
+        "name": "天门神医",
+        "url": "https://www.sudugu.org/3005/"
+      },
+      {
+        "name": "说好休闲游戏，长征副本全网泪崩",
+        "url": "https://www.sudugu.org/5070/"
+      },
+      {
+        "name": "东京泡沫人生",
+        "url": "https://www.sudugu.org/291/"
+      },
+      {
+        "name": "仙子，求你别再从书里出来了",
+        "url": "https://www.sudugu.org/3528/"
+      },
+      {
+        "name": "妹妹直播，我的势力曝光了",
+        "url": "https://www.sudugu.org/6019/"
+      },
+      {
+        "name": "帮美艳少妇捉奸，遇上络腮胡",
+        "url": "https://www.sudugu.org/5311/"
+      },
+      {
+        "name": "奶爸学园",
+        "url": "https://www.sudugu.org/202/"
+      },
+      {
+        "name": "国运迷宫求生：就我看懂汉字提示",
+        "url": "https://www.sudugu.org/5260/"
+      },
+      {
+        "name": "这反派谁爱当谁当，我考公上岸了",
+        "url": "https://www.sudugu.org/5240/"
+      },
+      {
+        "name": "全民抽卡转职，我一抽满命！",
+        "url": "https://www.sudugu.org/3166/"
+      },
+      {
+        "name": "美利坚：邻居太太实在太热情了",
+        "url": "https://www.sudugu.org/5094/"
+      },
+      {
+        "name": "我在北极圈当地主",
+        "url": "https://www.sudugu.org/3835/"
+      },
+      {
+        "name": "只赚钱不谈情，职业舔狗我最行！",
+        "url": "https://www.sudugu.org/3824/"
+      },
+      {
+        "name": "文娱：开局和天仙妈妈闪婚！",
+        "url": "https://www.sudugu.org/5090/"
+      },
+      {
+        "name": "从烂仔到黑道枭雄",
+        "url": "https://www.sudugu.org/5066/"
+      },
+      {
+        "name": "同学，快收手吧！校规真写不下了",
+        "url": "https://www.sudugu.org/5409/"
+      },
+      {
+        "name": "一觉醒来七年后，娶了校花有了娃",
+        "url": "https://www.sudugu.org/5407/"
+      },
+      {
+        "name": "38岁吃软饭？我选择幼驯染",
+        "url": "https://www.sudugu.org/5393/"
+      },
+      {
+        "name": "别人练功吃苦，你直接速通高武？",
+        "url": "https://www.sudugu.org/2171/"
+      },
+      {
+        "name": "这个神医只想被辞退！",
+        "url": "https://www.sudugu.org/5958/"
+      },
+      {
+        "name": "全球异能：开局觉醒紫霄神雷",
+        "url": "https://www.sudugu.org/2161/"
+      },
+      {
+        "name": "全球僵尸降临，你说道士序列没用",
+        "url": "https://www.sudugu.org/5836/"
+      },
+      {
+        "name": "港综：快收网，他成港岛话事人了",
+        "url": "https://www.sudugu.org/6026/"
+      },
+      {
+        "name": "四合院之将截胡进行到底",
+        "url": "https://www.sudugu.org/3168/"
+      },
+      {
+        "name": "全球觉醒：开局加入聊天群",
+        "url": "https://www.sudugu.org/3542/"
+      },
+      {
+        "name": "武神爹财阀妈，我当躺赢狗怎么了",
+        "url": "https://www.sudugu.org/5269/"
+      },
+      {
+        "name": "人在县城，你说我是大佬？",
+        "url": "https://www.sudugu.org/363/"
+      },
+      {
+        "name": "刚转职法师，技能成精了什么鬼？",
+        "url": "https://www.sudugu.org/5238/"
+      },
+      {
+        "name": "死亡回档，48小时拯救世界",
+        "url": "https://www.sudugu.org/5244/"
+      },
+      {
+        "name": "两界倒爷：从1988到2025",
+        "url": "https://www.sudugu.org/5091/"
+      },
+      {
+        "name": "女装：我男的，绑定全能影后系统",
+        "url": "https://www.sudugu.org/5399/"
+      },
+      {
+        "name": "步步登阶",
+        "url": "https://www.sudugu.org/1867/"
+      },
+      {
+        "name": "租个精神小妹回家过年，气疯全村",
+        "url": "https://www.sudugu.org/5312/"
+      },
+      {
+        "name": "重返二十岁，带失恋儿子会所按摩",
+        "url": "https://www.sudugu.org/5304/"
+      },
+      {
+        "name": "全能仙医",
+        "url": "https://www.sudugu.org/5913/"
+      },
+      {
+        "name": "我在北极抓龙的日子",
+        "url": "https://www.sudugu.org/5248/"
+      },
+      {
+        "name": "游走神话，要我偷耶稣尸体？",
+        "url": "https://www.sudugu.org/5239/"
+      },
+      {
+        "name": "丢掉节操，从征服各路女神开始",
+        "url": "https://www.sudugu.org/5842/"
+      },
+      {
+        "name": "外科教父",
+        "url": "https://www.sudugu.org/3083/"
+      },
+      {
+        "name": "盖世神医",
+        "url": "https://www.sudugu.org/2351/"
+      },
+      {
+        "name": "刚准备高考，离婚逆袭系统来了",
+        "url": "https://www.sudugu.org/78/"
+      },
+      {
+        "name": "谁说法师弱？技能伤害万亿倍增幅",
+        "url": "https://www.sudugu.org/5608/"
+      },
+      {
+        "name": "我百位无敌师父，你怎么跟我斗？",
+        "url": "https://www.sudugu.org/5603/"
+      },
+      {
+        "name": "我真的不想当舔狗了",
+        "url": "https://www.sudugu.org/2932/"
+      },
+      {
+        "name": "我，旧日至高位格，出手无视规则",
+        "url": "https://www.sudugu.org/2168/"
+      },
+      {
+        "name": "十抽农场主？灭星豌豆射手什么鬼",
+        "url": "https://www.sudugu.org/5502/"
+      },
+      {
+        "name": "谁说这孩子出生，这孩子可太棒了",
+        "url": "https://www.sudugu.org/5261/"
+      },
+      {
+        "name": "我把留守村打造成了首富村",
+        "url": "https://www.sudugu.org/5415/"
+      },
+      {
+        "name": "重生70年代，开局接盘美艳娇妻",
+        "url": "https://www.sudugu.org/5396/"
+      },
+      {
+        "name": "重生：我老婆是天后",
+        "url": "https://www.sudugu.org/248/"
+      },
+      {
+        "name": "凤流表嫂",
+        "url": "https://www.sudugu.org/6025/"
+      },
+      {
+        "name": "重生后我怎么多了个青梅",
+        "url": "https://www.sudugu.org/3460/"
+      },
+      {
+        "name": "鎏金岁月：带娃渔猎长白山",
+        "url": "https://www.sudugu.org/5425/"
+      },
+      {
+        "name": "我的病娇机械妻",
+        "url": "https://www.sudugu.org/5313/"
+      },
+      {
+        "name": "文娱：艺术就是煤老板！",
+        "url": "https://www.sudugu.org/3796/"
+      },
+      {
+        "name": "国运求生：我靠签到万倍返还龙国",
+        "url": "https://www.sudugu.org/5179/"
+      },
+      {
+        "name": "直播鉴宝，我竟成了国宝级专家？",
+        "url": "https://www.sudugu.org/6049/"
+      },
+      {
+        "name": "你们刷怪啊，刷我干嘛！",
+        "url": "https://www.sudugu.org/2174/"
+      },
+      {
+        "name": "从山寨老头乐，到工业霸主",
+        "url": "https://www.sudugu.org/395/"
+      },
+      {
+        "name": "开局负债，我靠举报成首富",
+        "url": "https://www.sudugu.org/5944/"
+      },
+      {
+        "name": "官方被带歪，国家被零零后入侵了",
+        "url": "https://www.sudugu.org/5255/"
+      },
+      {
+        "name": "爹魔尊，娘圣主，我不啃老干嘛？",
+        "url": "https://www.sudugu.org/5206/"
+      },
+      {
+        "name": "1983从供销社保卫处开始",
+        "url": "https://www.sudugu.org/5514/"
+      },
+      {
+        "name": "华娱2015，光影艺术家",
+        "url": "https://www.sudugu.org/6045/"
+      },
+      {
+        "name": "半岛小行星",
+        "url": "https://www.sudugu.org/3063/"
+      },
+      {
+        "name": "镇国神婿",
+        "url": "https://www.sudugu.org/3868/"
+      },
+      {
+        "name": "东北修道三十年，世人敬我如敬神",
+        "url": "https://www.sudugu.org/5711/"
+      },
+      {
+        "name": "我体内有条龙",
+        "url": "https://www.sudugu.org/5810/"
+      },
+      {
+        "name": "从1950开始",
+        "url": "https://www.sudugu.org/5776/"
+      },
+      {
+        "name": "边疆杀戮成神，我打爆学院天骄！",
+        "url": "https://www.sudugu.org/5303/"
+      },
+      {
+        "name": "睡了姐姐闺蜜，她竟是我大学教授",
+        "url": "https://www.sudugu.org/5946/"
+      },
+      {
+        "name": "四合院：从摆地摊开始",
+        "url": "https://www.sudugu.org/3968/"
+      },
+      {
+        "name": "黑科技创业：我真是造手机的啊！",
+        "url": "https://www.sudugu.org/3468/"
+      },
+      {
+        "name": "全世界觉醒者都听着：老子是灾厄",
+        "url": "https://www.sudugu.org/2165/"
+      },
+      {
+        "name": "全身瘫痪，系统让我每天五公里",
+        "url": "https://www.sudugu.org/6032/"
+      },
+      {
+        "name": "才刚出生，离婚逆袭系统就来了",
+        "url": "https://www.sudugu.org/5075/"
+      },
+      {
+        "name": "娱乐：开局和大蜜蜜离婚",
+        "url": "https://www.sudugu.org/5454/"
+      },
+      {
+        "name": "枭龙出山",
+        "url": "https://www.sudugu.org/5427/"
+      },
+      {
+        "name": "忽悠华娱三十年",
+        "url": "https://www.sudugu.org/3082/"
+      },
+      {
+        "name": "梦回1997，我成了网文鼻祖",
+        "url": "https://www.sudugu.org/3077/"
+      },
+      {
+        "name": "高武：别人练武你修仙？",
+        "url": "https://www.sudugu.org/5920/"
+      },
+      {
+        "name": "觉醒打铁天赋？我锻神装你当仙！",
+        "url": "https://www.sudugu.org/5907/"
+      },
+      {
+        "name": "全体起立！真龙归来！",
+        "url": "https://www.sudugu.org/3865/"
+      },
+      {
+        "name": "女子监狱出真龙，出狱后全球震动",
+        "url": "https://www.sudugu.org/5116/"
+      },
+      {
+        "name": "影综魂穿两界当富豪",
+        "url": "https://www.sudugu.org/2547/"
+      },
+      {
+        "name": "我，圈钱主播！但大哥是真刷啊！",
+        "url": "https://www.sudugu.org/5087/"
+      },
+      {
+        "name": "入狱第一天，直接干翻监区老大",
+        "url": "https://www.sudugu.org/3912/"
+      },
+      {
+        "name": "1978：从参军开始的文豪",
+        "url": "https://www.sudugu.org/2070/"
+      },
+      {
+        "name": "重生1976：开局迎娶资本家大小姐",
+        "url": "https://www.sudugu.org/5382/"
+      },
+      {
+        "name": "龙凤培元功",
+        "url": "https://www.sudugu.org/5604/"
+      },
+      {
+        "name": "四合院：带着娄晓娥提前躺平",
+        "url": "https://www.sudugu.org/1809/"
+      },
+      {
+        "name": "娱乐：我实在太想进步了",
+        "url": "https://www.sudugu.org/1978/"
+      },
+      {
+        "name": "驴大宝的种田修仙记",
+        "url": "https://www.sudugu.org/2938/"
+      },
+      {
+        "name": "华娱之学院派大导演",
+        "url": "https://www.sudugu.org/1946/"
+      },
+      {
+        "name": "网球：他实在太听劝了！",
+        "url": "https://www.sudugu.org/332/"
+      },
+      {
+        "name": "我单身后，富婆姐姐圈蠢蠢欲动",
+        "url": "https://www.sudugu.org/3870/"
+      },
+      {
+        "name": "税收只在机枪射程内！",
+        "url": "https://www.sudugu.org/270/"
+      },
+      {
+        "name": "韩城：我与未来有扇门",
+        "url": "https://www.sudugu.org/93/"
+      },
+      {
+        "name": "赛车娘世界：我有神级改装词条！",
+        "url": "https://www.sudugu.org/3705/"
+      },
+      {
+        "name": "带着一亿年终奖回家过年",
+        "url": "https://www.sudugu.org/5081/"
+      },
+      {
+        "name": "嫌弃我送外卖，分手了你哭什么？",
+        "url": "https://www.sudugu.org/3631/"
+      },
+      {
+        "name": "四合院：垂钓诸天万物",
+        "url": "https://www.sudugu.org/1669/"
+      },
+      {
+        "name": "一元首充：我竟是五百强幕后老板",
+        "url": "https://www.sudugu.org/5490/"
+      },
+      {
+        "name": "堡垒无限食物，隔壁女神绷不住了",
+        "url": "https://www.sudugu.org/5482/"
+      },
+      {
+        "name": "天物觉醒：我能刻印一切",
+        "url": "https://www.sudugu.org/2941/"
+      },
+      {
+        "name": "我，无法收容",
+        "url": "https://www.sudugu.org/5247/"
+      },
+      {
+        "name": "妙手大仙医",
+        "url": "https://www.sudugu.org/3292/"
+      },
+      {
+        "name": "我不是戏神",
+        "url": "https://www.sudugu.org/617/"
+      },
+      {
+        "name": "趁我青涩，校花姐姐想要玩养成？",
+        "url": "https://www.sudugu.org/5155/"
+      },
+      {
+        "name": "真龙出狱，我无敌你随意",
+        "url": "https://www.sudugu.org/3515/"
+      },
+      {
+        "name": "大一实习，你跑去749收容怪物",
+        "url": "https://www.sudugu.org/2414/"
+      },
+      {
+        "name": "北电艺考，系统说是合欢宗",
+        "url": "https://www.sudugu.org/5159/"
+      },
+      {
+        "name": "SSSSSSSSSSSSSS满级神医",
+        "url": "https://www.sudugu.org/1868/"
+      },
+      {
+        "name": "我本凡卒铸青锋，背剑斩尽天上人",
+        "url": "https://www.sudugu.org/5245/"
+      },
+      {
+        "name": "都市大妖医",
+        "url": "https://www.sudugu.org/2343/"
+      },
+      {
+        "name": "娱乐：我就是顶峰",
+        "url": "https://www.sudugu.org/3470/"
+      },
+      {
+        "name": "1985：开局大雪封门",
+        "url": "https://www.sudugu.org/5520/"
+      },
+      {
+        "name": "半岛：恋爱系爱豆",
+        "url": "https://www.sudugu.org/5130/"
+      },
+      {
+        "name": "反派模拟：开局被挖走至尊帝骨",
+        "url": "https://www.sudugu.org/3606/"
+      },
+      {
+        "name": "华娱98，随心所欲大导演",
+        "url": "https://www.sudugu.org/3495/"
+      },
+      {
+        "name": "中药逆袭：从每日情报开始",
+        "url": "https://www.sudugu.org/3494/"
+      },
+      {
+        "name": "华娱从跑男开始",
+        "url": "https://www.sudugu.org/3476/"
+      },
+      {
+        "name": "1983：我在东京做游戏",
+        "url": "https://www.sudugu.org/3469/"
+      },
+      {
+        "name": "四合院：重生傻柱奖励超强体魄",
+        "url": "https://www.sudugu.org/2066/"
+      },
+      {
+        "name": "半岛：从躲在idol衣柜里开始",
+        "url": "https://www.sudugu.org/348/"
+      },
+      {
+        "name": "人在狼旅，军令执行就变强",
+        "url": "https://www.sudugu.org/224/"
+      },
+      {
+        "name": "堂哥带我去淘金",
+        "url": "https://www.sudugu.org/3781/"
+      },
+      {
+        "name": "我在美国拼高达",
+        "url": "https://www.sudugu.org/5440/"
+      },
+      {
+        "name": "什么叫我是怪谈？",
+        "url": "https://www.sudugu.org/2663/"
+      },
+      {
+        "name": "咸鱼重生",
+        "url": "https://www.sudugu.org/3225/"
+      },
+      {
+        "name": "我在半岛当财阀继承人",
+        "url": "https://www.sudugu.org/5951/"
+      },
+      {
+        "name": "从谎言之神到诸世之主",
+        "url": "https://www.sudugu.org/3459/"
+      },
+      {
+        "name": "娱乐圈的老实人",
+        "url": "https://www.sudugu.org/2478/"
+      },
+      {
+        "name": "以神通之名",
+        "url": "https://www.sudugu.org/223/"
+      },
+      {
+        "name": "我的智商逐年递增",
+        "url": "https://www.sudugu.org/5553/"
+      },
+      {
+        "name": "我都飞升了，你叫我去高考？",
+        "url": "https://www.sudugu.org/3815/"
+      },
+      {
+        "name": "天才之上",
+        "url": "https://www.sudugu.org/2786/"
+      },
+      {
+        "name": "1984：从破产川菜馆开始",
+        "url": "https://www.sudugu.org/79/"
+      },
+      {
+        "name": "我在北美当地主",
+        "url": "https://www.sudugu.org/1929/"
+      },
+      {
+        "name": "救！珍稀动物把我家当月子中心了",
+        "url": "https://www.sudugu.org/5843/"
+      },
+      {
+        "name": "我，枪神！",
+        "url": "https://www.sudugu.org/3202/"
+      },
+      {
+        "name": "下山后，漂亮姐姐蠢蠢欲动",
+        "url": "https://www.sudugu.org/3514/"
+      },
+      {
+        "name": "舔狗反派只想苟，女主不按套路走！",
+        "url": "https://www.sudugu.org/1700/"
+      },
+      {
+        "name": "离婚后，我权势滔天，你哭什么",
+        "url": "https://www.sudugu.org/5118/"
+      },
+      {
+        "name": "从高校学霸到科研大能",
+        "url": "https://www.sudugu.org/2531/"
+      },
+      {
+        "name": "重生1977大时代",
+        "url": "https://www.sudugu.org/318/"
+      },
+      {
+        "name": "重生从1993开始",
+        "url": "https://www.sudugu.org/293/"
+      },
+      {
+        "name": "重生：我是县城豪门",
+        "url": "https://www.sudugu.org/272/"
+      },
+      {
+        "name": "重生的我超有追求",
+        "url": "https://www.sudugu.org/2991/"
+      },
+      {
+        "name": "在线鉴宠，大哥这狗认为在训你啊",
+        "url": "https://www.sudugu.org/2058/"
+      },
+      {
+        "name": "东京医途",
+        "url": "https://www.sudugu.org/3339/"
+      },
+      {
+        "name": "华娱情报王",
+        "url": "https://www.sudugu.org/159/"
+      },
+      {
+        "name": "贫道要考大学",
+        "url": "https://www.sudugu.org/114/"
+      },
+      {
+        "name": "绝对之门",
+        "url": "https://www.sudugu.org/1945/"
+      },
+      {
+        "name": "都重生了谁考公务员啊",
+        "url": "https://www.sudugu.org/61/"
+      },
+      {
+        "name": "游戏制作：从重铸二次元游戏开始",
+        "url": "https://www.sudugu.org/396/"
+      },
+      {
+        "name": "傲世潜龙",
+        "url": "https://www.sudugu.org/3303/"
+      },
+      {
+        "name": "万界国运：我是熊猫我怕谁",
+        "url": "https://www.sudugu.org/5530/"
+      },
+      {
+        "name": "继承道观，开局武媚娘来上香",
+        "url": "https://www.sudugu.org/237/"
+      },
+      {
+        "name": "我在网购平台薅的全是真货",
+        "url": "https://www.sudugu.org/212/"
+      },
+      {
+        "name": "噩梦使徒",
+        "url": "https://www.sudugu.org/203/"
+      },
+      {
+        "name": "继承荒山：直接改造10A级景区",
+        "url": "https://www.sudugu.org/3853/"
+      },
+      {
+        "name": "沸腾时代",
+        "url": "https://www.sudugu.org/179/"
+      },
+      {
+        "name": "网贷十万开启人生模拟，我爽死！",
+        "url": "https://www.sudugu.org/5394/"
+      },
+      {
+        "name": "我具现了蜀山游戏",
+        "url": "https://www.sudugu.org/173/"
+      },
+      {
+        "name": "半岛之我真是顶流",
+        "url": "https://www.sudugu.org/3084/"
+      },
+      {
+        "name": "文豪1979：人民文学家",
+        "url": "https://www.sudugu.org/3797/"
+      },
+      {
+        "name": "多我一个后富怎么了",
+        "url": "https://www.sudugu.org/97/"
+      },
+      {
+        "name": "我都元婴了，你说我没穿越？",
+        "url": "https://www.sudugu.org/3979/"
+      },
+      {
+        "name": "这个杀手是赘婿",
+        "url": "https://www.sudugu.org/2426/"
+      },
+      {
+        "name": "我不是天才刑警",
+        "url": "https://www.sudugu.org/1938/"
+      },
+      {
+        "name": "港片，开局找巴闭借五百万",
+        "url": "https://www.sudugu.org/5211/"
+      },
+      {
+        "name": "重生都市仙帝",
+        "url": "https://www.sudugu.org/3864/"
+      },
+      {
+        "name": "让你写歌，没让你制霸娱乐圈啊！",
+        "url": "https://www.sudugu.org/3976/"
+      },
+      {
+        "name": "什么召唤系，我不是在请神吗？",
+        "url": "https://www.sudugu.org/5956/"
+      },
+      {
+        "name": "这个明星正得发邪",
+        "url": "https://www.sudugu.org/190/"
+      },
+      {
+        "name": "财富自由从毕业开始",
+        "url": "https://www.sudugu.org/2988/"
+      },
+      {
+        "name": "公路求生：大佬咋在验收怪物物资",
+        "url": "https://www.sudugu.org/5592/"
+      },
+      {
+        "name": "1994：菜农逆袭",
+        "url": "https://www.sudugu.org/2071/"
+      },
+      {
+        "name": "特拉福买家俱乐部",
+        "url": "https://www.sudugu.org/3421/"
+      },
+      {
+        "name": "高武校长，我的实力是全校总和！",
+        "url": "https://www.sudugu.org/3324/"
+      },
+      {
+        "name": "重回1982小渔村",
+        "url": "https://www.sudugu.org/68/"
+      },
+      {
+        "name": "我都元婴期了你跟我说开学",
+        "url": "https://www.sudugu.org/2342/"
+      },
+      {
+        "name": "重生回来：权势滔天",
+        "url": "https://www.sudugu.org/3991/"
+      },
+      {
+        "name": "桃花劫",
+        "url": "https://www.sudugu.org/3512/"
+      },
+      {
+        "name": "全县每人每天给我一块钱",
+        "url": "https://www.sudugu.org/6022/"
+      },
+      {
+        "name": "1987我的年代",
+        "url": "https://www.sudugu.org/103/"
+      },
+      {
+        "name": "SSSSSSSSSSSSS级镇狱狂龙",
+        "url": "https://www.sudugu.org/5275/"
+      },
+      {
+        "name": "开局上交修仙界，国家让我先成仙",
+        "url": "https://www.sudugu.org/3608/"
+      },
+      {
+        "name": "魅力点满，继承游戏资产",
+        "url": "https://www.sudugu.org/74/"
+      },
+      {
+        "name": "Z世代艺术家",
+        "url": "https://www.sudugu.org/69/"
+      },
+      {
+        "name": "序列：吃神者",
+        "url": "https://www.sudugu.org/1702/"
+      },
+      {
+        "name": "高冷女王赖上我",
+        "url": "https://www.sudugu.org/5114/"
+      },
+      {
+        "name": "重生：开局遇到高冷校花武馆按摩",
+        "url": "https://www.sudugu.org/5397/"
+      },
+      {
+        "name": "国运求生，我靠情报系统养活国家",
+        "url": "https://www.sudugu.org/5154/"
+      },
+      {
+        "name": "阴影帝国",
+        "url": "https://www.sudugu.org/614/"
+      },
+      {
+        "name": "都重生了谁还混社会",
+        "url": "https://www.sudugu.org/5593/"
+      },
+      {
+        "name": "都重生了还不能是个富二代啊",
+        "url": "https://www.sudugu.org/3152/"
+      },
+      {
+        "name": "让你当搅屎棍，你整顿了娱乐圈？",
+        "url": "https://www.sudugu.org/5082/"
+      },
+      {
+        "name": "重生后我多了一个姐姐",
+        "url": "https://www.sudugu.org/5374/"
+      },
+      {
+        "name": "系统：稳住，别浪！",
+        "url": "https://www.sudugu.org/5595/"
+      },
+      {
+        "name": "重生1985，少年大有可为",
+        "url": "https://www.sudugu.org/5591/"
+      },
+      {
+        "name": "上岸斩我？参加恋综火爆全网！",
+        "url": "https://www.sudugu.org/5077/"
+      },
+      {
+        "name": "美利坚头号玩家",
+        "url": "https://www.sudugu.org/3076/"
+      },
+      {
+        "name": "半岛：和金泰妍传绯闻后开始爆火",
+        "url": "https://www.sudugu.org/5827/"
+      },
+      {
+        "name": "东莞发财日记",
+        "url": "https://www.sudugu.org/5659/"
+      },
+      {
+        "name": "激情岁月：在北大荒渔猎的日子",
+        "url": "https://www.sudugu.org/5510/"
+      },
+      {
+        "name": "这聊天群就我一个活人？",
+        "url": "https://www.sudugu.org/3775/"
+      },
+      {
+        "name": "重生2012，开局5个亿",
+        "url": "https://www.sudugu.org/3462/"
+      },
+      {
+        "name": "妖尸不可食？快，趁热送我家火葬",
+        "url": "https://www.sudugu.org/3850/"
+      },
+      {
+        "name": "混沌圣体，开局被仙子强迫双修",
+        "url": "https://www.sudugu.org/5606/"
+      },
+      {
+        "name": "1986：我的普罗旺斯幸福生活",
+        "url": "https://www.sudugu.org/3074/"
+      },
+      {
+        "name": "1977，赶山打猎娶女知青",
+        "url": "https://www.sudugu.org/3737/"
+      },
+      {
+        "name": "修仙弃徒，回乡种田唱歌",
+        "url": "https://www.sudugu.org/2742/"
+      },
+      {
+        "name": "1990：刑侦档案",
+        "url": "https://www.sudugu.org/2658/"
+      },
+      {
+        "name": "我修的老物件成精了",
+        "url": "https://www.sudugu.org/2679/"
+      },
+      {
+        "name": "好莱坞从经纪人开始",
+        "url": "https://www.sudugu.org/2268/"
+      },
+      {
+        "name": "重生08，邪修创业",
+        "url": "https://www.sudugu.org/2159/"
+      },
+      {
+        "name": "被迫登顶福布斯的那些年",
+        "url": "https://www.sudugu.org/2076/"
+      },
+      {
+        "name": "半岛1984：我太忠诚了",
+        "url": "https://www.sudugu.org/2063/"
+      },
+      {
+        "name": "穿在1977",
+        "url": "https://www.sudugu.org/1976/"
+      },
+      {
+        "name": "白衣披甲",
+        "url": "https://www.sudugu.org/1975/"
+      },
+      {
+        "name": "四合院：从天道酬勤开始",
+        "url": "https://www.sudugu.org/1939/"
+      },
+      {
+        "name": "重回1986当寡头",
+        "url": "https://www.sudugu.org/1928/"
+      },
+      {
+        "name": "这个导演没有格局",
+        "url": "https://www.sudugu.org/294/"
+      },
+      {
+        "name": "主公，你要支棱起来呀",
+        "url": "https://www.sudugu.org/262/"
+      },
+      {
+        "name": "死刑变无罪？谁叫他做侦探的！",
+        "url": "https://www.sudugu.org/232/"
+      },
+      {
+        "name": "华娱1995",
+        "url": "https://www.sudugu.org/129/"
+      },
+      {
+        "name": "美利坚打猎：从荒野独居开始",
+        "url": "https://www.sudugu.org/102/"
+      },
+      {
+        "name": "四合院：从铁路技工开始进步",
+        "url": "https://www.sudugu.org/5957/"
+      },
+      {
+        "name": "工程师的学霸系统",
+        "url": "https://www.sudugu.org/5681/"
+      },
+      {
+        "name": "来财",
+        "url": "https://www.sudugu.org/3941/"
+      },
+      {
+        "name": "我一个顶流捧小花很合理吧？",
+        "url": "https://www.sudugu.org/3937/"
+      },
+      {
+        "name": "华娱从雪姨开始",
+        "url": "https://www.sudugu.org/3497/"
+      },
+      {
+        "name": "傩面之下",
+        "url": "https://www.sudugu.org/3493/"
+      },
+      {
+        "name": "没点毛病谁学心理学啊",
+        "url": "https://www.sudugu.org/3471/"
+      },
+      {
+        "name": "人在华娱，降维打击！",
+        "url": "https://www.sudugu.org/3081/"
+      },
+      {
+        "name": "华娱大满贯影帝的诞生",
+        "url": "https://www.sudugu.org/3079/"
+      },
+      {
+        "name": "人到中年，我的情报每日刷新",
+        "url": "https://www.sudugu.org/2992/"
+      },
+      {
+        "name": "缔造美利坚：我竞选经理是罗斯福",
+        "url": "https://www.sudugu.org/2977/"
+      },
+      {
+        "name": "我在动物园御兽修仙",
+        "url": "https://www.sudugu.org/2707/"
+      },
+      {
+        "name": "投资失败后，天后老婆让我吃软饭",
+        "url": "https://www.sudugu.org/2552/"
+      },
+      {
+        "name": "我在恐怖世界横练肉身",
+        "url": "https://www.sudugu.org/2196/"
+      },
+      {
+        "name": "高武：变身软妹后，我成了灾厄？",
+        "url": "https://www.sudugu.org/5242/"
+      },
+      {
+        "name": "重生95流金岁月",
+        "url": "https://www.sudugu.org/1933/"
+      },
+      {
+        "name": "没钱当什么导演啊",
+        "url": "https://www.sudugu.org/1861/"
+      },
+      {
+        "name": "中东暴君",
+        "url": "https://www.sudugu.org/337/"
+      },
+      {
+        "name": "刚上大学，我成了兼职奶爸",
+        "url": "https://www.sudugu.org/5874/"
+      },
+      {
+        "name": "重生后，恋爱优势在我！",
+        "url": "https://www.sudugu.org/3798/"
+      },
+      {
+        "name": "华娱从洪世贤开始",
+        "url": "https://www.sudugu.org/326/"
+      },
+      {
+        "name": "弱小友善的我",
+        "url": "https://www.sudugu.org/3336/"
+      },
+      {
+        "name": "华娱：重生了，还逼我做渣男啊",
+        "url": "https://www.sudugu.org/247/"
+      },
+      {
+        "name": "1978合成系文豪",
+        "url": "https://www.sudugu.org/5918/"
+      },
+      {
+        "name": "塌房？我拆了你这破娱乐圈",
+        "url": "https://www.sudugu.org/5819/"
+      },
+      {
+        "name": "转职诡异灾厄，国家求我收敛点",
+        "url": "https://www.sudugu.org/5246/"
+      },
+      {
+        "name": "主播：男生女相七擒大马猴",
+        "url": "https://www.sudugu.org/3795/"
+      },
+      {
+        "name": "重生08：装备系男神",
+        "url": "https://www.sudugu.org/112/"
+      },
+      {
+        "name": "华娱：屁股坐正了吗？你就当导演",
+        "url": "https://www.sudugu.org/2271/"
+      },
+      {
+        "name": "全民卡牌：我是内测红卡玩家",
+        "url": "https://www.sudugu.org/3900/"
+      },
+      {
+        "name": "文娱：1990",
+        "url": "https://www.sudugu.org/3501/"
+      },
+      {
+        "name": "重生2015，高中开始做男神",
+        "url": "https://www.sudugu.org/1944/"
+      },
+      {
+        "name": "东京除灵日记",
+        "url": "https://www.sudugu.org/5644/"
+      },
+      {
+        "name": "说好做游戏，五千年历史什么鬼？",
+        "url": "https://www.sudugu.org/5341/"
+      },
+      {
+        "name": "华娱之软饭王",
+        "url": "https://www.sudugu.org/3496/"
+      },
+      {
+        "name": "华娱：分手之后当巨星",
+        "url": "https://www.sudugu.org/5778/"
+      },
+      {
+        "name": "重回五八：从肝职业面板开始",
+        "url": "https://www.sudugu.org/5639/"
+      },
+      {
+        "name": "这个医生技术没有上限？",
+        "url": "https://www.sudugu.org/5474/"
+      },
+      {
+        "name": "顶流手记",
+        "url": "https://www.sudugu.org/5028/"
+      },
+      {
+        "name": "1994：我在美国做文豪",
+        "url": "https://www.sudugu.org/5023/"
+      },
+      {
+        "name": "华娱：从影视出品人开始",
+        "url": "https://www.sudugu.org/3461/"
+      },
+      {
+        "name": "文豪1983",
+        "url": "https://www.sudugu.org/3451/"
+      },
+      {
+        "name": "循规蹈矩能叫重生吗？",
+        "url": "https://www.sudugu.org/3186/"
+      },
+      {
+        "name": "重生08：从山寨机开始崛起",
+        "url": "https://www.sudugu.org/3071/"
+      },
+      {
+        "name": "我在泡沫东京画漫画",
+        "url": "https://www.sudugu.org/3008/"
+      },
+      {
+        "name": "刚成关系户，医疗模拟系统来了",
+        "url": "https://www.sudugu.org/2545/"
+      },
+      {
+        "name": "重生之煤老板旗下的艺人",
+        "url": "https://www.sudugu.org/2082/"
+      },
+      {
+        "name": "直播相亲：我的情报无限刷新",
+        "url": "https://www.sudugu.org/2067/"
+      },
+      {
+        "name": "我一个三金导演十项全能很合理吧",
+        "url": "https://www.sudugu.org/1940/"
+      },
+      {
+        "name": "半岛：影帝从分手开始",
+        "url": "https://www.sudugu.org/3482/"
+      },
+      {
+        "name": "激情年代：开局成为七级工程师",
+        "url": "https://www.sudugu.org/235/"
+      },
+      {
+        "name": "重生97，我在市局破悬案",
+        "url": "https://www.sudugu.org/192/"
+      },
+      {
+        "name": "东京文豪，从被大小姐追求开始",
+        "url": "https://www.sudugu.org/3794/"
+      },
+      {
+        "name": "混在模特圈，我的情报每日刷新",
+        "url": "https://www.sudugu.org/2224/"
+      },
+      {
+        "name": "种气全球",
+        "url": "https://www.sudugu.org/3855/"
+      },
+      {
+        "name": "没钱赛什么车？",
+        "url": "https://www.sudugu.org/3454/"
+      },
+      {
+        "name": "混在墨西哥当警察",
+        "url": "https://www.sudugu.org/3072/"
+      },
+      {
+        "name": "屠狗之辈",
+        "url": "https://www.sudugu.org/2350/"
+      },
+      {
+        "name": "华娱2010：从广告模特开始！",
+        "url": "https://www.sudugu.org/3503/"
+      },
+      {
+        "name": "重生华娱，但绑定了罪犯系统",
+        "url": "https://www.sudugu.org/3491/"
+      },
+      {
+        "name": "1983我的文豪时代",
+        "url": "https://www.sudugu.org/3489/"
+      },
+      {
+        "name": "高武：陪练十年，一招出手天下知",
+        "url": "https://www.sudugu.org/3488/"
+      },
+      {
+        "name": "华娱从模拟恋爱开始",
+        "url": "https://www.sudugu.org/3487/"
+      },
+      {
+        "name": "唯我独仙：重生的我悠闲修仙",
+        "url": "https://www.sudugu.org/3466/"
+      },
+      {
+        "name": "说好等死，天官非要赐我成仙",
+        "url": "https://www.sudugu.org/3453/"
+      },
+      {
+        "name": "文豪1978：我得给文坛上堂课",
+        "url": "https://www.sudugu.org/3075/"
+      },
+      {
+        "name": "大国航空，从西工大开始崛起",
+        "url": "https://www.sudugu.org/2994/"
+      },
+      {
+        "name": "重生88：从拒绝前妻开始暴富",
+        "url": "https://www.sudugu.org/2989/"
+      },
+      {
+        "name": "美利坚，我的系统来自1885年",
+        "url": "https://www.sudugu.org/2666/"
+      },
+      {
+        "name": "华娱从模擬恋爱开始",
+        "url": "https://www.sudugu.org/2556/"
+      },
+      {
+        "name": "爆发吧，武医生",
+        "url": "https://www.sudugu.org/2549/"
+      },
+      {
+        "name": "华娱从体育生开始",
+        "url": "https://www.sudugu.org/2069/"
+      },
+      {
+        "name": "没钱混什么娱乐圈",
+        "url": "https://www.sudugu.org/1930/"
+      },
+      {
+        "name": "华娱：全球巨星从玩咖开始",
+        "url": "https://www.sudugu.org/3089/"
+      },
+      {
+        "name": "过年回家，与三个精神小妹挤大巴",
+        "url": "https://www.sudugu.org/5377/"
+      },
+      {
+        "name": "重生了，回到小县城当豪门",
+        "url": "https://www.sudugu.org/3065/"
+      },
+      {
+        "name": "整座大山都是我的猎场",
+        "url": "https://www.sudugu.org/107/"
+      },
+      {
+        "name": "我一心科研，你却想骗我谈恋爱？",
+        "url": "https://www.sudugu.org/1771/"
+      },
+      {
+        "name": "离职小米后，我成了友商公敌",
+        "url": "https://www.sudugu.org/314/"
+      },
+      {
+        "name": "我借兄弟五百块，他拿老婆来抵债",
+        "url": "https://www.sudugu.org/5272/"
+      },
+      {
+        "name": "我的学习群里全是真大佬",
+        "url": "https://www.sudugu.org/5507/"
+      },
+      {
+        "name": "医学美利坚：我靠恶魔度过斩杀线",
+        "url": "https://www.sudugu.org/5503/"
+      },
+      {
+        "name": "阿拉斯加大地主",
+        "url": "https://www.sudugu.org/5475/"
+      },
+      {
+        "name": "华娱1997：公知粉碎机",
+        "url": "https://www.sudugu.org/3789/"
+      },
+      {
+        "name": "穿越七零做外贸",
+        "url": "https://www.sudugu.org/3499/"
+      },
+      {
+        "name": "半岛白金时代",
+        "url": "https://www.sudugu.org/3478/"
+      },
+      {
+        "name": "1980：从报名参军开始",
+        "url": "https://www.sudugu.org/3458/"
+      },
+      {
+        "name": "文娱2000：捧女明星百倍返利",
+        "url": "https://www.sudugu.org/3456/"
+      },
+      {
+        "name": "日常系综影：我的超能力每季刷新",
+        "url": "https://www.sudugu.org/3085/"
+      },
+      {
+        "name": "香江风云：扎职为王",
+        "url": "https://www.sudugu.org/3067/"
+      },
+      {
+        "name": "50年代：从一枚储物戒开始",
+        "url": "https://www.sudugu.org/3064/"
+      },
+      {
+        "name": "美娱：没人比我更懂娱乐圈",
+        "url": "https://www.sudugu.org/3800/"
+      },
+      {
+        "name": "1977：开局相亲女儿国王",
+        "url": "https://www.sudugu.org/3062/"
+      },
+      {
+        "name": "文娱：你们的皇帝回来了",
+        "url": "https://www.sudugu.org/2702/"
+      },
+      {
+        "name": "别胡说，我这是人皇幡",
+        "url": "https://www.sudugu.org/2662/"
+      },
+      {
+        "name": "万界酒店：禁止钢铁侠充电",
+        "url": "https://www.sudugu.org/2555/"
+      },
+      {
+        "name": "拍戏，获得超能力",
+        "url": "https://www.sudugu.org/2229/"
+      },
+      {
+        "name": "神豪从逆袭人生开始",
+        "url": "https://www.sudugu.org/1932/"
+      },
+      {
+        "name": "四合院里的大国宗师",
+        "url": "https://www.sudugu.org/311/"
+      },
+      {
+        "name": "徒儿，下山祸害你绝色师姐们去吧",
+        "url": "https://www.sudugu.org/5538/"
+      },
+      {
+        "name": "绑定打卡系统，我成了悠闲旅行家",
+        "url": "https://www.sudugu.org/222/"
+      },
+      {
+        "name": "叫谁小鲜肉，我是天王",
+        "url": "https://www.sudugu.org/3013/"
+      },
+      {
+        "name": "没钱怎么当明星",
+        "url": "https://www.sudugu.org/2189/"
+      },
+      {
+        "name": "人在欧洲，我是古董军火商",
+        "url": "https://www.sudugu.org/3484/"
+      },
+      {
+        "name": "美利坚斩杀线？我超凡不吃牛肉！",
+        "url": "https://www.sudugu.org/5930/"
+      },
+      {
+        "name": "重生08，我被确诊为医学泰斗",
+        "url": "https://www.sudugu.org/5786/"
+      },
+      {
+        "name": "穿越04，我把美国航母炸了",
+        "url": "https://www.sudugu.org/5784/"
+      },
+      {
+        "name": "菩萨，请助我修行！",
+        "url": "https://www.sudugu.org/5771/"
+      },
+      {
+        "name": "半岛之秘密信息",
+        "url": "https://www.sudugu.org/3490/"
+      },
+      {
+        "name": "华娱从讨薪到影帝",
+        "url": "https://www.sudugu.org/3467/"
+      },
+      {
+        "name": "华娱，这个美术生想当导演",
+        "url": "https://www.sudugu.org/2075/"
+      },
+      {
+        "name": "华娱：这个明星不讲规矩",
+        "url": "https://www.sudugu.org/1858/"
+      },
+      {
+        "name": "最佳导演的诞生",
+        "url": "https://www.sudugu.org/345/"
+      },
+      {
+        "name": "让你搞垮公司，塞尔达是什么鬼？",
+        "url": "https://www.sudugu.org/5962/"
+      },
+      {
+        "name": "回到红火岁月做俗人",
+        "url": "https://www.sudugu.org/1982/"
+      },
+      {
+        "name": "1988从蔬菜大棚开始",
+        "url": "https://www.sudugu.org/1765/"
+      },
+      {
+        "name": "猎魔人忙不过来了",
+        "url": "https://www.sudugu.org/5622/"
+      },
+      {
+        "name": "华娱1990，我是电影厂厂长",
+        "url": "https://www.sudugu.org/3500/"
+      },
+      {
+        "name": "我不是文豪",
+        "url": "https://www.sudugu.org/2304/"
+      },
+      {
+        "name": "都重生了，受欢迎很正常吧",
+        "url": "https://www.sudugu.org/5329/"
+      },
+      {
+        "name": "回村后，从绑定峨眉开始赶山",
+        "url": "https://www.sudugu.org/2062/"
+      },
+      {
+        "name": "我的饭馆通北宋",
+        "url": "https://www.sudugu.org/189/"
+      },
+      {
+        "name": "我不是戏疯子，我是真能穿剧本",
+        "url": "https://www.sudugu.org/5873/"
+      },
+      {
+        "name": "四合院：我是十级工气死众禽兽",
+        "url": "https://www.sudugu.org/2473/"
+      },
+      {
+        "name": "赶海：开局一把沙铲承包整个沙滩",
+        "url": "https://www.sudugu.org/3162/"
+      },
+      {
+        "name": "我在中东当王爷",
+        "url": "https://www.sudugu.org/2791/"
+      },
+      {
+        "name": "从文盲开始的顶流时代",
+        "url": "https://www.sudugu.org/5772/"
+      },
+      {
+        "name": "1979黄金时代",
+        "url": "https://www.sudugu.org/59/"
+      },
+      {
+        "name": "当过明星吗，你就写文娱？",
+        "url": "https://www.sudugu.org/2211/"
+      },
+      {
+        "name": "财富自由，从APP破解版开始",
+        "url": "https://www.sudugu.org/3465/"
+      },
+      {
+        "name": "都市狂龙医仙",
+        "url": "https://www.sudugu.org/2940/"
+      },
+      {
+        "name": "呼吸都能变强，你说我最弱天赋？",
+        "url": "https://www.sudugu.org/5060/"
+      },
+      {
+        "name": "重生鉴宝：我真没想当专家",
+        "url": "https://www.sudugu.org/327/"
+      },
+      {
+        "name": "离婚后的我开始转运了",
+        "url": "https://www.sudugu.org/2684/"
+      },
+      {
+        "name": "天理协议",
+        "url": "https://www.sudugu.org/1941/"
+      },
+      {
+        "name": "四合院里的火车司机",
+        "url": "https://www.sudugu.org/1981/"
+      },
+      {
+        "name": "华娱浪子，竟被95花给改造了？",
+        "url": "https://www.sudugu.org/368/"
+      },
+      {
+        "name": "影帝：我谢谢你哦",
+        "url": "https://www.sudugu.org/3070/"
+      },
+      {
+        "name": "重生的我只想当学霸",
+        "url": "https://www.sudugu.org/3429/"
+      },
+      {
+        "name": "从随心所欲开始神豪",
+        "url": "https://www.sudugu.org/5202/"
+      },
+      {
+        "name": "弑神凶兽",
+        "url": "https://www.sudugu.org/5249/"
+      },
+      {
+        "name": "重生八零：我在长白山猎野味发家",
+        "url": "https://www.sudugu.org/2221/"
+      },
+      {
+        "name": "我满级天师，你让我进规则怪谈？",
+        "url": "https://www.sudugu.org/2752/"
+      },
+      {
+        "name": "别人听劝仿明星，你开局扮神明？",
+        "url": "https://www.sudugu.org/5038/"
+      },
+      {
+        "name": "公公，这些武功你真会啊？",
+        "url": "https://www.sudugu.org/3992/"
+      },
+      {
+        "name": "年代：从错娶小姨子开始",
+        "url": "https://www.sudugu.org/3547/"
+      },
+      {
+        "name": "娱乐：从前队友塌房后成顶流",
+        "url": "https://www.sudugu.org/3543/"
+      },
+      {
+        "name": "我的1995小农庄",
+        "url": "https://www.sudugu.org/3090/"
+      },
+      {
+        "name": "我的低保，每天到账1000万",
+        "url": "https://www.sudugu.org/3086/"
+      },
+      {
+        "name": "从水泥厂崛起：我能看见忠诚度",
+        "url": "https://www.sudugu.org/1706/"
+      },
+      {
+        "name": "嫂子：我真不是傻子了",
+        "url": "https://www.sudugu.org/1966/"
+      },
+      {
+        "name": "捞尸人",
+        "url": "https://www.sudugu.org/51/"
+      },
+      {
+        "name": "医路坦途",
+        "url": "https://www.sudugu.org/210/"
+      },
+      {
+        "name": "重生八一渔猎西北",
+        "url": "https://www.sudugu.org/98/"
+      },
+      {
+        "name": "我一个兽医啊！你解锁大医系统！",
+        "url": "https://www.sudugu.org/3069/"
+      },
+      {
+        "name": "从超女开始调教华娱",
+        "url": "https://www.sudugu.org/2061/"
+      },
+      {
+        "name": "地狱行之缅北",
+        "url": "https://www.sudugu.org/6008/"
+      },
+      {
+        "name": "人已中年，这个医生才出道",
+        "url": "https://www.sudugu.org/1942/"
+      },
+      {
+        "name": "重生从艺考状元开始",
+        "url": "https://www.sudugu.org/3088/"
+      },
+      {
+        "name": "1983：弃艺从文开始的文豪",
+        "url": "https://www.sudugu.org/2563/"
+      },
+      {
+        "name": "从入职企鹅视频开始",
+        "url": "https://www.sudugu.org/5782/"
+      },
+      {
+        "name": "说好重生女帝，怎么成我舔狗了？",
+        "url": "https://www.sudugu.org/3170/"
+      },
+      {
+        "name": "内娱顶流：从跑男出道",
+        "url": "https://www.sudugu.org/2265/"
+      },
+      {
+        "name": "华娱浪子，怎么被天仙改造了？",
+        "url": "https://www.sudugu.org/119/"
+      },
+      {
+        "name": "R卡被抛弃，我成SSR你哭什么",
+        "url": "https://www.sudugu.org/5067/"
+      },
+      {
+        "name": "重生2014：我，刑侦之王",
+        "url": "https://www.sudugu.org/1943/"
+      },
+      {
+        "name": "让你代管特长班，怎么全成学霸了？",
+        "url": "https://www.sudugu.org/5998/"
+      },
+      {
+        "name": "四合院之这次终于轮到我了吧！",
+        "url": "https://www.sudugu.org/5439/"
+      },
+      {
+        "name": "传说时代",
+        "url": "https://www.sudugu.org/3872/"
+      },
+      {
+        "name": "比老婆高三个境界，说我吃软饭？",
+        "url": "https://www.sudugu.org/5838/"
+      },
+      {
+        "name": "极限超凡",
+        "url": "https://www.sudugu.org/5833/"
+      },
+      {
+        "name": "1984小海岛，从获得情报开始",
+        "url": "https://www.sudugu.org/3984/"
+      },
+      {
+        "name": "请祖师爷上身",
+        "url": "https://www.sudugu.org/5660/"
+      },
+      {
+        "name": "说好拿游泳冠军，超满贯什么鬼？",
+        "url": "https://www.sudugu.org/2655/"
+      },
+      {
+        "name": "四合院从铁路技工开始进步",
+        "url": "https://www.sudugu.org/5922/"
+      },
+      {
+        "name": "那年华娱",
+        "url": "https://www.sudugu.org/139/"
+      },
+      {
+        "name": "非正常美食文",
+        "url": "https://www.sudugu.org/90/"
+      },
+      {
+        "name": "我在万界送外卖",
+        "url": "https://www.sudugu.org/5943/"
+      },
+      {
+        "name": "一首歌爆红美利坚，我，全球顶流",
+        "url": "https://www.sudugu.org/5076/"
+      },
+      {
+        "name": "火红年代：成为工业巨擘",
+        "url": "https://www.sudugu.org/1937/"
+      },
+      {
+        "name": "鬼门棺",
+        "url": "https://www.sudugu.org/5927/"
+      },
+      {
+        "name": "1968：从养殖开始奋斗",
+        "url": "https://www.sudugu.org/5921/"
+      },
+      {
+        "name": "华娱：从选秀顶流开始",
+        "url": "https://www.sudugu.org/3066/"
+      },
+      {
+        "name": "穿越六六年，开局住牛棚",
+        "url": "https://www.sudugu.org/5320/"
+      },
+      {
+        "name": "重燃青葱时代",
+        "url": "https://www.sudugu.org/123/"
+      },
+      {
+        "name": "这个导演睚眦必报",
+        "url": "https://www.sudugu.org/3546/"
+      },
+      {
+        "name": "夜的命名术",
+        "url": "https://www.sudugu.org/438/"
+      },
+      {
+        "name": "梭哈梭哈！我在华尔街做资本",
+        "url": "https://www.sudugu.org/5506/"
+      },
+      {
+        "name": "消费系男神",
+        "url": "https://www.sudugu.org/5869/"
+      },
+      {
+        "name": "恋爱？重生的我只想爆奖励",
+        "url": "https://www.sudugu.org/5868/"
+      },
+      {
+        "name": "危机处理游戏",
+        "url": "https://www.sudugu.org/5870/"
+      },
+      {
+        "name": "我得给这世界上堂课",
+        "url": "https://www.sudugu.org/5859/"
+      },
+      {
+        "name": "大国重工",
+        "url": "https://www.sudugu.org/5856/"
+      },
+      {
+        "name": "文豪：这孩子打小就聪明",
+        "url": "https://www.sudugu.org/5855/"
+      },
+      {
+        "name": "文明试炼：从华夏永昌开始",
+        "url": "https://www.sudugu.org/5854/"
+      },
+      {
+        "name": "美利坚名利双收",
+        "url": "https://www.sudugu.org/5852/"
+      },
+      {
+        "name": "史上第一混乱",
+        "url": "https://www.sudugu.org/5864/"
+      },
+      {
+        "name": "我真没想出名啊",
+        "url": "https://www.sudugu.org/5860/"
+      },
+      {
+        "name": "重生从娶女知青开始",
+        "url": "https://www.sudugu.org/5848/"
+      },
+      {
+        "name": "您完全不按套路通关是吗",
+        "url": "https://www.sudugu.org/5847/"
+      },
+      {
+        "name": "我的艺人邻居",
+        "url": "https://www.sudugu.org/5846/"
+      },
+      {
+        "name": "重回1980去享福",
+        "url": "https://www.sudugu.org/5845/"
+      },
+      {
+        "name": "生活系神豪",
+        "url": "https://www.sudugu.org/3087/"
+      },
+      {
+        "name": "都市无敌霸主",
+        "url": "https://www.sudugu.org/5039/"
+      },
+      {
+        "name": "疯了吧？离灭世七天，举国搞基建",
+        "url": "https://www.sudugu.org/5273/"
+      },
+      {
+        "name": "捡回家的白玫瑰哭着说喜欢我",
+        "url": "https://www.sudugu.org/5259/"
+      },
+      {
+        "name": "华娱，我的金手指有点怪",
+        "url": "https://www.sudugu.org/3938/"
+      },
+      {
+        "name": "死后成鬼帝，我被女儿契约",
+        "url": "https://www.sudugu.org/5103/"
+      },
+      {
+        "name": "转职老板，全国天才替我打工",
+        "url": "https://www.sudugu.org/5780/"
+      },
+      {
+        "name": "天下神藏",
+        "url": "https://www.sudugu.org/5704/"
+      },
+      {
+        "name": "最狂邪医",
+        "url": "https://www.sudugu.org/3517/"
+      },
+      {
+        "name": "从女子监狱走出的修仙者",
+        "url": "https://www.sudugu.org/3867/"
+      },
+      {
+        "name": "小司机的美女总裁老婆",
+        "url": "https://www.sudugu.org/5119/"
+      },
+      {
+        "name": "别叫我狗贼：玩的脏才站得稳",
+        "url": "https://www.sudugu.org/5537/"
+      },
+      {
+        "name": "无限谜城",
+        "url": "https://www.sudugu.org/5834/"
+      },
+      {
+        "name": "我，影帝！",
+        "url": "https://www.sudugu.org/5830/"
+      },
+      {
+        "name": "重生：开局逮到高冷校花超市偷窃",
+        "url": "https://www.sudugu.org/2079/"
+      },
+      {
+        "name": "修复师",
+        "url": "https://www.sudugu.org/5821/"
+      },
+      {
+        "name": "神藏",
+        "url": "https://www.sudugu.org/5823/"
+      },
+      {
+        "name": "黄金瞳",
+        "url": "https://www.sudugu.org/5822/"
+      },
+      {
+        "name": "天才相师",
+        "url": "https://www.sudugu.org/5820/"
+      },
+      {
+        "name": "重回海岛悠然人生",
+        "url": "https://www.sudugu.org/5818/"
+      },
+      {
+        "name": "从漫画家开始缔造动漫神话",
+        "url": "https://www.sudugu.org/3816/"
+      },
+      {
+        "name": "华娱从代导开始",
+        "url": "https://www.sudugu.org/5814/"
+      },
+      {
+        "name": "重生之大娱乐家系统",
+        "url": "https://www.sudugu.org/5805/"
+      },
+      {
+        "name": "文娱不朽",
+        "url": "https://www.sudugu.org/5804/"
+      },
+      {
+        "name": "神豪从系统宕机开始",
+        "url": "https://www.sudugu.org/5803/"
+      },
+      {
+        "name": "大时代从1983开始",
+        "url": "https://www.sudugu.org/5802/"
+      },
+      {
+        "name": "我能看见状态栏",
+        "url": "https://www.sudugu.org/5798/"
+      },
+      {
+        "name": "重生1983：我要逆天改命",
+        "url": "https://www.sudugu.org/3930/"
+      },
+      {
+        "name": "让你当兵戒网瘾，你成军官了",
+        "url": "https://www.sudugu.org/5801/"
+      },
+      {
+        "name": "孽徒快滚，师娘顶不住啦！",
+        "url": "https://www.sudugu.org/3550/"
+      },
+      {
+        "name": "我的美人师父",
+        "url": "https://www.sudugu.org/3394/"
+      },
+      {
+        "name": "老师，请教我恋爱",
+        "url": "https://www.sudugu.org/5411/"
+      },
+      {
+        "name": "退役后找不到工作，被迫当雇佣兵",
+        "url": "https://www.sudugu.org/5252/"
+      },
+      {
+        "name": "让你办军校，你佣兵百万震慑鹰酱",
+        "url": "https://www.sudugu.org/5734/"
+      },
+      {
+        "name": "偏门之王的自我修养",
+        "url": "https://www.sudugu.org/5408/"
+      },
+      {
+        "name": "回档1978",
+        "url": "https://www.sudugu.org/1931/"
+      },
+      {
+        "name": "开局地摊卖大力",
+        "url": "https://www.sudugu.org/5764/"
+      },
+      {
+        "name": "重生大时代之1993",
+        "url": "https://www.sudugu.org/5758/"
+      },
+      {
+        "name": "逆流纯真年代",
+        "url": "https://www.sudugu.org/5756/"
+      },
+      {
+        "name": "仙人只想躺着",
+        "url": "https://www.sudugu.org/5753/"
+      },
+      {
+        "name": "重生之大娱乐帝国",
+        "url": "https://www.sudugu.org/5750/"
+      },
+      {
+        "name": "首富从AI浪潮开始",
+        "url": "https://www.sudugu.org/5740/"
+      },
+      {
+        "name": "我在美国开监狱",
+        "url": "https://www.sudugu.org/3985/"
+      },
+      {
+        "name": "从上海滩大亨到港岛豪门",
+        "url": "https://www.sudugu.org/2773/"
+      },
+      {
+        "name": "我的26岁女房客",
+        "url": "https://www.sudugu.org/5739/"
+      },
+      {
+        "name": "极品太子在都市",
+        "url": "https://www.sudugu.org/5738/"
+      },
+      {
+        "name": "我是如何当神豪的",
+        "url": "https://www.sudugu.org/5170/"
+      },
+      {
+        "name": "国术！大宗师",
+        "url": "https://www.sudugu.org/1934/"
+      },
+      {
+        "name": "诸天火红年代，冰箱每日刷新",
+        "url": "https://www.sudugu.org/1763/"
+      },
+      {
+        "name": "谁说这顶流癫！这顶流太棒了！",
+        "url": "https://www.sudugu.org/1935/"
+      },
+      {
+        "name": "我都满级号了，你们才刚穿越？",
+        "url": "https://www.sudugu.org/2081/"
+      },
+      {
+        "name": "东京道士异闻录",
+        "url": "https://www.sudugu.org/5683/"
+      },
+      {
+        "name": "高武盗神家的盲眼剑娘",
+        "url": "https://www.sudugu.org/5665/"
+      },
+      {
+        "name": "一梦百年，我成为了道家天师",
+        "url": "https://www.sudugu.org/5664/"
+      },
+      {
+        "name": "高手下山，我不会武功，但我是仙",
+        "url": "https://www.sudugu.org/5661/"
+      },
+      {
+        "name": "起底观心术",
+        "url": "https://www.sudugu.org/5656/"
+      },
+      {
+        "name": "华娱的盛宴",
+        "url": "https://www.sudugu.org/149/"
+      },
+      {
+        "name": "华娱从男模开始",
+        "url": "https://www.sudugu.org/140/"
+      },
+      {
+        "name": "重生之金融巨头",
+        "url": "https://www.sudugu.org/5614/"
+      },
+      {
+        "name": "重生从杨超月带我进厂开始",
+        "url": "https://www.sudugu.org/3293/"
+      },
+      {
+        "name": "我在北美发癫，癫佬们都当真了",
+        "url": "https://www.sudugu.org/2044/"
+      },
+      {
+        "name": "都重生了谁还追她啊",
+        "url": "https://www.sudugu.org/5589/"
+      },
+      {
+        "name": "超能：我有一面复刻镜",
+        "url": "https://www.sudugu.org/5588/"
+      },
+      {
+        "name": "点道为止",
+        "url": "https://www.sudugu.org/5582/"
+      },
+      {
+        "name": "罪狱岛",
+        "url": "https://www.sudugu.org/5580/"
+      },
+      {
+        "name": "斗罗：抢唐三气运就变强！",
+        "url": "https://www.sudugu.org/5201/"
+      },
+      {
+        "name": "高武：无限分身，开局撑死S异兽",
+        "url": "https://www.sudugu.org/5534/"
+      },
+      {
+        "name": "那就让她们献上忠诚吧！",
+        "url": "https://www.sudugu.org/1699/"
+      },
+      {
+        "name": "重生2010，国士无双",
+        "url": "https://www.sudugu.org/5512/"
+      },
+      {
+        "name": "年代：从行政总厨开始",
+        "url": "https://www.sudugu.org/5504/"
+      },
+      {
+        "name": "甩我是吧？那就捡个校花回家当老婆",
+        "url": "https://www.sudugu.org/5391/"
+      },
+      {
+        "name": "这顶流醉酒发癫，内娱都笑喷了！",
+        "url": "https://www.sudugu.org/2668/"
+      },
+      {
+        "name": "出狱既无敌，前妻要离那就离",
+        "url": "https://www.sudugu.org/3577/"
+      },
+      {
+        "name": "年代：我和四个小姨子相依为命",
+        "url": "https://www.sudugu.org/5463/"
+      },
+      {
+        "name": "恐怖擂台：开局红白撞煞吓哭全球",
+        "url": "https://www.sudugu.org/5180/"
+      },
+      {
+        "name": "我的卡牌比较离谱",
+        "url": "https://www.sudugu.org/3899/"
+      },
+      {
+        "name": "美利坚影帝，从片场捡属性开始！",
+        "url": "https://www.sudugu.org/3971/"
+      },
+      {
+        "name": "刚开学，高冷校花约我吃饭",
+        "url": "https://www.sudugu.org/5442/"
+      },
+      {
+        "name": "我非池中物",
+        "url": "https://www.sudugu.org/5441/"
+      },
+      {
+        "name": "1979：孩子她妈是天仙妈",
+        "url": "https://www.sudugu.org/2045/"
+      },
+      {
+        "name": "道医苏子阳",
+        "url": "https://www.sudugu.org/5430/"
+      },
+      {
+        "name": "借运观天",
+        "url": "https://www.sudugu.org/5428/"
+      },
+      {
+        "name": "重生港岛，主导科技战",
+        "url": "https://www.sudugu.org/2747/"
+      },
+      {
+        "name": "师娘,求放过啊",
+        "url": "https://www.sudugu.org/5322/"
+      },
+      {
+        "name": "狂龙出狱，三个绝色嫂嫂找上门",
+        "url": "https://www.sudugu.org/5185/"
+      },
+      {
+        "name": "重生1980：开局迎娶姐姐闺蜜",
+        "url": "https://www.sudugu.org/5381/"
+      },
+      {
+        "name": "动物神探",
+        "url": "https://www.sudugu.org/2197/"
+      },
+      {
+        "name": "徒弟有技术，师娘顶不住",
+        "url": "https://www.sudugu.org/5363/"
+      },
+      {
+        "name": "男主你嫌弃病娇女财阀？我超爱！",
+        "url": "https://www.sudugu.org/5309/"
+      },
+      {
+        "name": "都市：修仙五年，下山就无敌",
+        "url": "https://www.sudugu.org/2687/"
+      },
+      {
+        "name": "天衍圣道之503局",
+        "url": "https://www.sudugu.org/5333/"
+      },
+      {
+        "name": "开局解除人体限制，杀杀杀杀杀",
+        "url": "https://www.sudugu.org/5257/"
+      },
+      {
+        "name": "那年花开1981",
+        "url": "https://www.sudugu.org/309/"
+      },
+      {
+        "name": "诸神愚戏",
+        "url": "https://www.sudugu.org/618/"
+      },
+      {
+        "name": "重启人生",
+        "url": "https://www.sudugu.org/81/"
+      },
+      {
+        "name": "择日走红",
+        "url": "https://www.sudugu.org/625/"
+      },
+      {
+        "name": "巅峰奶爸",
+        "url": "https://www.sudugu.org/3722/"
+      },
+      {
+        "name": "农业狂魔",
+        "url": "https://www.sudugu.org/3091/"
+      },
+      {
+        "name": "华娱：高衙内他想当影帝",
+        "url": "https://www.sudugu.org/5129/"
+      },
+      {
+        "name": "诡异难杀？抱歉，我才是真正不死",
+        "url": "https://www.sudugu.org/5101/"
+      },
+      {
+        "name": "回档少年时",
+        "url": "https://www.sudugu.org/2682/"
+      },
+      {
+        "name": "重生药王",
+        "url": "https://www.sudugu.org/5042/"
+      },
+      {
+        "name": "我的梦幻年代",
+        "url": "https://www.sudugu.org/5031/"
+      },
+      {
+        "name": "这个导演很靠谱",
+        "url": "https://www.sudugu.org/5030/"
+      },
+      {
+        "name": "我没想做演员",
+        "url": "https://www.sudugu.org/5029/"
+      },
+      {
+        "name": "我在欧洲当文豪",
+        "url": "https://www.sudugu.org/5024/"
+      },
+      {
+        "name": "年代1960：穿越南锣鼓巷",
+        "url": "https://www.sudugu.org/2420/"
+      },
+      {
+        "name": "美食情报王",
+        "url": "https://www.sudugu.org/433/"
+      },
+      {
+        "name": "华娱：景公主她只想演戏！",
+        "url": "https://www.sudugu.org/3475/"
+      },
+      {
+        "name": "互联网大佬，被娱乐系统绑架！",
+        "url": "https://www.sudugu.org/2080/"
+      },
+      {
+        "name": "全民鬼域：转职天师，招招毁灭级",
+        "url": "https://www.sudugu.org/3972/"
+      },
+      {
+        "name": "导演的快乐你不懂",
+        "url": "https://www.sudugu.org/3963/"
+      },
+      {
+        "name": "华娱从北电2002开始",
+        "url": "https://www.sudugu.org/3962/"
+      },
+      {
+        "name": "鳏夫的文娱",
+        "url": "https://www.sudugu.org/3474/"
+      },
+      {
+        "name": "神格觉醒，我在749斩妖除魔",
+        "url": "https://www.sudugu.org/2167/"
+      },
+      {
+        "name": "武道不敌机甲？看我肉身爆星！",
+        "url": "https://www.sudugu.org/3921/"
+      },
+      {
+        "name": "上城之下",
+        "url": "https://www.sudugu.org/3920/"
+      },
+      {
+        "name": "学姐别怕，我来保护你",
+        "url": "https://www.sudugu.org/3915/"
+      },
+      {
+        "name": "都重生了，又当消防兵了？",
+        "url": "https://www.sudugu.org/3913/"
+      },
+      {
+        "name": "影视：流窜在诸天的收集员",
+        "url": "https://www.sudugu.org/3908/"
+      },
+      {
+        "name": "重燃",
+        "url": "https://www.sudugu.org/3874/"
+      },
+      {
+        "name": "重生之神级学霸",
+        "url": "https://www.sudugu.org/3879/"
+      },
+      {
+        "name": "超级能源强国",
+        "url": "https://www.sudugu.org/3880/"
+      },
+      {
+        "name": "重生2011，二本捡漏985",
+        "url": "https://www.sudugu.org/3843/"
+      },
+      {
+        "name": "华娱：从96年加入正规军开始",
+        "url": "https://www.sudugu.org/2042/"
+      },
+      {
+        "name": "丧尸王：开局捡个婴儿是女帝重生",
+        "url": "https://www.sudugu.org/3817/"
+      },
+      {
+        "name": "重生之邻家双子初长成",
+        "url": "https://www.sudugu.org/3799/"
+      },
+      {
+        "name": "高中毕业就出道",
+        "url": "https://www.sudugu.org/3754/"
+      },
+      {
+        "name": "从修牛蹄开始",
+        "url": "https://www.sudugu.org/3753/"
+      },
+      {
+        "name": "拼到第三代",
+        "url": "https://www.sudugu.org/3752/"
+      },
+      {
+        "name": "没人比我更懂港岛江湖",
+        "url": "https://www.sudugu.org/2060/"
+      },
+      {
+        "name": "我的武功全球流行",
+        "url": "https://www.sudugu.org/3731/"
+      },
+      {
+        "name": "天后老婆狂卷工作，我躺平被全网直播",
+        "url": "https://www.sudugu.org/3719/"
+      },
+      {
+        "name": "魅魔噬主？反手养成十二翼天使！",
+        "url": "https://www.sudugu.org/3473/"
+      },
+      {
+        "name": "重生之都市狂仙",
+        "url": "https://www.sudugu.org/3685/"
+      },
+      {
+        "name": "穿越1998：这个锦衣卫杀疯了",
+        "url": "https://www.sudugu.org/3653/"
+      },
+      {
+        "name": "最强逆袭",
+        "url": "https://www.sudugu.org/3644/"
+      },
+      {
+        "name": "一世如龙",
+        "url": "https://www.sudugu.org/3642/"
+      },
+      {
+        "name": "医路青云",
+        "url": "https://www.sudugu.org/3637/"
+      },
+      {
+        "name": "四合院：咸鱼的美好生活",
+        "url": "https://www.sudugu.org/3625/"
+      },
+      {
+        "name": "这个明星很想退休",
+        "url": "https://www.sudugu.org/3575/"
+      },
+      {
+        "name": "朕只是一个演员",
+        "url": "https://www.sudugu.org/3568/"
+      },
+      {
+        "name": "人在外星，主修地球学",
+        "url": "https://www.sudugu.org/3463/"
+      },
+      {
+        "name": "我的前任全是巨星",
+        "url": "https://www.sudugu.org/3544/"
+      },
+      {
+        "name": "跳龙门",
+        "url": "https://www.sudugu.org/3389/"
+      },
+      {
+        "name": "我的养成系女友",
+        "url": "https://www.sudugu.org/3527/"
+      },
+      {
+        "name": "镇天神医",
+        "url": "https://www.sudugu.org/3523/"
+      },
+      {
+        "name": "四合院之奋斗的日子",
+        "url": "https://www.sudugu.org/3485/"
+      },
+      {
+        "name": "半岛：从龙套到忠武路影帝",
+        "url": "https://www.sudugu.org/3483/"
+      },
+      {
+        "name": "重生日常修仙",
+        "url": "https://www.sudugu.org/3244/"
+      },
+      {
+        "name": "万界淘宝店",
+        "url": "https://www.sudugu.org/3380/"
+      },
+      {
+        "name": "别叫我恶魔",
+        "url": "https://www.sudugu.org/1653/"
+      },
+      {
+        "name": "绝地战龙",
+        "url": "https://www.sudugu.org/3371/"
+      },
+      {
+        "name": "参加恋综，这个小鲜肉过分接地气",
+        "url": "https://www.sudugu.org/3347/"
+      },
+      {
+        "name": "我一个特技演员疯狂整活很合理吧",
+        "url": "https://www.sudugu.org/3343/"
+      },
+      {
+        "name": "别叫我歌神",
+        "url": "https://www.sudugu.org/3337/"
+      },
+      {
+        "name": "从剧本杀店开始",
+        "url": "https://www.sudugu.org/3290/"
+      },
+      {
+        "name": "致命打击：枪火游侠佣兵路",
+        "url": "https://www.sudugu.org/3287/"
+      },
+      {
+        "name": "从军火商到战争之王",
+        "url": "https://www.sudugu.org/3286/"
+      },
+      {
+        "name": "学弟，你是真缺德啊！不怕雷劈？",
+        "url": "https://www.sudugu.org/3278/"
+      },
+      {
+        "name": "重生互联网：从游戏开始",
+        "url": "https://www.sudugu.org/3234/"
+      },
+      {
+        "name": "华娱从2003开始策马奔腾",
+        "url": "https://www.sudugu.org/3220/"
+      },
+      {
+        "name": "地师",
+        "url": "https://www.sudugu.org/3214/"
+      },
+      {
+        "name": "惊门",
+        "url": "https://www.sudugu.org/3213/"
+      },
+      {
+        "name": "秘诡世界：我靠谎言成神",
+        "url": "https://www.sudugu.org/3203/"
+      },
+      {
+        "name": "规则系学霸",
+        "url": "https://www.sudugu.org/3195/"
+      },
+      {
+        "name": "重生之实业巨擘",
+        "url": "https://www.sudugu.org/2749/"
+      },
+      {
+        "name": "高手下山：我不当赘婿",
+        "url": "https://www.sudugu.org/3169/"
+      },
+      {
+        "name": "从前有座镇妖关",
+        "url": "https://www.sudugu.org/3153/"
+      },
+      {
+        "name": "神级选择：这个御兽师有亿点生猛",
+        "url": "https://www.sudugu.org/3151/"
+      },
+      {
+        "name": "重生野性时代",
+        "url": "https://www.sudugu.org/3105/"
+      },
+      {
+        "name": "重返84：从收破烂开始致富",
+        "url": "https://www.sudugu.org/3094/"
+      },
+      {
+        "name": "文豪，从和女知青离婚开始",
+        "url": "https://www.sudugu.org/3093/"
+      },
+      {
+        "name": "我是大玩家",
+        "url": "https://www.sudugu.org/3092/"
+      },
+      {
+        "name": "漫游在影视世界",
+        "url": "https://www.sudugu.org/3009/"
+      },
+      {
+        "name": "2001传媒教父",
+        "url": "https://www.sudugu.org/2980/"
+      },
+      {
+        "name": "重生之似水流年",
+        "url": "https://www.sudugu.org/2978/"
+      },
+      {
+        "name": "重生：回到1983当富翁",
+        "url": "https://www.sudugu.org/2939/"
+      },
+      {
+        "name": "成影帝了，系统才加载完",
+        "url": "https://www.sudugu.org/2934/"
+      },
+      {
+        "name": "这个影帝只想考证",
+        "url": "https://www.sudugu.org/2937/"
+      },
+      {
+        "name": "影帝他不想当太监",
+        "url": "https://www.sudugu.org/2936/"
+      },
+      {
+        "name": "男神，你人设崩了！",
+        "url": "https://www.sudugu.org/2930/"
+      },
+      {
+        "name": "骂谁实力派呢",
+        "url": "https://www.sudugu.org/2927/"
+      },
+      {
+        "name": "华娱1997",
+        "url": "https://www.sudugu.org/2926/"
+      },
+      {
+        "name": "全世界都玩异能只有我修仙",
+        "url": "https://www.sudugu.org/2820/"
+      },
+      {
+        "name": "苟到炼气10000层，飞升回地球",
+        "url": "https://www.sudugu.org/2819/"
+      },
+      {
+        "name": "都市全能医圣",
+        "url": "https://www.sudugu.org/2818/"
+      },
+      {
+        "name": "典狱长大人深不可测！",
+        "url": "https://www.sudugu.org/2814/"
+      },
+      {
+        "name": "断绝关系后，我的召唤兽全是黑暗生物",
+        "url": "https://www.sudugu.org/2809/"
+      },
+      {
+        "name": "我有神级收益系统",
+        "url": "https://www.sudugu.org/2807/"
+      },
+      {
+        "name": "麒麟出世，师父让我下山去结婚",
+        "url": "https://www.sudugu.org/2804/"
+      },
+      {
+        "name": "借我传宗接代？我反手绑定女神无敌",
+        "url": "https://www.sudugu.org/2799/"
+      },
+      {
+        "name": "徒儿你无敌了，出狱报仇去吧",
+        "url": "https://www.sudugu.org/2798/"
+      },
+      {
+        "name": "1977，开局女知青以身相许",
+        "url": "https://www.sudugu.org/2797/"
+      },
+      {
+        "name": "我和软萌女友的恋爱日常",
+        "url": "https://www.sudugu.org/2796/"
+      },
+      {
+        "name": "我的冰山女神老婆",
+        "url": "https://www.sudugu.org/2826/"
+      },
+      {
+        "name": "娶了棺中女帝，我在都市修仙",
+        "url": "https://www.sudugu.org/2825/"
+      },
+      {
+        "name": "在恋综当老六？一句泡面仙人全网暴火",
+        "url": "https://www.sudugu.org/2823/"
+      },
+      {
+        "name": "徒儿，饶了五位绝美师父吧",
+        "url": "https://www.sudugu.org/2815/"
+      },
+      {
+        "name": "离婚后，前妻姐崩溃了",
+        "url": "https://www.sudugu.org/2803/"
+      },
+      {
+        "name": "冰山总裁的贴身高手",
+        "url": "https://www.sudugu.org/2801/"
+      },
+      {
+        "name": "大荒守夜人",
+        "url": "https://www.sudugu.org/2077/"
+      },
+      {
+        "name": "歌土跟我有什么关系？我才几句词",
+        "url": "https://www.sudugu.org/2778/"
+      },
+      {
+        "name": "女主从书里跑出来了怎么办",
+        "url": "https://www.sudugu.org/2774/"
+      },
+      {
+        "name": "带着荒田回过去",
+        "url": "https://www.sudugu.org/2767/"
+      },
+      {
+        "name": "这个明星合法但有病",
+        "url": "https://www.sudugu.org/2766/"
+      },
+      {
+        "name": "战地摄影师手札",
+        "url": "https://www.sudugu.org/300/"
+      },
+      {
+        "name": "重生2000：从追求青涩校花同桌开始",
+        "url": "https://www.sudugu.org/1893/"
+      },
+      {
+        "name": "重燃2003",
+        "url": "https://www.sudugu.org/2765/"
+      },
+      {
+        "name": "从口水歌开始",
+        "url": "https://www.sudugu.org/2760/"
+      },
+      {
+        "name": "我太想重生了",
+        "url": "https://www.sudugu.org/2754/"
+      },
+      {
+        "name": "华娱之实绩为王",
+        "url": "https://www.sudugu.org/2715/"
+      },
+      {
+        "name": "华娱1981：从西游记开始",
+        "url": "https://www.sudugu.org/2695/"
+      },
+      {
+        "name": "火力为王",
+        "url": "https://www.sudugu.org/2694/"
+      },
+      {
+        "name": "从卖盒饭到中华名厨",
+        "url": "https://www.sudugu.org/2683/"
+      },
+      {
+        "name": "重生飞扬年代",
+        "url": "https://www.sudugu.org/2670/"
+      },
+      {
+        "name": "重生的我只想专心学习",
+        "url": "https://www.sudugu.org/2675/"
+      },
+      {
+        "name": "重生动作巨星：从好莱坞开始",
+        "url": "https://www.sudugu.org/2665/"
+      },
+      {
+        "name": "重生之我要冲浪",
+        "url": "https://www.sudugu.org/2659/"
+      },
+      {
+        "name": "女神的超级赘婿",
+        "url": "https://www.sudugu.org/2647/"
+      },
+      {
+        "name": "我在1982有个家",
+        "url": "https://www.sudugu.org/2619/"
+      },
+      {
+        "name": "我真没想下围棋啊！",
+        "url": "https://www.sudugu.org/624/"
+      },
+      {
+        "name": "科技之锤",
+        "url": "https://www.sudugu.org/2522/"
+      },
+      {
+        "name": "1979我的年代生活",
+        "url": "https://www.sudugu.org/2518/"
+      },
+      {
+        "name": "重生从咸鱼赢起",
+        "url": "https://www.sudugu.org/2515/"
+      },
+      {
+        "name": "超神级学霸",
+        "url": "https://www.sudugu.org/2514/"
+      },
+      {
+        "name": "兼职艺术家",
+        "url": "https://www.sudugu.org/2509/"
+      },
+      {
+        "name": "雀魂：开局国士无双",
+        "url": "https://www.sudugu.org/2508/"
+      },
+      {
+        "name": "巅峰学霸",
+        "url": "https://www.sudugu.org/2506/"
+      },
+      {
+        "name": "系统提前四年，可诡异还是幼崽",
+        "url": "https://www.sudugu.org/2498/"
+      },
+      {
+        "name": "穹顶之上",
+        "url": "https://www.sudugu.org/516/"
+      },
+      {
+        "name": "玩家们的NPC大爹",
+        "url": "https://www.sudugu.org/1977/"
+      },
+      {
+        "name": "重生1975：开局撕毁回城调令",
+        "url": "https://www.sudugu.org/2422/"
+      },
+      {
+        "name": "变成血族是什么体验",
+        "url": "https://www.sudugu.org/2407/"
+      },
+      {
+        "name": "我的金融科技帝国",
+        "url": "https://www.sudugu.org/2413/"
+      },
+      {
+        "name": "学霸的日本女友",
+        "url": "https://www.sudugu.org/2402/"
+      },
+      {
+        "name": "都市：修仙十年，下山即无敌",
+        "url": "https://www.sudugu.org/2345/"
+      },
+      {
+        "name": "重燃2001",
+        "url": "https://www.sudugu.org/2033/"
+      },
+      {
+        "name": "成为圣人是一种什么体验？",
+        "url": "https://www.sudugu.org/2339/"
+      },
+      {
+        "name": "离婚后前妻成了债主",
+        "url": "https://www.sudugu.org/2277/"
+      },
+      {
+        "name": "都市无上仙医",
+        "url": "https://www.sudugu.org/2262/"
+      },
+      {
+        "name": "大医凌然",
+        "url": "https://www.sudugu.org/567/"
+      },
+      {
+        "name": "从电影抽取技能",
+        "url": "https://www.sudugu.org/2228/"
+      },
+      {
+        "name": "神探陈益",
+        "url": "https://www.sudugu.org/609/"
+      },
+      {
+        "name": "匹夫的逆袭",
+        "url": "https://www.sudugu.org/2181/"
+      },
+      {
+        "name": "圣拳！",
+        "url": "https://www.sudugu.org/524/"
+      },
+      {
+        "name": "开发大西北从种子开始",
+        "url": "https://www.sudugu.org/2072/"
+      },
+      {
+        "name": "重回80：我的文艺人生",
+        "url": "https://www.sudugu.org/2068/"
+      },
+      {
+        "name": "重生在火红年代的悠闲生活",
+        "url": "https://www.sudugu.org/2043/"
+      },
+      {
+        "name": "绝世强龙",
+        "url": "https://www.sudugu.org/1997/"
+      },
+      {
+        "name": "最强学霸系统",
+        "url": "https://www.sudugu.org/1996/"
+      },
+      {
+        "name": "全球高武",
+        "url": "https://www.sudugu.org/551/"
+      },
+      {
+        "name": "医疗系学霸",
+        "url": "https://www.sudugu.org/587/"
+      },
+      {
+        "name": "生活系游戏",
+        "url": "https://www.sudugu.org/589/"
+      },
+      {
+        "name": "回到过去变成猫",
+        "url": "https://www.sudugu.org/542/"
+      },
+      {
+        "name": "美食供应商",
+        "url": "https://www.sudugu.org/428/"
+      },
+      {
+        "name": "黄金年代从1977开始",
+        "url": "https://www.sudugu.org/496/"
+      },
+      {
+        "name": "都重生了谁谈恋爱啊",
+        "url": "https://www.sudugu.org/430/"
+      },
+      {
+        "name": "我真的长生不老",
+        "url": "https://www.sudugu.org/455/"
+      },
+      {
+        "name": "稳住别浪",
+        "url": "https://www.sudugu.org/445/"
+      },
+      {
+        "name": "我就是你们的天敌",
+        "url": "https://www.sudugu.org/500/"
+      },
+      {
+        "name": "大王饶命",
+        "url": "https://www.sudugu.org/481/"
+      },
+      {
+        "name": "平常人类的平凡生活",
+        "url": "https://www.sudugu.org/599/"
+      },
+      {
+        "name": "华娱之随心所欲",
+        "url": "https://www.sudugu.org/592/"
+      },
+      {
+        "name": "信息全知者",
+        "url": "https://www.sudugu.org/610/"
+      },
+      {
+        "name": "手术直播间",
+        "url": "https://www.sudugu.org/571/"
+      },
+      {
+        "name": "佣兵的战争",
+        "url": "https://www.sudugu.org/606/"
+      },
+      {
+        "name": "万族之劫",
+        "url": "https://www.sudugu.org/467/"
+      },
+      {
+        "name": "你这律师不对劲",
+        "url": "https://www.sudugu.org/549/"
+      },
+      {
+        "name": "重塑千禧年代",
+        "url": "https://www.sudugu.org/479/"
+      },
+      {
+        "name": "终极火力",
+        "url": "https://www.sudugu.org/411/"
+      },
+      {
+        "name": "第一序列",
+        "url": "https://www.sudugu.org/541/"
+      },
+      {
+        "name": "重生了谁还当明星",
+        "url": "https://www.sudugu.org/505/"
+      },
+      {
+        "name": "极限警戒",
+        "url": "https://www.sudugu.org/499/"
+      },
+      {
+        "name": "文豪1978",
+        "url": "https://www.sudugu.org/556/"
+      },
+      {
+        "name": "我真没想重生啊",
+        "url": "https://www.sudugu.org/414/"
+      },
+      {
+        "name": "我是导演，我不比烂",
+        "url": "https://www.sudugu.org/540/"
+      },
+      {
+        "name": "逼我重生是吧",
+        "url": "https://www.sudugu.org/470/"
+      },
+      {
+        "name": "离婚后，我能听到未来的声音",
+        "url": "https://www.sudugu.org/279/"
+      },
+      {
+        "name": "大医无疆",
+        "url": "https://www.sudugu.org/388/"
+      },
+      {
+        "name": "修真聊天群（聊天群的日常生活）",
+        "url": "https://www.sudugu.org/413/"
+      },
+      {
+        "name": "我在印度当老爷",
+        "url": "https://www.sudugu.org/370/"
+      },
+      {
+        "name": "全职艺术家",
+        "url": "https://www.sudugu.org/511/"
+      },
+      {
+        "name": "深空彼岸",
+        "url": "https://www.sudugu.org/415/"
+      },
+      {
+        "name": "温暖的季风",
+        "url": "https://www.sudugu.org/514/"
+      },
+      {
+        "name": "我在精神病院学斩神",
+        "url": "https://www.sudugu.org/399/"
+      },
+      {
+        "name": "华娱唯一太阳",
+        "url": "https://www.sudugu.org/110/"
+      },
+      {
+        "name": "重生的我没有梦想",
+        "url": "https://www.sudugu.org/163/"
+      },
+      {
+        "name": "国民法医",
+        "url": "https://www.sudugu.org/89/"
+      }
+    ]
+  },
+  "历史小说": {
+    "completed": true,
+    "novels": [
+      {
+        "name": "乱世荒年，我一刀一弓粮肉满仓",
+        "url": "https://www.sudugu.org/6033/"
+      },
+      {
+        "name": "边关兵王：从领娶罪女开始崛起",
+        "url": "https://www.sudugu.org/1808/"
+      },
+      {
+        "name": "嫡子凶猛",
+        "url": "https://www.sudugu.org/3718/"
+      },
+      {
+        "name": "从奥地利到日不落帝国",
+        "url": "https://www.sudugu.org/3983/"
+      },
+      {
+        "name": "逍遥四公子",
+        "url": "https://www.sudugu.org/623/"
+      },
+      {
+        "name": "神话版三国",
+        "url": "https://www.sudugu.org/76/"
+      },
+      {
+        "name": "寒门屠户之子的科举日常",
+        "url": "https://www.sudugu.org/5083/"
+      },
+      {
+        "name": "要命啦！祖母让我一肩挑八房",
+        "url": "https://www.sudugu.org/5079/"
+      },
+      {
+        "name": "彼可取而代之",
+        "url": "https://www.sudugu.org/2451/"
+      },
+      {
+        "name": "大乾顶流：逃婚驸马爷",
+        "url": "https://www.sudugu.org/5549/"
+      },
+      {
+        "name": "从小媳妇要传宗接代开始",
+        "url": "https://www.sudugu.org/1895/"
+      },
+      {
+        "name": "武道长生：从猎户开始加点修行",
+        "url": "https://www.sudugu.org/5434/"
+      },
+      {
+        "name": "大明暴君，我为大明续运三百年",
+        "url": "https://www.sudugu.org/1652/"
+      },
+      {
+        "name": "暴君崇祯：再续大明三百年！",
+        "url": "https://www.sudugu.org/5905/"
+      },
+      {
+        "name": "我，最强毒士，女帝直呼活阎王",
+        "url": "https://www.sudugu.org/3147/"
+      },
+      {
+        "name": "继父扶我青云路",
+        "url": "https://www.sudugu.org/5376/"
+      },
+      {
+        "name": "穿越落魄世家子，我举屠刀定乾坤",
+        "url": "https://www.sudugu.org/3906/"
+      },
+      {
+        "name": "我一傻皇子，你计较什么",
+        "url": "https://www.sudugu.org/5547/"
+      },
+      {
+        "name": "贞观败家子",
+        "url": "https://www.sudugu.org/3732/"
+      },
+      {
+        "name": "无敌逍遥侯",
+        "url": "https://www.sudugu.org/2795/"
+      },
+      {
+        "name": "重生61，我带了一座军火库",
+        "url": "https://www.sudugu.org/3717/"
+      },
+      {
+        "name": "历史国战：开局黄巾起义",
+        "url": "https://www.sudugu.org/5181/"
+      },
+      {
+        "name": "边军战神",
+        "url": "https://www.sudugu.org/3716/"
+      },
+      {
+        "name": "我的手提式大明朝廷",
+        "url": "https://www.sudugu.org/251/"
+      },
+      {
+        "name": "假太监：从攻略太后开始",
+        "url": "https://www.sudugu.org/5348/"
+      },
+      {
+        "name": "穿越，大乾第一世子",
+        "url": "https://www.sudugu.org/3814/"
+      },
+      {
+        "name": "对弈江山",
+        "url": "https://www.sudugu.org/3860/"
+      },
+      {
+        "name": "冒名入仕，我熬成了大明权臣",
+        "url": "https://www.sudugu.org/5406/"
+      },
+      {
+        "name": "饥荒年：上山打猎带娇妻粱肉满仓",
+        "url": "https://www.sudugu.org/5610/"
+      },
+      {
+        "name": "战争宫廷和膝枕，奥地利的天命",
+        "url": "https://www.sudugu.org/3423/"
+      },
+      {
+        "name": "你们真是害苦了朕啊",
+        "url": "https://www.sudugu.org/2105/"
+      },
+      {
+        "name": "我率秦军三百万，为秦续命万万年",
+        "url": "https://www.sudugu.org/5385/"
+      },
+      {
+        "name": "饥荒年，我囤货娇养了古代大将军",
+        "url": "https://www.sudugu.org/3909/"
+      },
+      {
+        "name": "大明日不落，开局治好马皇后",
+        "url": "https://www.sudugu.org/5545/"
+      },
+      {
+        "name": "灾荒年捡回姐妹花，我粮肉满仓！",
+        "url": "https://www.sudugu.org/5121/"
+      },
+      {
+        "name": "边关猎户，我粮肉满仓富甲一方",
+        "url": "https://www.sudugu.org/5110/"
+      },
+      {
+        "name": "大秦：开局扶苏被贬，忽悠他造反",
+        "url": "https://www.sudugu.org/3734/"
+      },
+      {
+        "name": "八年质子归京，岂知天下已刻吾名",
+        "url": "https://www.sudugu.org/5478/"
+      },
+      {
+        "name": "天命纨绔",
+        "url": "https://www.sudugu.org/5386/"
+      },
+      {
+        "name": "大明草包探花",
+        "url": "https://www.sudugu.org/5919/"
+      },
+      {
+        "name": "大明：暴君崇祯，杀出万世帝国",
+        "url": "https://www.sudugu.org/5903/"
+      },
+      {
+        "name": "假太监：我乃大明九千岁",
+        "url": "https://www.sudugu.org/1695/"
+      },
+      {
+        "name": "家父雍正，我是乾隆？",
+        "url": "https://www.sudugu.org/2091/"
+      },
+      {
+        "name": "科举，农家子的权臣之路",
+        "url": "https://www.sudugu.org/3733/"
+      },
+      {
+        "name": "朕真的不务正业",
+        "url": "https://www.sudugu.org/146/"
+      },
+      {
+        "name": "织明",
+        "url": "https://www.sudugu.org/6062/"
+      },
+      {
+        "name": "女帝莫慌，臣有亿点点计谋",
+        "url": "https://www.sudugu.org/5182/"
+      },
+      {
+        "name": "我在唐朝当神仙",
+        "url": "https://www.sudugu.org/255/"
+      },
+      {
+        "name": "苟秦",
+        "url": "https://www.sudugu.org/6057/"
+      },
+      {
+        "name": "我在俄国当文豪",
+        "url": "https://www.sudugu.org/182/"
+      },
+      {
+        "name": "九龙夺嫡，我真不想当太子",
+        "url": "https://www.sudugu.org/166/"
+      },
+      {
+        "name": "边军悍卒",
+        "url": "https://www.sudugu.org/1668/"
+      },
+      {
+        "name": "穿成国公府庶子考科举",
+        "url": "https://www.sudugu.org/3735/"
+      },
+      {
+        "name": "大宋文豪",
+        "url": "https://www.sudugu.org/142/"
+      },
+      {
+        "name": "归山隐林打猎，你让我逐鹿中原？",
+        "url": "https://www.sudugu.org/5500/"
+      },
+      {
+        "name": "跟宋江决裂后，我二龙山强的可怕",
+        "url": "https://www.sudugu.org/5212/"
+      },
+      {
+        "name": "天命：从大业十二年开始",
+        "url": "https://www.sudugu.org/3861/"
+      },
+      {
+        "name": "徐妙云提剑逼婚！我怀了你的崽！",
+        "url": "https://www.sudugu.org/6020/"
+      },
+      {
+        "name": "我就上山打个猎，你让我逐鹿中原？",
+        "url": "https://www.sudugu.org/3552/"
+      },
+      {
+        "name": "哈哈哈，大明",
+        "url": "https://www.sudugu.org/2172/"
+      },
+      {
+        "name": "让你当昏君，你一统六大国了？",
+        "url": "https://www.sudugu.org/5528/"
+      },
+      {
+        "name": "大明黑帆",
+        "url": "https://www.sudugu.org/2106/"
+      },
+      {
+        "name": "操控祖宗：从楚汉争霸创千年世家",
+        "url": "https://www.sudugu.org/5544/"
+      },
+      {
+        "name": "尸祸一六四四",
+        "url": "https://www.sudugu.org/5888/"
+      },
+      {
+        "name": "让你当书童，你成大夏文圣",
+        "url": "https://www.sudugu.org/5384/"
+      },
+      {
+        "name": "穿越大明：我能接收现代物资",
+        "url": "https://www.sudugu.org/5789/"
+      },
+      {
+        "name": "唐末从军行",
+        "url": "https://www.sudugu.org/5548/"
+      },
+      {
+        "name": "寒门崛起",
+        "url": "https://www.sudugu.org/2847/"
+      },
+      {
+        "name": "我在法兰西当王太子",
+        "url": "https://www.sudugu.org/1989/"
+      },
+      {
+        "name": "盛唐：刘建军今天要干嘛",
+        "url": "https://www.sudugu.org/2093/"
+      },
+      {
+        "name": "廓晋",
+        "url": "https://www.sudugu.org/5292/"
+      },
+      {
+        "name": "北望江山",
+        "url": "https://www.sudugu.org/3769/"
+      },
+      {
+        "name": "三国：开局被何进献给何太后",
+        "url": "https://www.sudugu.org/5730/"
+      },
+      {
+        "name": "大唐：开局碰瓷长乐公主",
+        "url": "https://www.sudugu.org/6018/"
+      },
+      {
+        "name": "1848大清烧炭工",
+        "url": "https://www.sudugu.org/3196/"
+      },
+      {
+        "name": "封疆悍卒",
+        "url": "https://www.sudugu.org/1864/"
+      },
+      {
+        "name": "文豪1879：独行法兰西",
+        "url": "https://www.sudugu.org/157/"
+      },
+      {
+        "name": "明末，从西北再造天下",
+        "url": "https://www.sudugu.org/2092/"
+      },
+      {
+        "name": "寒门权相",
+        "url": "https://www.sudugu.org/2089/"
+      },
+      {
+        "name": "大明：寒门辅臣",
+        "url": "https://www.sudugu.org/3299/"
+      },
+      {
+        "name": "红楼琏二爷",
+        "url": "https://www.sudugu.org/1633/"
+      },
+      {
+        "name": "回到过去做财阀",
+        "url": "https://www.sudugu.org/347/"
+      },
+      {
+        "name": "修真版大明",
+        "url": "https://www.sudugu.org/3659/"
+      },
+      {
+        "name": "成龙快婿",
+        "url": "https://www.sudugu.org/2450/"
+      },
+      {
+        "name": "我在北宋当妖道",
+        "url": "https://www.sudugu.org/2449/"
+      },
+      {
+        "name": "大明第一国舅",
+        "url": "https://www.sudugu.org/2441/"
+      },
+      {
+        "name": "红楼芳华，权倾天下",
+        "url": "https://www.sudugu.org/1764/"
+      },
+      {
+        "name": "大耳贼刘备",
+        "url": "https://www.sudugu.org/143/"
+      },
+      {
+        "name": "一品悍臣",
+        "url": "https://www.sudugu.org/5458/"
+      },
+      {
+        "name": "寒霜千年",
+        "url": "https://www.sudugu.org/111/"
+      },
+      {
+        "name": "大明：从战场捡属性开创诸天大明",
+        "url": "https://www.sudugu.org/2187/"
+      },
+      {
+        "name": "晋庭汉裔",
+        "url": "https://www.sudugu.org/3199/"
+      },
+      {
+        "name": "相国在上",
+        "url": "https://www.sudugu.org/385/"
+      },
+      {
+        "name": "大明王朝1627",
+        "url": "https://www.sudugu.org/295/"
+      },
+      {
+        "name": "五代风华",
+        "url": "https://www.sudugu.org/1822/"
+      },
+      {
+        "name": "魏家孽种成首辅，全族跪求我认祖",
+        "url": "https://www.sudugu.org/6021/"
+      },
+      {
+        "name": "开局废太子：召唤罗网",
+        "url": "https://www.sudugu.org/5977/"
+      },
+      {
+        "name": "创业在晚唐",
+        "url": "https://www.sudugu.org/160/"
+      },
+      {
+        "name": "他一拳能打死吕布，你管这叫谋士",
+        "url": "https://www.sudugu.org/5731/"
+      },
+      {
+        "name": "大唐：我成了什么都能卖神秘商人",
+        "url": "https://www.sudugu.org/3723/"
+      },
+      {
+        "name": "大唐混子",
+        "url": "https://www.sudugu.org/3980/"
+      },
+      {
+        "name": "天崩开局，从死囚营砍到并肩王",
+        "url": "https://www.sudugu.org/1685/"
+      },
+      {
+        "name": "汉末之常山赵子龙",
+        "url": "https://www.sudugu.org/5498/"
+      },
+      {
+        "name": "朱元璋：这憨子是我失散的儿子？",
+        "url": "https://www.sudugu.org/5262/"
+      },
+      {
+        "name": "江左伪郎",
+        "url": "https://www.sudugu.org/5769/"
+      },
+      {
+        "name": "开局军火库，我让女帝跪舔",
+        "url": "https://www.sudugu.org/1687/"
+      },
+      {
+        "name": "秣马残唐",
+        "url": "https://www.sudugu.org/5546/"
+      },
+      {
+        "name": "贞观第一奸臣，李二求我别辞职！",
+        "url": "https://www.sudugu.org/5349/"
+      },
+      {
+        "name": "二战军评家？狗都能当",
+        "url": "https://www.sudugu.org/5875/"
+      },
+      {
+        "name": "我在二战当文豪",
+        "url": "https://www.sudugu.org/3969/"
+      },
+      {
+        "name": "太后别点灯，奴才真是皇上",
+        "url": "https://www.sudugu.org/5464/"
+      },
+      {
+        "name": "红楼：开局吕布天赋",
+        "url": "https://www.sudugu.org/2111/"
+      },
+      {
+        "name": "三国：田里种出百万雄兵",
+        "url": "https://www.sudugu.org/2100/"
+      },
+      {
+        "name": "黄金家族，从西域开始崛起",
+        "url": "https://www.sudugu.org/194/"
+      },
+      {
+        "name": "长空战旗",
+        "url": "https://www.sudugu.org/5237/"
+      },
+      {
+        "name": "被贬边疆，成就最强藩王",
+        "url": "https://www.sudugu.org/1884/"
+      },
+      {
+        "name": "我在大明当文豪",
+        "url": "https://www.sudugu.org/3189/"
+      },
+      {
+        "name": "世子稳重点",
+        "url": "https://www.sudugu.org/2445/"
+      },
+      {
+        "name": "开局掌控魏忠贤，先抄他一个亿！",
+        "url": "https://www.sudugu.org/2094/"
+      },
+      {
+        "name": "大明王朝1556",
+        "url": "https://www.sudugu.org/3756/"
+      },
+      {
+        "name": "南明，开局请我当皇帝",
+        "url": "https://www.sudugu.org/2779/"
+      },
+      {
+        "name": "大汉之我是刘病已",
+        "url": "https://www.sudugu.org/2583/"
+      },
+      {
+        "name": "我老婆是东晋第一女魔头",
+        "url": "https://www.sudugu.org/5184/"
+      },
+      {
+        "name": "秦人的悠闲生活",
+        "url": "https://www.sudugu.org/193/"
+      },
+      {
+        "name": "草芥称王",
+        "url": "https://www.sudugu.org/1772/"
+      },
+      {
+        "name": "晋末长剑",
+        "url": "https://www.sudugu.org/83/"
+      },
+      {
+        "name": "眉山苏氏，苏允最贤",
+        "url": "https://www.sudugu.org/6044/"
+      },
+      {
+        "name": "我的哥哥是高欢",
+        "url": "https://www.sudugu.org/3110/"
+      },
+      {
+        "name": "三国：从樵夫到季汉上将",
+        "url": "https://www.sudugu.org/2095/"
+      },
+      {
+        "name": "绝色生骄",
+        "url": "https://www.sudugu.org/1807/"
+      },
+      {
+        "name": "大唐：父亲您不造反，我造反！",
+        "url": "https://www.sudugu.org/5550/"
+      },
+      {
+        "name": "风起北美1625",
+        "url": "https://www.sudugu.org/5519/"
+      },
+      {
+        "name": "三国：朕，袁术，大汉忠良",
+        "url": "https://www.sudugu.org/2440/"
+      },
+      {
+        "name": "唐朝好地主：从村长开始",
+        "url": "https://www.sudugu.org/1856/"
+      },
+      {
+        "name": "大明：我鄢懋卿真的冒青烟",
+        "url": "https://www.sudugu.org/1759/"
+      },
+      {
+        "name": "红楼之扶摇河山",
+        "url": "https://www.sudugu.org/323/"
+      },
+      {
+        "name": "非洲创业实录",
+        "url": "https://www.sudugu.org/2725/"
+      },
+      {
+        "name": "虎贲郎",
+        "url": "https://www.sudugu.org/3116/"
+      },
+      {
+        "name": "大明世家五百年",
+        "url": "https://www.sudugu.org/398/"
+      },
+      {
+        "name": "中世纪崛起",
+        "url": "https://www.sudugu.org/5746/"
+      },
+      {
+        "name": "我伯父是康熙",
+        "url": "https://www.sudugu.org/3207/"
+      },
+      {
+        "name": "贞观悍师：从教太子逆袭开始",
+        "url": "https://www.sudugu.org/2157/"
+      },
+      {
+        "name": "大明：陛下，该喝药了！",
+        "url": "https://www.sudugu.org/2097/"
+      },
+      {
+        "name": "冒姓琅琊",
+        "url": "https://www.sudugu.org/2712/"
+      },
+      {
+        "name": "没钱还怎么当崇祯",
+        "url": "https://www.sudugu.org/1688/"
+      },
+      {
+        "name": "大明：让你死谏，你怎么真死啊？",
+        "url": "https://www.sudugu.org/116/"
+      },
+      {
+        "name": "家父刘宏，我躺平了",
+        "url": "https://www.sudugu.org/2993/"
+      },
+      {
+        "name": "大唐：请陛下归天",
+        "url": "https://www.sudugu.org/2446/"
+      },
+      {
+        "name": "三国：王业不偏安",
+        "url": "https://www.sudugu.org/2104/"
+      },
+      {
+        "name": "大宋悍臣",
+        "url": "https://www.sudugu.org/2102/"
+      },
+      {
+        "name": "子不类父？爱你老爹，玄武门见！",
+        "url": "https://www.sudugu.org/377/"
+      },
+      {
+        "name": "娘子，别这样！",
+        "url": "https://www.sudugu.org/330/"
+      },
+      {
+        "name": "新汉皇朝1834",
+        "url": "https://www.sudugu.org/5876/"
+      },
+      {
+        "name": "上命昭唐",
+        "url": "https://www.sudugu.org/3114/"
+      },
+      {
+        "name": "明主",
+        "url": "https://www.sudugu.org/2454/"
+      },
+      {
+        "name": "大明兽医，开局给朱标续命",
+        "url": "https://www.sudugu.org/1758/"
+      },
+      {
+        "name": "匹夫有责",
+        "url": "https://www.sudugu.org/3989/"
+      },
+      {
+        "name": "农家乐通古代，开局接待刘关张",
+        "url": "https://www.sudugu.org/3118/"
+      },
+      {
+        "name": "真实历史模拟游戏",
+        "url": "https://www.sudugu.org/2573/"
+      },
+      {
+        "name": "大明：马皇后亲弟，开局救朱雄英",
+        "url": "https://www.sudugu.org/2222/"
+      },
+      {
+        "name": "嫡明",
+        "url": "https://www.sudugu.org/2112/"
+      },
+      {
+        "name": "大唐：开局为李二献上避坑指南",
+        "url": "https://www.sudugu.org/1904/"
+      },
+      {
+        "name": "红楼：我和黛玉互穿了",
+        "url": "https://www.sudugu.org/1925/"
+      },
+      {
+        "name": "没钱当什么乱臣贼子",
+        "url": "https://www.sudugu.org/340/"
+      },
+      {
+        "name": "为变法，我视死如归",
+        "url": "https://www.sudugu.org/3112/"
+      },
+      {
+        "name": "刘备，我是穿越者",
+        "url": "https://www.sudugu.org/2584/"
+      },
+      {
+        "name": "完蛋，我来到自己写的垃圾书里了",
+        "url": "https://www.sudugu.org/310/"
+      },
+      {
+        "name": "诸天：从时空商人开始",
+        "url": "https://www.sudugu.org/2103/"
+      },
+      {
+        "name": "巨舰横宋：我的物资来自祖国",
+        "url": "https://www.sudugu.org/3774/"
+      },
+      {
+        "name": "清妖",
+        "url": "https://www.sudugu.org/261/"
+      },
+      {
+        "name": "虎枭",
+        "url": "https://www.sudugu.org/5674/"
+      },
+      {
+        "name": "大明国医：从九族危机到洪武独相",
+        "url": "https://www.sudugu.org/3113/"
+      },
+      {
+        "name": "状元郎",
+        "url": "https://www.sudugu.org/87/"
+      },
+      {
+        "name": "逼我上梁山，你有这个实力吗？",
+        "url": "https://www.sudugu.org/2113/"
+      },
+      {
+        "name": "我在现代留过学",
+        "url": "https://www.sudugu.org/315/"
+      },
+      {
+        "name": "展昭传奇",
+        "url": "https://www.sudugu.org/2099/"
+      },
+      {
+        "name": "我在大明长生久视",
+        "url": "https://www.sudugu.org/2448/"
+      },
+      {
+        "name": "乱世荒年：我每日一卦粮肉满仓！",
+        "url": "https://www.sudugu.org/5105/"
+      },
+      {
+        "name": "大明太子的创业生涯",
+        "url": "https://www.sudugu.org/6012/"
+      },
+      {
+        "name": "这个皇帝不仅摆烂，还没有素质",
+        "url": "https://www.sudugu.org/2162/"
+      },
+      {
+        "name": "我娘子天下第一",
+        "url": "https://www.sudugu.org/1665/"
+      },
+      {
+        "name": "一把大狙闯大明",
+        "url": "https://www.sudugu.org/3929/"
+      },
+      {
+        "name": "日本战国：真田家的野望",
+        "url": "https://www.sudugu.org/2215/"
+      },
+      {
+        "name": "铁血残明",
+        "url": "https://www.sudugu.org/252/"
+      },
+      {
+        "name": "大乾最狂驸马爷",
+        "url": "https://www.sudugu.org/3312/"
+      },
+      {
+        "name": "讨逆",
+        "url": "https://www.sudugu.org/5995/"
+      },
+      {
+        "name": "北宋大丈夫",
+        "url": "https://www.sudugu.org/5994/"
+      },
+      {
+        "name": "带着仓库到大明",
+        "url": "https://www.sudugu.org/5993/"
+      },
+      {
+        "name": "大唐扫把星",
+        "url": "https://www.sudugu.org/5996/"
+      },
+      {
+        "name": "贞观第一刑案官",
+        "url": "https://www.sudugu.org/2115/"
+      },
+      {
+        "name": "朕就是万历帝",
+        "url": "https://www.sudugu.org/5992/"
+      },
+      {
+        "name": "大清话事人",
+        "url": "https://www.sudugu.org/5991/"
+      },
+      {
+        "name": "岳父朱棣，迎娶毁容郡主我乐麻了",
+        "url": "https://www.sudugu.org/5990/"
+      },
+      {
+        "name": "汉阙",
+        "url": "https://www.sudugu.org/5989/"
+      },
+      {
+        "name": "新书",
+        "url": "https://www.sudugu.org/5988/"
+      },
+      {
+        "name": "捡到一只始皇帝",
+        "url": "https://www.sudugu.org/5987/"
+      },
+      {
+        "name": "朕能走到对岸吗",
+        "url": "https://www.sudugu.org/5986/"
+      },
+      {
+        "name": "三国：开局误认吕布为岳父",
+        "url": "https://www.sudugu.org/5985/"
+      },
+      {
+        "name": "箱子里的大明",
+        "url": "https://www.sudugu.org/5984/"
+      },
+      {
+        "name": "万历明君",
+        "url": "https://www.sudugu.org/144/"
+      },
+      {
+        "name": "红楼之胜天半子",
+        "url": "https://www.sudugu.org/3982/"
+      },
+      {
+        "name": "绝品九千岁",
+        "url": "https://www.sudugu.org/5113/"
+      },
+      {
+        "name": "从军赋",
+        "url": "https://www.sudugu.org/2239/"
+      },
+      {
+        "name": "复山河",
+        "url": "https://www.sudugu.org/343/"
+      },
+      {
+        "name": "落榜后，我成贵妃面首，权倾天下",
+        "url": "https://www.sudugu.org/5216/"
+      },
+      {
+        "name": "手握AI考科举，谁润得过我？",
+        "url": "https://www.sudugu.org/5214/"
+      },
+      {
+        "name": "大哥说我天下无敌",
+        "url": "https://www.sudugu.org/132/"
+      },
+      {
+        "name": "风起明末",
+        "url": "https://www.sudugu.org/5849/"
+      },
+      {
+        "name": "曹操穿越武大郎",
+        "url": "https://www.sudugu.org/5871/"
+      },
+      {
+        "name": "大秦：不装了，你爹我是秦始皇",
+        "url": "https://www.sudugu.org/5865/"
+      },
+      {
+        "name": "边疆老卒，御赐老婆后我越活越勇",
+        "url": "https://www.sudugu.org/5120/"
+      },
+      {
+        "name": "剑走偏锋的大明",
+        "url": "https://www.sudugu.org/281/"
+      },
+      {
+        "name": "我教刘备种地，他怎么称帝了？",
+        "url": "https://www.sudugu.org/5831/"
+      },
+      {
+        "name": "问鼎十国",
+        "url": "https://www.sudugu.org/5817/"
+      },
+      {
+        "name": "大宋：从军中小兵到天下雄主",
+        "url": "https://www.sudugu.org/5816/"
+      },
+      {
+        "name": "大明：从边军开始覆明灭清",
+        "url": "https://www.sudugu.org/383/"
+      },
+      {
+        "name": "打到北极圈了，你让我继承皇位？",
+        "url": "https://www.sudugu.org/1686/"
+      },
+      {
+        "name": "别惹我，我老婆大唐高阳公主",
+        "url": "https://www.sudugu.org/3826/"
+      },
+      {
+        "name": "大明小学生",
+        "url": "https://www.sudugu.org/5806/"
+      },
+      {
+        "name": "抢救大明朝",
+        "url": "https://www.sudugu.org/5799/"
+      },
+      {
+        "name": "逍遥红楼",
+        "url": "https://www.sudugu.org/5342/"
+      },
+      {
+        "name": "我在水浒考状元",
+        "url": "https://www.sudugu.org/5213/"
+      },
+      {
+        "name": "朕，都是为了大汉！",
+        "url": "https://www.sudugu.org/2090/"
+      },
+      {
+        "name": "秦功",
+        "url": "https://www.sudugu.org/5759/"
+      },
+      {
+        "name": "诡三国",
+        "url": "https://www.sudugu.org/5450/"
+      },
+      {
+        "name": "仙侠版水浒",
+        "url": "https://www.sudugu.org/5752/"
+      },
+      {
+        "name": "水浒逐鹿传",
+        "url": "https://www.sudugu.org/5751/"
+      },
+      {
+        "name": "顽贼",
+        "url": "https://www.sudugu.org/3117/"
+      },
+      {
+        "name": "水浒：开局悟性拉满，震惊周侗",
+        "url": "https://www.sudugu.org/5732/"
+      },
+      {
+        "name": "史上最强太子爷",
+        "url": "https://www.sudugu.org/5707/"
+      },
+      {
+        "name": "大宋超级学霸",
+        "url": "https://www.sudugu.org/5678/"
+      },
+      {
+        "name": "猛卒",
+        "url": "https://www.sudugu.org/5677/"
+      },
+      {
+        "name": "江山战图",
+        "url": "https://www.sudugu.org/5680/"
+      },
+      {
+        "name": "藏国",
+        "url": "https://www.sudugu.org/5676/"
+      },
+      {
+        "name": "寒门枭士",
+        "url": "https://www.sudugu.org/5679/"
+      },
+      {
+        "name": "隋朝的棋局",
+        "url": "https://www.sudugu.org/5675/"
+      },
+      {
+        "name": "大魏芳华",
+        "url": "https://www.sudugu.org/3298/"
+      },
+      {
+        "name": "不让江山",
+        "url": "https://www.sudugu.org/5527/"
+      },
+      {
+        "name": "婚内约法三十章？你当本世子舔狗呀！",
+        "url": "https://www.sudugu.org/5357/"
+      },
+      {
+        "name": "唐朝贵公子",
+        "url": "https://www.sudugu.org/5492/"
+      },
+      {
+        "name": "明末：我崇祯摆烂怎么了？！",
+        "url": "https://www.sudugu.org/185/"
+      },
+      {
+        "name": "混在皇宫假太监",
+        "url": "https://www.sudugu.org/5497/"
+      },
+      {
+        "name": "大文豪",
+        "url": "https://www.sudugu.org/5493/"
+      },
+      {
+        "name": "大乾憨婿",
+        "url": "https://www.sudugu.org/5462/"
+      },
+      {
+        "name": "世子无双",
+        "url": "https://www.sudugu.org/1894/"
+      },
+      {
+        "name": "割鹿记",
+        "url": "https://www.sudugu.org/1862/"
+      },
+      {
+        "name": "明朝那些事儿",
+        "url": "https://www.sudugu.org/5429/"
+      },
+      {
+        "name": "我和她们穿越到北宋",
+        "url": "https://www.sudugu.org/206/"
+      },
+      {
+        "name": "我要当大官",
+        "url": "https://www.sudugu.org/2452/"
+      },
+      {
+        "name": "远山破阵曲",
+        "url": "https://www.sudugu.org/72/"
+      },
+      {
+        "name": "庶子凶猛",
+        "url": "https://www.sudugu.org/3721/"
+      },
+      {
+        "name": "红楼晓梦",
+        "url": "https://www.sudugu.org/2101/"
+      },
+      {
+        "name": "侯门第一纨绔",
+        "url": "https://www.sudugu.org/3326/"
+      },
+      {
+        "name": "赘婿",
+        "url": "https://www.sudugu.org/5135/"
+      },
+      {
+        "name": "悍戚",
+        "url": "https://www.sudugu.org/5026/"
+      },
+      {
+        "name": "归义非唐",
+        "url": "https://www.sudugu.org/3988/"
+      },
+      {
+        "name": "装傻三年：从状元郎到异姓王",
+        "url": "https://www.sudugu.org/3813/"
+      },
+      {
+        "name": "开局选刘备，只有我知道三国剧情",
+        "url": "https://www.sudugu.org/3120/"
+      },
+      {
+        "name": "我在秦朝当神棍",
+        "url": "https://www.sudugu.org/3904/"
+      },
+      {
+        "name": "蜀汉之庄稼汉",
+        "url": "https://www.sudugu.org/2929/"
+      },
+      {
+        "name": "飞扬跋扈，从唐人街开始",
+        "url": "https://www.sudugu.org/3755/"
+      },
+      {
+        "name": "终宋",
+        "url": "https://www.sudugu.org/3747/"
+      },
+      {
+        "name": "红楼：捡到一只林黛玉",
+        "url": "https://www.sudugu.org/3746/"
+      },
+      {
+        "name": "父可敌国",
+        "url": "https://www.sudugu.org/3714/"
+      },
+      {
+        "name": "从神探李元芳开始",
+        "url": "https://www.sudugu.org/3677/"
+      },
+      {
+        "name": "大明神探1546",
+        "url": "https://www.sudugu.org/3678/"
+      },
+      {
+        "name": "大宋神探志",
+        "url": "https://www.sudugu.org/3676/"
+      },
+      {
+        "name": "大明测字天师",
+        "url": "https://www.sudugu.org/3651/"
+      },
+      {
+        "name": "大雪满风刀",
+        "url": "https://www.sudugu.org/2421/"
+      },
+      {
+        "name": "楚臣",
+        "url": "https://www.sudugu.org/3650/"
+      },
+      {
+        "name": "将军好凶猛",
+        "url": "https://www.sudugu.org/3649/"
+      },
+      {
+        "name": "十国千娇",
+        "url": "https://www.sudugu.org/3639/"
+      },
+      {
+        "name": "大明春色",
+        "url": "https://www.sudugu.org/3638/"
+      },
+      {
+        "name": "锦衣春秋",
+        "url": "https://www.sudugu.org/3636/"
+      },
+      {
+        "name": "日月风华",
+        "url": "https://www.sudugu.org/3635/"
+      },
+      {
+        "name": "大明：我重生成了朱允炆",
+        "url": "https://www.sudugu.org/3654/"
+      },
+      {
+        "name": "你不能只在吃铁杆庄稼时才爱大清",
+        "url": "https://www.sudugu.org/322/"
+      },
+      {
+        "name": "寒门宰相",
+        "url": "https://www.sudugu.org/1651/"
+      },
+      {
+        "name": "极品小侯爷",
+        "url": "https://www.sudugu.org/3531/"
+      },
+      {
+        "name": "废物皇子：为何要逼我做皇帝？",
+        "url": "https://www.sudugu.org/3508/"
+      },
+      {
+        "name": "大哥别卷了，你都卷成汉中祖了",
+        "url": "https://www.sudugu.org/2442/"
+      },
+      {
+        "name": "南宋第一卧底",
+        "url": "https://www.sudugu.org/3383/"
+      },
+      {
+        "name": "大唐：刚被立太子，逆袭系统来了",
+        "url": "https://www.sudugu.org/3119/"
+      },
+      {
+        "name": "中兴大汉，要从董卓做起",
+        "url": "https://www.sudugu.org/3374/"
+      },
+      {
+        "name": "农家穷叮当，科举当自强",
+        "url": "https://www.sudugu.org/3163/"
+      },
+      {
+        "name": "大唐太子的悠闲生活",
+        "url": "https://www.sudugu.org/3281/"
+      },
+      {
+        "name": "骗了康熙",
+        "url": "https://www.sudugu.org/3208/"
+      },
+      {
+        "name": "惊涛落日",
+        "url": "https://www.sudugu.org/92/"
+      },
+      {
+        "name": "帝秦设计师",
+        "url": "https://www.sudugu.org/3115/"
+      },
+      {
+        "name": "梦回大明春",
+        "url": "https://www.sudugu.org/3104/"
+      },
+      {
+        "name": "逍遥小书生",
+        "url": "https://www.sudugu.org/2999/"
+      },
+      {
+        "name": "如意小郎君",
+        "url": "https://www.sudugu.org/2998/"
+      },
+      {
+        "name": "调教大宋",
+        "url": "https://www.sudugu.org/2979/"
+      },
+      {
+        "name": "从赘婿到女帝宠臣",
+        "url": "https://www.sudugu.org/2852/"
+      },
+      {
+        "name": "大清要完",
+        "url": "https://www.sudugu.org/2928/"
+      },
+      {
+        "name": "三国：我不是曹睿",
+        "url": "https://www.sudugu.org/2114/"
+      },
+      {
+        "name": "屯兵百万，女帝带娃找上门",
+        "url": "https://www.sudugu.org/2838/"
+      },
+      {
+        "name": "醉枕江山",
+        "url": "https://www.sudugu.org/2831/"
+      },
+      {
+        "name": "夜天子",
+        "url": "https://www.sudugu.org/2829/"
+      },
+      {
+        "name": "世子很凶",
+        "url": "https://www.sudugu.org/2828/"
+      },
+      {
+        "name": "边军第一杂役",
+        "url": "https://www.sudugu.org/2812/"
+      },
+      {
+        "name": "开局被女土匪看中，我占山为王",
+        "url": "https://www.sudugu.org/2810/"
+      },
+      {
+        "name": "人在皇宫：女帝让我替婚，朝堂乱了！",
+        "url": "https://www.sudugu.org/2821/"
+      },
+      {
+        "name": "袋子通古今：我助倾国女帝搞基建",
+        "url": "https://www.sudugu.org/2802/"
+      },
+      {
+        "name": "帝国皇太子，老子不干了！",
+        "url": "https://www.sudugu.org/2800/"
+      },
+      {
+        "name": "活埋大清朝",
+        "url": "https://www.sudugu.org/2792/"
+      },
+      {
+        "name": "九锡",
+        "url": "https://www.sudugu.org/2756/"
+      },
+      {
+        "name": "红楼之庶子风流",
+        "url": "https://www.sudugu.org/2722/"
+      },
+      {
+        "name": "雅骚",
+        "url": "https://www.sudugu.org/573/"
+      },
+      {
+        "name": "人在贞观，科学破案",
+        "url": "https://www.sudugu.org/2521/"
+      },
+      {
+        "name": "大明：爹你让开，宰辅我来当！",
+        "url": "https://www.sudugu.org/2218/"
+      },
+      {
+        "name": "大唐协律郎",
+        "url": "https://www.sudugu.org/2444/"
+      },
+      {
+        "name": "操控祖宗，从东汉开始创不朽世家",
+        "url": "https://www.sudugu.org/127/"
+      },
+      {
+        "name": "民国江湖二十年",
+        "url": "https://www.sudugu.org/2455/"
+      },
+      {
+        "name": "黄金家族，我带蒙古铁骑横扫亚欧",
+        "url": "https://www.sudugu.org/2453/"
+      },
+      {
+        "name": "三国：昭烈谋主，三兴炎汉",
+        "url": "https://www.sudugu.org/2096/"
+      },
+      {
+        "name": "天可汗回忆录",
+        "url": "https://www.sudugu.org/391/"
+      },
+      {
+        "name": "大唐李承乾：请陛下称万岁",
+        "url": "https://www.sudugu.org/2447/"
+      },
+      {
+        "name": "上品寒士",
+        "url": "https://www.sudugu.org/502/"
+      },
+      {
+        "name": "极品家丁",
+        "url": "https://www.sudugu.org/444/"
+      },
+      {
+        "name": "大明最后一个狠人",
+        "url": "https://www.sudugu.org/2406/"
+      },
+      {
+        "name": "我要做门阀",
+        "url": "https://www.sudugu.org/2340/"
+      },
+      {
+        "name": "大明话事人",
+        "url": "https://www.sudugu.org/2305/"
+      },
+      {
+        "name": "汉乡",
+        "url": "https://www.sudugu.org/2284/"
+      },
+      {
+        "name": "朕",
+        "url": "https://www.sudugu.org/2286/"
+      },
+      {
+        "name": "我的姐夫是太子",
+        "url": "https://www.sudugu.org/2285/"
+      },
+      {
+        "name": "大明国师",
+        "url": "https://www.sudugu.org/2279/"
+      },
+      {
+        "name": "从今天开始做藩王",
+        "url": "https://www.sudugu.org/2278/"
+      },
+      {
+        "name": "朝天子",
+        "url": "https://www.sudugu.org/2240/"
+      },
+      {
+        "name": "唐砖",
+        "url": "https://www.sudugu.org/2210/"
+      },
+      {
+        "name": "皇家金牌县令",
+        "url": "https://www.sudugu.org/2164/"
+      },
+      {
+        "name": "晚唐浮生",
+        "url": "https://www.sudugu.org/468/"
+      },
+      {
+        "name": "人在大宋，无法无天",
+        "url": "https://www.sudugu.org/2116/"
+      },
+      {
+        "name": "三国：夫人，我乃正经人家",
+        "url": "https://www.sudugu.org/2110/"
+      },
+      {
+        "name": "玄德",
+        "url": "https://www.sudugu.org/2109/"
+      },
+      {
+        "name": "贞观攻略",
+        "url": "https://www.sudugu.org/2108/"
+      },
+      {
+        "name": "东汉末年枭雄志",
+        "url": "https://www.sudugu.org/2107/"
+      },
+      {
+        "name": "无敌六皇子",
+        "url": "https://www.sudugu.org/1859/"
+      },
+      {
+        "name": "世子你别乱来",
+        "url": "https://www.sudugu.org/1855/"
+      },
+      {
+        "name": "临安不夜侯",
+        "url": "https://www.sudugu.org/420/"
+      },
+      {
+        "name": "秦吏",
+        "url": "https://www.sudugu.org/451/"
+      },
+      {
+        "name": "北宋穿越指南",
+        "url": "https://www.sudugu.org/443/"
+      },
+      {
+        "name": "衣冠不南渡",
+        "url": "https://www.sudugu.org/607/"
+      },
+      {
+        "name": "不明不清",
+        "url": "https://www.sudugu.org/602/"
+      },
+      {
+        "name": "北齐怪谈",
+        "url": "https://www.sudugu.org/1779/"
+      },
+      {
+        "name": "唐人的餐桌",
+        "url": "https://www.sudugu.org/1752/"
+      },
+      {
+        "name": "红楼之挽天倾",
+        "url": "https://www.sudugu.org/494/"
+      },
+      {
+        "name": "开荒：逍遥山农",
+        "url": "https://www.sudugu.org/598/"
+      },
+      {
+        "name": "小阁老",
+        "url": "https://www.sudugu.org/570/"
+      },
+      {
+        "name": "穷鬼的上下两千年",
+        "url": "https://www.sudugu.org/501/"
+      },
+      {
+        "name": "明朝败家子",
+        "url": "https://www.sudugu.org/605/"
+      },
+      {
+        "name": "早安大明",
+        "url": "https://www.sudugu.org/584/"
+      },
+      {
+        "name": "家父汉高祖",
+        "url": "https://www.sudugu.org/553/"
+      },
+      {
+        "name": "贼天子",
+        "url": "https://www.sudugu.org/382/"
+      },
+      {
+        "name": "战地牧师日记",
+        "url": "https://www.sudugu.org/221/"
+      },
+      {
+        "name": "黜龙",
+        "url": "https://www.sudugu.org/94/"
+      },
+      {
+        "name": "绍宋",
+        "url": "https://www.sudugu.org/147/"
+      }
+    ]
+  },
+  "军事小说": {
+    "completed": true,
+    "novels": [
+      {
+        "name": "谍战：从军统特工到关东军新星",
+        "url": "https://www.sudugu.org/5158/"
+      },
+      {
+        "name": "谍战江城",
+        "url": "https://www.sudugu.org/5350/"
+      },
+      {
+        "name": "上交时空门，带国家复仇1937",
+        "url": "https://www.sudugu.org/5157/"
+      },
+      {
+        "name": "抗日：从火烧靖国神厕开始",
+        "url": "https://www.sudugu.org/5095/"
+      },
+      {
+        "name": "谍战：军统永不存在的特工",
+        "url": "https://www.sudugu.org/5829/"
+      },
+      {
+        "name": "佣兵我为王",
+        "url": "https://www.sudugu.org/1655/"
+      },
+      {
+        "name": "抗战之我是一个工业人",
+        "url": "https://www.sudugu.org/2472/"
+      },
+      {
+        "name": "年代剧：老曹的潇洒人生",
+        "url": "https://www.sudugu.org/2083/"
+      },
+      {
+        "name": "人在抗战，我有无限死士怎么办？",
+        "url": "https://www.sudugu.org/5487/"
+      },
+      {
+        "name": "开局桂系，我要下南洋",
+        "url": "https://www.sudugu.org/5953/"
+      },
+      {
+        "name": "影视剧中的王牌特工",
+        "url": "https://www.sudugu.org/2088/"
+      },
+      {
+        "name": "让你带问题女兵，你全养成特种兵王了？",
+        "url": "https://www.sudugu.org/5276/"
+      },
+      {
+        "name": "从粉碎敦刻尔克开始",
+        "url": "https://www.sudugu.org/1735/"
+      },
+      {
+        "name": "谁教你这么当兵的！",
+        "url": "https://www.sudugu.org/1658/"
+      },
+      {
+        "name": "让你去潜伏，你把老米搬空了？",
+        "url": "https://www.sudugu.org/6060/"
+      },
+      {
+        "name": "谍战1937：开局血洗特高科",
+        "url": "https://www.sudugu.org/3699/"
+      },
+      {
+        "name": "从红海行动开始的文娱",
+        "url": "https://www.sudugu.org/3109/"
+      },
+      {
+        "name": "谍战：我成了最大的特务头子",
+        "url": "https://www.sudugu.org/3866/"
+      },
+      {
+        "name": "亮剑：从边区造到大国重工",
+        "url": "https://www.sudugu.org/1656/"
+      },
+      {
+        "name": "帝国崛起：西班牙",
+        "url": "https://www.sudugu.org/1660/"
+      },
+      {
+        "name": "东方既白",
+        "url": "https://www.sudugu.org/3840/"
+      },
+      {
+        "name": "穿越1937，爆兵杀穿淞沪战场",
+        "url": "https://www.sudugu.org/5555/"
+      },
+      {
+        "name": "我的谍战岁月",
+        "url": "https://www.sudugu.org/244/"
+      },
+      {
+        "name": "谍战，都别猜了，我真是卧底啊",
+        "url": "https://www.sudugu.org/1657/"
+      },
+      {
+        "name": "军途：从一封征兵信邮寄开始",
+        "url": "https://www.sudugu.org/2582/"
+      },
+      {
+        "name": "帝国余晖：从敦刻尔克开始",
+        "url": "https://www.sudugu.org/5638/"
+      },
+      {
+        "name": "抗战：从成为楚云飞开始崛起",
+        "url": "https://www.sudugu.org/3106/"
+      },
+      {
+        "name": "最强合成旅",
+        "url": "https://www.sudugu.org/2086/"
+      },
+      {
+        "name": "蝉动",
+        "url": "https://www.sudugu.org/3107/"
+      },
+      {
+        "name": "重生亮剑之我的军旅生涯",
+        "url": "https://www.sudugu.org/3926/"
+      },
+      {
+        "name": "谍战：开局偷听心声，识破日谍",
+        "url": "https://www.sudugu.org/3698/"
+      },
+      {
+        "name": "谍战：我当恶霸能爆奖励！",
+        "url": "https://www.sudugu.org/3165/"
+      },
+      {
+        "name": "我的谍战日记",
+        "url": "https://www.sudugu.org/3108/"
+      },
+      {
+        "name": "谍战小特务的逆袭",
+        "url": "https://www.sudugu.org/3697/"
+      },
+      {
+        "name": "抗战之关山重重",
+        "url": "https://www.sudugu.org/3563/"
+      },
+      {
+        "name": "亮剑：从区小队开始发展",
+        "url": "https://www.sudugu.org/2084/"
+      },
+      {
+        "name": "谍战生存指南",
+        "url": "https://www.sudugu.org/372/"
+      },
+      {
+        "name": "亮剑：从晋西北打到上甘岭",
+        "url": "https://www.sudugu.org/1734/"
+      },
+      {
+        "name": "民国：王牌飞行员",
+        "url": "https://www.sudugu.org/2085/"
+      },
+      {
+        "name": "抗战从淞沪开始",
+        "url": "https://www.sudugu.org/2087/"
+      },
+      {
+        "name": "谍战：让你卧底，你领五份工资？",
+        "url": "https://www.sudugu.org/1654/"
+      },
+      {
+        "name": "谍影：命令与征服",
+        "url": "https://www.sudugu.org/153/"
+      },
+      {
+        "name": "绝对荣誉",
+        "url": "https://www.sudugu.org/1733/"
+      },
+      {
+        "name": "特种岁月",
+        "url": "https://www.sudugu.org/1732/"
+      },
+      {
+        "name": "谍影风云",
+        "url": "https://www.sudugu.org/472/"
+      },
+      {
+        "name": "特种岁月之弹道无声",
+        "url": "https://www.sudugu.org/1731/"
+      },
+      {
+        "name": "从八百开始崛起",
+        "url": "https://www.sudugu.org/1730/"
+      },
+      {
+        "name": "谍海猎影",
+        "url": "https://www.sudugu.org/1727/"
+      },
+      {
+        "name": "谍海青云",
+        "url": "https://www.sudugu.org/1729/"
+      },
+      {
+        "name": "横推亮剑",
+        "url": "https://www.sudugu.org/1726/"
+      },
+      {
+        "name": "我在亮剑当战狼",
+        "url": "https://www.sudugu.org/1728/"
+      },
+      {
+        "name": "炮火弧线",
+        "url": "https://www.sudugu.org/447/"
+      },
+      {
+        "name": "抗战：通电全国，出关",
+        "url": "https://www.sudugu.org/364/"
+      }
+    ]
+  },
+  "科幻小说": {
+    "completed": true,
+    "novels": [
+      {
+        "name": "同时穿越：打造末日文明互助协会",
+        "url": "https://www.sudugu.org/2156/"
+      },
+      {
+        "name": "灵魂扳机",
+        "url": "https://www.sudugu.org/2148/"
+      },
+      {
+        "name": "星穹列车的诸天旅行",
+        "url": "https://www.sudugu.org/2537/"
+      },
+      {
+        "name": "废土爆兵：从小镇开始建立希望城",
+        "url": "https://www.sudugu.org/2155/"
+      },
+      {
+        "name": "末日堡垒：我有一颗火种之心",
+        "url": "https://www.sudugu.org/3160/"
+      },
+      {
+        "name": "末世重生：我的可升级堡垒房车",
+        "url": "https://www.sudugu.org/5499/"
+      },
+      {
+        "name": "末世倒计时，我把自己上交国家",
+        "url": "https://www.sudugu.org/5152/"
+      },
+      {
+        "name": "从武道世界开始击穿深渊",
+        "url": "https://www.sudugu.org/3201/"
+      },
+      {
+        "name": "这年头谁还不是个武者啊",
+        "url": "https://www.sudugu.org/2862/"
+      },
+      {
+        "name": "星域巨变，全民开荒，先容我发育",
+        "url": "https://www.sudugu.org/5535/"
+      },
+      {
+        "name": "星际猎人",
+        "url": "https://www.sudugu.org/3317/"
+      },
+      {
+        "name": "全民求生，获得D级人员模拟器",
+        "url": "https://www.sudugu.org/3511/"
+      },
+      {
+        "name": "末日边缘",
+        "url": "https://www.sudugu.org/2127/"
+      },
+      {
+        "name": "没看黄历：全小区都跟我穿越了",
+        "url": "https://www.sudugu.org/5164/"
+      },
+      {
+        "name": "你这义体合法吗",
+        "url": "https://www.sudugu.org/2701/"
+      },
+      {
+        "name": "还能保送怪物职业学院？",
+        "url": "https://www.sudugu.org/3209/"
+      },
+      {
+        "name": "零号污染区",
+        "url": "https://www.sudugu.org/5208/"
+      },
+      {
+        "name": "末世求生：我能升华万物",
+        "url": "https://www.sudugu.org/5209/"
+      },
+      {
+        "name": "梦境穿越时",
+        "url": "https://www.sudugu.org/2854/"
+      },
+      {
+        "name": "末世，从吞尸体开始进化",
+        "url": "https://www.sudugu.org/3261/"
+      },
+      {
+        "name": "末世：开局我夺取了SSS级异能",
+        "url": "https://www.sudugu.org/1696/"
+      },
+      {
+        "name": "是谁偷了我的脑子？",
+        "url": "https://www.sudugu.org/2137/"
+      },
+      {
+        "name": "末日：随身带着一套房",
+        "url": "https://www.sudugu.org/5236/"
+      },
+      {
+        "name": "直视古神一整年",
+        "url": "https://www.sudugu.org/1967/"
+      },
+      {
+        "name": "开局上帝视角，星际战争怎么输",
+        "url": "https://www.sudugu.org/5234/"
+      },
+      {
+        "name": "人在废土边陲，系统逼我成家立业",
+        "url": "https://www.sudugu.org/5233/"
+      },
+      {
+        "name": "末日生存方案供应商",
+        "url": "https://www.sudugu.org/2163/"
+      },
+      {
+        "name": "倒计时90天：华夏进入一级战备",
+        "url": "https://www.sudugu.org/5166/"
+      },
+      {
+        "name": "公寓求生，开局在飞机上遭遇大运",
+        "url": "https://www.sudugu.org/5484/"
+      },
+      {
+        "name": "战锤40k搜打撤，塔暗州",
+        "url": "https://www.sudugu.org/5108/"
+      },
+      {
+        "name": "全球末世：开局觉醒吞魂天赋",
+        "url": "https://www.sudugu.org/3004/"
+      },
+      {
+        "name": "我创造了异常控制局",
+        "url": "https://www.sudugu.org/3538/"
+      },
+      {
+        "name": "星痕之门",
+        "url": "https://www.sudugu.org/2182/"
+      },
+      {
+        "name": "庇护所进化论",
+        "url": "https://www.sudugu.org/5165/"
+      },
+      {
+        "name": "星辰之主",
+        "url": "https://www.sudugu.org/2303/"
+      },
+      {
+        "name": "序列公路求生：我在末日升级物资",
+        "url": "https://www.sudugu.org/3704/"
+      },
+      {
+        "name": "全球冰封：我打造了末日安全屋",
+        "url": "https://www.sudugu.org/1703/"
+      },
+      {
+        "name": "时停起手，邪神也得给我跪下！",
+        "url": "https://www.sudugu.org/3507/"
+      },
+      {
+        "name": "末世 从吞尸体开始进化",
+        "url": "https://www.sudugu.org/3925/"
+      },
+      {
+        "name": "天灾第十年跟我去种田",
+        "url": "https://www.sudugu.org/1991/"
+      },
+      {
+        "name": "说好的民企，空天母舰什么鬼",
+        "url": "https://www.sudugu.org/271/"
+      },
+      {
+        "name": "末日逃亡：从房车开始进化到天空城",
+        "url": "https://www.sudugu.org/5388/"
+      },
+      {
+        "name": "废土藏身处，从下水道开始升级",
+        "url": "https://www.sudugu.org/3947/"
+      },
+      {
+        "name": "黄泉逆行",
+        "url": "https://www.sudugu.org/1837/"
+      },
+      {
+        "name": "我在噩梦世界建立安全区",
+        "url": "https://www.sudugu.org/5470/"
+      },
+      {
+        "name": "梦魇绝境",
+        "url": "https://www.sudugu.org/2534/"
+      },
+      {
+        "name": "重生末世：开局中奖3000万",
+        "url": "https://www.sudugu.org/2132/"
+      },
+      {
+        "name": "从解剖怪谈开始",
+        "url": "https://www.sudugu.org/5465/"
+      },
+      {
+        "name": "我能提取万物属性点",
+        "url": "https://www.sudugu.org/3558/"
+      },
+      {
+        "name": "我打造了无敌舰队",
+        "url": "https://www.sudugu.org/2860/"
+      },
+      {
+        "name": "帝国从第四天灾开始",
+        "url": "https://www.sudugu.org/2856/"
+      },
+      {
+        "name": "欺世游戏",
+        "url": "https://www.sudugu.org/3839/"
+      },
+      {
+        "name": "新概念诡道升仙",
+        "url": "https://www.sudugu.org/2153/"
+      },
+      {
+        "name": "末日美利坚",
+        "url": "https://www.sudugu.org/2128/"
+      },
+      {
+        "name": "文明乐园",
+        "url": "https://www.sudugu.org/2119/"
+      },
+      {
+        "name": "工业克苏鲁不相信末日",
+        "url": "https://www.sudugu.org/5364/"
+      },
+      {
+        "name": "无尽乐园",
+        "url": "https://www.sudugu.org/2481/"
+      },
+      {
+        "name": "维校的三好学生",
+        "url": "https://www.sudugu.org/158/"
+      },
+      {
+        "name": "三塔游戏",
+        "url": "https://www.sudugu.org/156/"
+      },
+      {
+        "name": "堑壕大栓与魔法",
+        "url": "https://www.sudugu.org/1762/"
+      },
+      {
+        "name": "副本0容错，满地遗言替我错完了",
+        "url": "https://www.sudugu.org/1664/"
+      },
+      {
+        "name": "战争系统在末世",
+        "url": "https://www.sudugu.org/5654/"
+      },
+      {
+        "name": "神明调查报告",
+        "url": "https://www.sudugu.org/63/"
+      },
+      {
+        "name": "异度旅社",
+        "url": "https://www.sudugu.org/54/"
+      },
+      {
+        "name": "丧尸专列",
+        "url": "https://www.sudugu.org/5168/"
+      },
+      {
+        "name": "我的神明养成游戏",
+        "url": "https://www.sudugu.org/2480/"
+      },
+      {
+        "name": "全球文字入侵？我在纸上屠神明！",
+        "url": "https://www.sudugu.org/3990/"
+      },
+      {
+        "name": "凛冬末日：全民避难所求生",
+        "url": "https://www.sudugu.org/5625/"
+      },
+      {
+        "name": "深渊漫游者",
+        "url": "https://www.sudugu.org/5669/"
+      },
+      {
+        "name": "救命啊！这个未世实在太恐怖了",
+        "url": "https://www.sudugu.org/3607/"
+      },
+      {
+        "name": "天塌了，我带着小区穿越了！",
+        "url": "https://www.sudugu.org/3280/"
+      },
+      {
+        "name": "激活传送门，开局与国家合作！",
+        "url": "https://www.sudugu.org/3711/"
+      },
+      {
+        "name": "末世囤货记",
+        "url": "https://www.sudugu.org/5153/"
+      },
+      {
+        "name": "钢铁洪流开荒异世界",
+        "url": "https://www.sudugu.org/2131/"
+      },
+      {
+        "name": "影视世界从小舍得开始",
+        "url": "https://www.sudugu.org/2855/"
+      },
+      {
+        "name": "我合成了全世界",
+        "url": "https://www.sudugu.org/3172/"
+      },
+      {
+        "name": "武装列车在末日",
+        "url": "https://www.sudugu.org/2136/"
+      },
+      {
+        "name": "玩家重载",
+        "url": "https://www.sudugu.org/186/"
+      },
+      {
+        "name": "全球神祇：从选择木精灵开始崛起",
+        "url": "https://www.sudugu.org/2139/"
+      },
+      {
+        "name": "末世大洪水：女邻居上门借粮",
+        "url": "https://www.sudugu.org/2123/"
+      },
+      {
+        "name": "国宝竟是我自己",
+        "url": "https://www.sudugu.org/2870/"
+      },
+      {
+        "name": "我们小区又穿越了",
+        "url": "https://www.sudugu.org/1824/"
+      },
+      {
+        "name": "刚文抄公崛起，结果异界入侵",
+        "url": "https://www.sudugu.org/3017/"
+      },
+      {
+        "name": "这个学霸过于自律",
+        "url": "https://www.sudugu.org/2117/"
+      },
+      {
+        "name": "现实编程协会",
+        "url": "https://www.sudugu.org/5517/"
+      },
+      {
+        "name": "怪异收容专家",
+        "url": "https://www.sudugu.org/2152/"
+      },
+      {
+        "name": "小米重工，第一次创业！",
+        "url": "https://www.sudugu.org/2122/"
+      },
+      {
+        "name": "银河债务计划",
+        "url": "https://www.sudugu.org/3019/"
+      },
+      {
+        "name": "赛博巫师入侵末日",
+        "url": "https://www.sudugu.org/2150/"
+      },
+      {
+        "name": "我在星际战场捡天赋",
+        "url": "https://www.sudugu.org/2138/"
+      },
+      {
+        "name": "末日：我能无限抽卡加成",
+        "url": "https://www.sudugu.org/2129/"
+      },
+      {
+        "name": "今天毁灭世界了吗？",
+        "url": "https://www.sudugu.org/80/"
+      },
+      {
+        "name": "四十九条末世规则",
+        "url": "https://www.sudugu.org/1756/"
+      },
+      {
+        "name": "电子哪吒",
+        "url": "https://www.sudugu.org/253/"
+      },
+      {
+        "name": "创世：从种蘑菇开始",
+        "url": "https://www.sudugu.org/2133/"
+      },
+      {
+        "name": "重生2013：超级科技帝国",
+        "url": "https://www.sudugu.org/2130/"
+      },
+      {
+        "name": "我能看见血条，杀穿末世",
+        "url": "https://www.sudugu.org/5132/"
+      },
+      {
+        "name": "玩家们的废土宇宙",
+        "url": "https://www.sudugu.org/3016/"
+      },
+      {
+        "name": "绝赞航海怪谈入侵中",
+        "url": "https://www.sudugu.org/3015/"
+      },
+      {
+        "name": "重生末日前：我的后盾是国家",
+        "url": "https://www.sudugu.org/2118/"
+      },
+      {
+        "name": "科技入侵现代",
+        "url": "https://www.sudugu.org/126/"
+      },
+      {
+        "name": "独守要塞三年，我成了长夜领主",
+        "url": "https://www.sudugu.org/3805/"
+      },
+      {
+        "name": "末世第一狠人",
+        "url": "https://www.sudugu.org/360/"
+      },
+      {
+        "name": "星辰大远航",
+        "url": "https://www.sudugu.org/3804/"
+      },
+      {
+        "name": "暗墟黎明",
+        "url": "https://www.sudugu.org/3204/"
+      },
+      {
+        "name": "星际：从清洁工开始",
+        "url": "https://www.sudugu.org/2141/"
+      },
+      {
+        "name": "洪水末世，带着大嫂求生",
+        "url": "https://www.sudugu.org/5840/"
+      },
+      {
+        "name": "末世天灾：从打造避难所开始",
+        "url": "https://www.sudugu.org/2858/"
+      },
+      {
+        "name": "我从末世开始无敌",
+        "url": "https://www.sudugu.org/2685/"
+      },
+      {
+        "name": "天机骰子",
+        "url": "https://www.sudugu.org/2151/"
+      },
+      {
+        "name": "灵能者不死于枪火",
+        "url": "https://www.sudugu.org/1980/"
+      },
+      {
+        "name": "赛博英雄传",
+        "url": "https://www.sudugu.org/226/"
+      },
+      {
+        "name": "踏星",
+        "url": "https://www.sudugu.org/3320/"
+      },
+      {
+        "name": "末日序列车队：我能升级物资",
+        "url": "https://www.sudugu.org/2121/"
+      },
+      {
+        "name": "大国院士",
+        "url": "https://www.sudugu.org/2125/"
+      },
+      {
+        "name": "大炮巨舰不相信末日怪兽",
+        "url": "https://www.sudugu.org/6005/"
+      },
+      {
+        "name": "招黑体质开局修行在废土",
+        "url": "https://www.sudugu.org/196/"
+      },
+      {
+        "name": "末日青芒",
+        "url": "https://www.sudugu.org/3822/"
+      },
+      {
+        "name": "全球进化：我移植了至高神心",
+        "url": "https://www.sudugu.org/2143/"
+      },
+      {
+        "name": "星河之上",
+        "url": "https://www.sudugu.org/2144/"
+      },
+      {
+        "name": "地魁的诸天自救聊天群",
+        "url": "https://www.sudugu.org/5235/"
+      },
+      {
+        "name": "全民巨鱼求生：我能听到巨鱼心声",
+        "url": "https://www.sudugu.org/3396/"
+      },
+      {
+        "name": "科技公司，我成国产之光！",
+        "url": "https://www.sudugu.org/5889/"
+      },
+      {
+        "name": "全球迈入神话时代",
+        "url": "https://www.sudugu.org/5880/"
+      },
+      {
+        "name": "我有超体U盘",
+        "url": "https://www.sudugu.org/5886/"
+      },
+      {
+        "name": "全球每月一个新规则",
+        "url": "https://www.sudugu.org/5885/"
+      },
+      {
+        "name": "我被困在方块之中",
+        "url": "https://www.sudugu.org/5884/"
+      },
+      {
+        "name": "末世：我能看见血条，杀怪掉宝",
+        "url": "https://www.sudugu.org/5883/"
+      },
+      {
+        "name": "从黑科技到超级工程",
+        "url": "https://www.sudugu.org/5882/"
+      },
+      {
+        "name": "深空之流浪舰队",
+        "url": "https://www.sudugu.org/5879/"
+      },
+      {
+        "name": "我在荒岛肝属性",
+        "url": "https://www.sudugu.org/5881/"
+      },
+      {
+        "name": "他和她们的群星",
+        "url": "https://www.sudugu.org/2859/"
+      },
+      {
+        "name": "末世无敌，底牌多还很强",
+        "url": "https://www.sudugu.org/5824/"
+      },
+      {
+        "name": "末日公寓求生，而我无限分身！",
+        "url": "https://www.sudugu.org/5169/"
+      },
+      {
+        "name": "机械末世：我的机甲有亿点强",
+        "url": "https://www.sudugu.org/5352/"
+      },
+      {
+        "name": "星界蚁族",
+        "url": "https://www.sudugu.org/5797/"
+      },
+      {
+        "name": "重生末世：只想苟到天荒地老",
+        "url": "https://www.sudugu.org/5737/"
+      },
+      {
+        "name": "清末的法师",
+        "url": "https://www.sudugu.org/5790/"
+      },
+      {
+        "name": "举国开发异世界",
+        "url": "https://www.sudugu.org/5754/"
+      },
+      {
+        "name": "灾变时代：我能点亮科技树",
+        "url": "https://www.sudugu.org/5655/"
+      },
+      {
+        "name": "尸王崛起 开局囤亿万血肉",
+        "url": "https://www.sudugu.org/5653/"
+      },
+      {
+        "name": "全民迷雾求生",
+        "url": "https://www.sudugu.org/5626/"
+      },
+      {
+        "name": "我的末世领地",
+        "url": "https://www.sudugu.org/5613/"
+      },
+      {
+        "name": "末日乐园",
+        "url": "https://www.sudugu.org/5600/"
+      },
+      {
+        "name": "极度恐菌",
+        "url": "https://www.sudugu.org/2865/"
+      },
+      {
+        "name": "痛觉免疫，担心反派不够变态",
+        "url": "https://www.sudugu.org/5536/"
+      },
+      {
+        "name": "天才游乐场",
+        "url": "https://www.sudugu.org/2656/"
+      },
+      {
+        "name": "末世：姑娘莫慌，我物资够用百年",
+        "url": "https://www.sudugu.org/5183/"
+      },
+      {
+        "name": "极寒末世：我用聚宝盆囤亿万物资",
+        "url": "https://www.sudugu.org/5167/"
+      },
+      {
+        "name": "黑暗血时代",
+        "url": "https://www.sudugu.org/5139/"
+      },
+      {
+        "name": "全民大航海，我开局一条幽灵船",
+        "url": "https://www.sudugu.org/3510/"
+      },
+      {
+        "name": "人在末世，我能联通现实",
+        "url": "https://www.sudugu.org/3859/"
+      },
+      {
+        "name": "光明壁垒",
+        "url": "https://www.sudugu.org/3806/"
+      },
+      {
+        "name": "我真没想当救世主啊",
+        "url": "https://www.sudugu.org/3743/"
+      },
+      {
+        "name": "净土边缘",
+        "url": "https://www.sudugu.org/3742/"
+      },
+      {
+        "name": "古神在低语",
+        "url": "https://www.sudugu.org/3741/"
+      },
+      {
+        "name": "倾覆之塔",
+        "url": "https://www.sudugu.org/3729/"
+      },
+      {
+        "name": "末日：我真不是土匪",
+        "url": "https://www.sudugu.org/3712/"
+      },
+      {
+        "name": "末世降临：小尸尸我呀囤囤囤囤！",
+        "url": "https://www.sudugu.org/3693/"
+      },
+      {
+        "name": "末日！别人求生，我游山玩水",
+        "url": "https://www.sudugu.org/3692/"
+      },
+      {
+        "name": "十天一天赋，成为吸血鬼的我太BUG了",
+        "url": "https://www.sudugu.org/3691/"
+      },
+      {
+        "name": "末日降临：百倍爆率刀刀爆物资",
+        "url": "https://www.sudugu.org/3694/"
+      },
+      {
+        "name": "黑雾之下",
+        "url": "https://www.sudugu.org/3656/"
+      },
+      {
+        "name": "末日边缘",
+        "url": "https://www.sudugu.org/3655/"
+      },
+      {
+        "name": "末日：我打造无限列车",
+        "url": "https://www.sudugu.org/197/"
+      },
+      {
+        "name": "直播之荒野大冒险",
+        "url": "https://www.sudugu.org/3574/"
+      },
+      {
+        "name": "这个学霸是魅魔",
+        "url": "https://www.sudugu.org/3018/"
+      },
+      {
+        "name": "我写的自传不可能是悲剧",
+        "url": "https://www.sudugu.org/2120/"
+      },
+      {
+        "name": "从机械师开始无限转职",
+        "url": "https://www.sudugu.org/3539/"
+      },
+      {
+        "name": "序列大明",
+        "url": "https://www.sudugu.org/3402/"
+      },
+      {
+        "name": "星战风暴",
+        "url": "https://www.sudugu.org/3355/"
+      },
+      {
+        "name": "机武风暴",
+        "url": "https://www.sudugu.org/3353/"
+      },
+      {
+        "name": "机战：全金属风暴",
+        "url": "https://www.sudugu.org/3332/"
+      },
+      {
+        "name": "末日之无上王座",
+        "url": "https://www.sudugu.org/3319/"
+      },
+      {
+        "name": "黑暗王者",
+        "url": "https://www.sudugu.org/3263/"
+      },
+      {
+        "name": "希泊尼战纪",
+        "url": "https://www.sudugu.org/3219/"
+      },
+      {
+        "name": "请叫我馆主大人",
+        "url": "https://www.sudugu.org/3218/"
+      },
+      {
+        "name": "天启之夜",
+        "url": "https://www.sudugu.org/3217/"
+      },
+      {
+        "name": "神明模拟器",
+        "url": "https://www.sudugu.org/3210/"
+      },
+      {
+        "name": "火爆波长",
+        "url": "https://www.sudugu.org/401/"
+      },
+      {
+        "name": "从大学讲师到首席院士",
+        "url": "https://www.sudugu.org/3194/"
+      },
+      {
+        "name": "神秘尽头",
+        "url": "https://www.sudugu.org/3100/"
+      },
+      {
+        "name": "猩红降临",
+        "url": "https://www.sudugu.org/3099/"
+      },
+      {
+        "name": "我没病！我的其他人格也是！",
+        "url": "https://www.sudugu.org/3061/"
+      },
+      {
+        "name": "超级母舰",
+        "url": "https://www.sudugu.org/3014/"
+      },
+      {
+        "name": "深渊独行",
+        "url": "https://www.sudugu.org/3001/"
+      },
+      {
+        "name": "末日生存游戏？我靠捡垃圾当大佬",
+        "url": "https://www.sudugu.org/2863/"
+      },
+      {
+        "name": "从填线炮灰到横扫千星",
+        "url": "https://www.sudugu.org/2869/"
+      },
+      {
+        "name": "末世：我的物品无限升级",
+        "url": "https://www.sudugu.org/2867/"
+      },
+      {
+        "name": "废土开发日记",
+        "url": "https://www.sudugu.org/2866/"
+      },
+      {
+        "name": "电磁暴君",
+        "url": "https://www.sudugu.org/2864/"
+      },
+      {
+        "name": "我的完美末世人生",
+        "url": "https://www.sudugu.org/2861/"
+      },
+      {
+        "name": "我的能力池高人一等",
+        "url": "https://www.sudugu.org/2857/"
+      },
+      {
+        "name": "分手后，捡到一只吸血鬼美少女",
+        "url": "https://www.sudugu.org/2813/"
+      },
+      {
+        "name": "异世界征服手册",
+        "url": "https://www.sudugu.org/2777/"
+      },
+      {
+        "name": "走进不科学",
+        "url": "https://www.sudugu.org/2776/"
+      },
+      {
+        "name": "魔女小姐不想成为歌姬",
+        "url": "https://www.sudugu.org/2735/"
+      },
+      {
+        "name": "说好军转民，这煤气罐什么鬼？",
+        "url": "https://www.sudugu.org/2661/"
+      },
+      {
+        "name": "全民深渊：我技能无限强化",
+        "url": "https://www.sudugu.org/2500/"
+      },
+      {
+        "name": "我的前世模拟器",
+        "url": "https://www.sudugu.org/2523/"
+      },
+      {
+        "name": "末世：我的关键词比别人多一个",
+        "url": "https://www.sudugu.org/2504/"
+      },
+      {
+        "name": "富则莱茵金属，穷则莱茵钢铁！",
+        "url": "https://www.sudugu.org/2409/"
+      },
+      {
+        "name": "我在迷雾世界当众神之主",
+        "url": "https://www.sudugu.org/2403/"
+      },
+      {
+        "name": "从肉体凡胎肝到不死不灭",
+        "url": "https://www.sudugu.org/2401/"
+      },
+      {
+        "name": "末世天灾，抢艘航母当基地",
+        "url": "https://www.sudugu.org/2332/"
+      },
+      {
+        "name": "恐怖复苏之全球武装怪胎",
+        "url": "https://www.sudugu.org/2334/"
+      },
+      {
+        "name": "末世强者培养系统",
+        "url": "https://www.sudugu.org/2333/"
+      },
+      {
+        "name": "武德充沛",
+        "url": "https://www.sudugu.org/2330/"
+      },
+      {
+        "name": "炼狱艺术家",
+        "url": "https://www.sudugu.org/2329/"
+      },
+      {
+        "name": "提前登陆五百年，我靠挖宝成神",
+        "url": "https://www.sudugu.org/199/"
+      },
+      {
+        "name": "裂天空骑",
+        "url": "https://www.sudugu.org/1971/"
+      },
+      {
+        "name": "我说了我会时光倒流",
+        "url": "https://www.sudugu.org/2237/"
+      },
+      {
+        "name": "我绑架了时间线",
+        "url": "https://www.sudugu.org/2190/"
+      },
+      {
+        "name": "卡徒",
+        "url": "https://www.sudugu.org/2149/"
+      },
+      {
+        "name": "冒牌大英雄",
+        "url": "https://www.sudugu.org/2154/"
+      },
+      {
+        "name": "每天都离现形更近一步",
+        "url": "https://www.sudugu.org/477/"
+      },
+      {
+        "name": "学霸的黑科技系统",
+        "url": "https://www.sudugu.org/473/"
+      },
+      {
+        "name": "我以神明为食",
+        "url": "https://www.sudugu.org/525/"
+      },
+      {
+        "name": "从红月开始",
+        "url": "https://www.sudugu.org/517/"
+      },
+      {
+        "name": "希灵帝国",
+        "url": "https://www.sudugu.org/497/"
+      },
+      {
+        "name": "同时穿越了99个世界",
+        "url": "https://www.sudugu.org/2146/"
+      },
+      {
+        "name": "我的末日列车",
+        "url": "https://www.sudugu.org/2145/"
+      },
+      {
+        "name": "九星毒奶",
+        "url": "https://www.sudugu.org/2142/"
+      },
+      {
+        "name": "异常生物见闻录",
+        "url": "https://www.sudugu.org/463/"
+      },
+      {
+        "name": "万界守门人",
+        "url": "https://www.sudugu.org/2135/"
+      },
+      {
+        "name": "深空之影",
+        "url": "https://www.sudugu.org/2140/"
+      },
+      {
+        "name": "隐秘死角",
+        "url": "https://www.sudugu.org/2134/"
+      },
+      {
+        "name": "第九特区",
+        "url": "https://www.sudugu.org/2126/"
+      },
+      {
+        "name": "欢想世界",
+        "url": "https://www.sudugu.org/585/"
+      },
+      {
+        "name": "全民星海时代",
+        "url": "https://www.sudugu.org/285/"
+      },
+      {
+        "name": "星空职业者",
+        "url": "https://www.sudugu.org/437/"
+      },
+      {
+        "name": "宇宙职业选手",
+        "url": "https://www.sudugu.org/458/"
+      },
+      {
+        "name": "全民魔女1994",
+        "url": "https://www.sudugu.org/603/"
+      },
+      {
+        "name": "这个文字冒险游戏绝对有毒",
+        "url": "https://www.sudugu.org/1751/"
+      },
+      {
+        "name": "全球灾变之末日游戏",
+        "url": "https://www.sudugu.org/1717/"
+      },
+      {
+        "name": "我的一天有48小时",
+        "url": "https://www.sudugu.org/568/"
+      },
+      {
+        "name": "地球人实在太凶猛了",
+        "url": "https://www.sudugu.org/572/"
+      },
+      {
+        "name": "黄昏分界",
+        "url": "https://www.sudugu.org/596/"
+      },
+      {
+        "name": "这游戏也太真实了",
+        "url": "https://www.sudugu.org/239/"
+      },
+      {
+        "name": "进化的四十六亿重奏",
+        "url": "https://www.sudugu.org/416/"
+      },
+      {
+        "name": "天才俱乐部",
+        "url": "https://www.sudugu.org/277/"
+      },
+      {
+        "name": "深海余烬",
+        "url": "https://www.sudugu.org/379/"
+      },
+      {
+        "name": "人在现实，超脱彼岸",
+        "url": "https://www.sudugu.org/334/"
+      },
+      {
+        "name": "黎明之剑",
+        "url": "https://www.sudugu.org/369/"
+      },
+      {
+        "name": "吞噬星空",
+        "url": "https://www.sudugu.org/409/"
+      },
+      {
+        "name": "灵境行者",
+        "url": "https://www.sudugu.org/408/"
+      },
+      {
+        "name": "学霸的军工科研系统",
+        "url": "https://www.sudugu.org/151/"
+      },
+      {
+        "name": "吞噬星空2起源大陆",
+        "url": "https://www.sudugu.org/70/"
+      }
+    ]
+  },
+  "言情小说": {
+    "completed": true,
+    "novels": [
+      {
+        "name": "他说不爱，婚后却沦陷了",
+        "url": "https://www.sudugu.org/2011/"
+      },
+      {
+        "name": "穿成恶雌想跑路，反派逼我当团宠",
+        "url": "https://www.sudugu.org/5708/"
+      },
+      {
+        "name": "恶毒雌性深陷兽世修罗场",
+        "url": "https://www.sudugu.org/5712/"
+      },
+      {
+        "name": "穿越到古代的我混的风生水起",
+        "url": "https://www.sudugu.org/5283/"
+      },
+      {
+        "name": "空降的禁欲上司，是我前夫",
+        "url": "https://www.sudugu.org/5709/"
+      },
+      {
+        "name": "国运：我v10耶，求生手到擒来",
+        "url": "https://www.sudugu.org/5611/"
+      },
+      {
+        "name": "凌霄花上",
+        "url": "https://www.sudugu.org/5716/"
+      },
+      {
+        "name": "重生八零：老太太抛子弃女",
+        "url": "https://www.sudugu.org/3812/"
+      },
+      {
+        "name": "抢我姻缘？转身嫁暴君夺后位",
+        "url": "https://www.sudugu.org/1911/"
+      },
+      {
+        "name": "离婚后她惊艳了世界",
+        "url": "https://www.sudugu.org/5525/"
+      },
+      {
+        "name": "修仙炮灰，开局卷走所有机缘",
+        "url": "https://www.sudugu.org/5488/"
+      },
+      {
+        "name": "解春衫",
+        "url": "https://www.sudugu.org/5016/"
+      },
+      {
+        "name": "重生六零，千金囤货随军兵王",
+        "url": "https://www.sudugu.org/5796/"
+      },
+      {
+        "name": "掌家婢",
+        "url": "https://www.sudugu.org/5713/"
+      },
+      {
+        "name": "母女重生，皇家慌惨了",
+        "url": "https://www.sudugu.org/5156/"
+      },
+      {
+        "name": "第五年重逢，驰先生再度失控",
+        "url": "https://www.sudugu.org/5018/"
+      },
+      {
+        "name": "听懂兽语后，我扛麻袋进山捡钱",
+        "url": "https://www.sudugu.org/5282/"
+      },
+      {
+        "name": "大理寺小饭堂",
+        "url": "https://www.sudugu.org/2361/"
+      },
+      {
+        "name": "寒门贵婢",
+        "url": "https://www.sudugu.org/5743/"
+      },
+      {
+        "name": "穿成男主的卷王前女友，咸鱼摆烂",
+        "url": "https://www.sudugu.org/6023/"
+      },
+      {
+        "name": "搬空婆家随军，她成了军官心尖宠",
+        "url": "https://www.sudugu.org/5086/"
+      },
+      {
+        "name": "集体穿越？京圈勋贵哭着抱我大腿",
+        "url": "https://www.sudugu.org/5100/"
+      },
+      {
+        "name": "被扫地出门，奶娘入公府成人上人",
+        "url": "https://www.sudugu.org/5084/"
+      },
+      {
+        "name": "三爷，你家小姑娘又立功了",
+        "url": "https://www.sudugu.org/621/"
+      },
+      {
+        "name": "都九州第一了，我缺点德怎么了",
+        "url": "https://www.sudugu.org/2475/"
+      },
+      {
+        "name": "认路人甲当爹后我喜提反派全家桶",
+        "url": "https://www.sudugu.org/5372/"
+      },
+      {
+        "name": "封总，太太想跟你离婚很久了",
+        "url": "https://www.sudugu.org/2009/"
+      },
+      {
+        "name": "全球贬值，我穿回来后带飞全家！",
+        "url": "https://www.sudugu.org/2256/"
+      },
+      {
+        "name": "八零大院漂亮美人",
+        "url": "https://www.sudugu.org/2243/"
+      },
+      {
+        "name": "退婚后，不小心怀了权臣的崽",
+        "url": "https://www.sudugu.org/5719/"
+      },
+      {
+        "name": "主公，刀下留人",
+        "url": "https://www.sudugu.org/5668/"
+      },
+      {
+        "name": "好好的，惹我干嘛",
+        "url": "https://www.sudugu.org/5483/"
+      },
+      {
+        "name": "穿越兽世，被雄性们抢疯了",
+        "url": "https://www.sudugu.org/5278/"
+      },
+      {
+        "name": "农女她官拜一品",
+        "url": "https://www.sudugu.org/5742/"
+      },
+      {
+        "name": "红楼当家主母",
+        "url": "https://www.sudugu.org/5627/"
+      },
+      {
+        "name": "通房有孕，清冷权臣不清冷了",
+        "url": "https://www.sudugu.org/5375/"
+      },
+      {
+        "name": "年代亲妈重生，为炮灰儿女撑腰！",
+        "url": "https://www.sudugu.org/2246/"
+      },
+      {
+        "name": "御兽从零分开始",
+        "url": "https://www.sudugu.org/1637/"
+      },
+      {
+        "name": "带着空间养兽夫，恶雌成团宠了",
+        "url": "https://www.sudugu.org/5718/"
+      },
+      {
+        "name": "糙汉强制爱，冲喜小媳妇沦陷了",
+        "url": "https://www.sudugu.org/6024/"
+      },
+      {
+        "name": "渣夫别跪了，夫人嫁顶级大佬啦",
+        "url": "https://www.sudugu.org/5015/"
+      },
+      {
+        "name": "朱门春闺",
+        "url": "https://www.sudugu.org/5014/"
+      },
+      {
+        "name": "大佬十代单传，我为他一胎生四宝",
+        "url": "https://www.sudugu.org/3981/"
+      },
+      {
+        "name": "快穿：你男朋友给我尝尝",
+        "url": "https://www.sudugu.org/5379/"
+      },
+      {
+        "name": "满级雷灵根：卷哭修仙界",
+        "url": "https://www.sudugu.org/5317/"
+      },
+      {
+        "name": "山庄通异界古人来打工",
+        "url": "https://www.sudugu.org/5315/"
+      },
+      {
+        "name": "领主：我在苦痛世界，养成少女",
+        "url": "https://www.sudugu.org/3270/"
+      },
+      {
+        "name": "七零：随军辣媳带飞大院暴富逆袭",
+        "url": "https://www.sudugu.org/2726/"
+      },
+      {
+        "name": "隔壁童养媳上岸日常",
+        "url": "https://www.sudugu.org/5911/"
+      },
+      {
+        "name": "大秦：谁惹我那体弱多病的贤卿了",
+        "url": "https://www.sudugu.org/5285/"
+      },
+      {
+        "name": "侧妃进门我让位，死遁了你疯什么",
+        "url": "https://www.sudugu.org/5725/"
+      },
+      {
+        "name": "被逼自刎，嫡女重生撕婚书覆皇朝",
+        "url": "https://www.sudugu.org/5710/"
+      },
+      {
+        "name": "直播捡垃圾，我成警局常客",
+        "url": "https://www.sudugu.org/3425/"
+      },
+      {
+        "name": "御兽从契约一条龙开始",
+        "url": "https://www.sudugu.org/3848/"
+      },
+      {
+        "name": "星际种田：战神今天又来蹭饭了",
+        "url": "https://www.sudugu.org/5481/"
+      },
+      {
+        "name": "照片是舍友网恋对象是财阀继承人",
+        "url": "https://www.sudugu.org/5961/"
+      },
+      {
+        "name": "叉腰腰，全家都是我捡来哒！",
+        "url": "https://www.sudugu.org/5423/"
+      },
+      {
+        "name": "疯批母女在年代逆袭",
+        "url": "https://www.sudugu.org/2748/"
+      },
+      {
+        "name": "灵泉空间，荒年带娃找首长爹认亲",
+        "url": "https://www.sudugu.org/5941/"
+      },
+      {
+        "name": "囚奴：疯批军火大佬日夜囚宠上瘾",
+        "url": "https://www.sudugu.org/5088/"
+      },
+      {
+        "name": "全家夺我军功，重生嫡女屠了满门",
+        "url": "https://www.sudugu.org/1907/"
+      },
+      {
+        "name": "穿越妻荣夫贵：绝嗣世子养崽",
+        "url": "https://www.sudugu.org/2731/"
+      },
+      {
+        "name": "被分家不怕，带上爹娘弟弟进深山",
+        "url": "https://www.sudugu.org/5284/"
+      },
+      {
+        "name": "在古代做个小县官",
+        "url": "https://www.sudugu.org/2384/"
+      },
+      {
+        "name": "穿在逃亡前，开挂闷声发大财",
+        "url": "https://www.sudugu.org/2375/"
+      },
+      {
+        "name": "父王，开门！本郡主闯祸回来啦",
+        "url": "https://www.sudugu.org/5074/"
+      },
+      {
+        "name": "我法师加奶妈，用七把剑不过份吧",
+        "url": "https://www.sudugu.org/2419/"
+      },
+      {
+        "name": "穿越之八零，懒汉媳妇是个粘人精",
+        "url": "https://www.sudugu.org/3918/"
+      },
+      {
+        "name": "霜姿白",
+        "url": "https://www.sudugu.org/5841/"
+      },
+      {
+        "name": "闪婚高干：熄灯了，别逼我主动",
+        "url": "https://www.sudugu.org/5371/"
+      },
+      {
+        "name": "我靠烧香爆红娱乐圈",
+        "url": "https://www.sudugu.org/2250/"
+      },
+      {
+        "name": "多子多福，从娶妻开始争霸天下",
+        "url": "https://www.sudugu.org/3821/"
+      },
+      {
+        "name": "全府听我心声改命，我躺平成团宠",
+        "url": "https://www.sudugu.org/5891/"
+      },
+      {
+        "name": "帝后每天互殴，看谁先完蛋",
+        "url": "https://www.sudugu.org/3738/"
+      },
+      {
+        "name": "大晋第一铁饭碗",
+        "url": "https://www.sudugu.org/2728/"
+      },
+      {
+        "name": "胡说，她才不是扫把星",
+        "url": "https://www.sudugu.org/5080/"
+      },
+      {
+        "name": "宋檀记事",
+        "url": "https://www.sudugu.org/2358/"
+      },
+      {
+        "name": "烬婚有孕",
+        "url": "https://www.sudugu.org/5017/"
+      },
+      {
+        "name": "娱乐圈第一甜",
+        "url": "https://www.sudugu.org/2385/"
+      },
+      {
+        "name": "小山村里的留守女人们",
+        "url": "https://www.sudugu.org/5899/"
+      },
+      {
+        "name": "穿成破产太子爷的恶毒前女友",
+        "url": "https://www.sudugu.org/6048/"
+      },
+      {
+        "name": "快穿之别让老实人当恶毒女配",
+        "url": "https://www.sudugu.org/5314/"
+      },
+      {
+        "name": "在古代卖预制菜，全京城都抢疯了",
+        "url": "https://www.sudugu.org/3928/"
+      },
+      {
+        "name": "被贵妃配给太监当对食后",
+        "url": "https://www.sudugu.org/1909/"
+      },
+      {
+        "name": "反派庶女不好惹",
+        "url": "https://www.sudugu.org/3997/"
+      },
+      {
+        "name": "拈花问鼎",
+        "url": "https://www.sudugu.org/5741/"
+      },
+      {
+        "name": "爹！求你别升了，咱家真是奸臣！",
+        "url": "https://www.sudugu.org/5279/"
+      },
+      {
+        "name": "穿成乱世寡嫂，靠空间南迁搞基建",
+        "url": "https://www.sudugu.org/5726/"
+      },
+      {
+        "name": "妙厨",
+        "url": "https://www.sudugu.org/2364/"
+      },
+      {
+        "name": "少逼逼歪歪，反派火力全开",
+        "url": "https://www.sudugu.org/5837/"
+      },
+      {
+        "name": "高门主母的驯夫手册",
+        "url": "https://www.sudugu.org/6029/"
+      },
+      {
+        "name": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+        "url": "https://www.sudugu.org/2012/"
+      },
+      {
+        "name": "将作妖",
+        "url": "https://www.sudugu.org/5997/"
+      },
+      {
+        "name": "秦时记事",
+        "url": "https://www.sudugu.org/2359/"
+      },
+      {
+        "name": "孩子谁爱生谁生，我勾帝心夺凤位",
+        "url": "https://www.sudugu.org/5020/"
+      },
+      {
+        "name": "锦医春色",
+        "url": "https://www.sudugu.org/5766/"
+      },
+      {
+        "name": "引朱鸾",
+        "url": "https://www.sudugu.org/2371/"
+      },
+      {
+        "name": "惊蛰无人生还",
+        "url": "https://www.sudugu.org/5722/"
+      },
+      {
+        "name": "通房假死后，禁欲世子苦寻三年",
+        "url": "https://www.sudugu.org/5902/"
+      },
+      {
+        "name": "春日宴",
+        "url": "https://www.sudugu.org/2491/"
+      },
+      {
+        "name": "惊鸿镜：她的裙臣遍天下",
+        "url": "https://www.sudugu.org/5280/"
+      },
+      {
+        "name": "首辅大人今天火葬场了吗？",
+        "url": "https://www.sudugu.org/5287/"
+      },
+      {
+        "name": "末世大佬问鼎娱乐圈",
+        "url": "https://www.sudugu.org/5791/"
+      },
+      {
+        "name": "二哈和他的白猫师尊",
+        "url": "https://www.sudugu.org/5765/"
+      },
+      {
+        "name": "穿成假冒失忆大佬女友的恶毒女配",
+        "url": "https://www.sudugu.org/5763/"
+      },
+      {
+        "name": "折金钗",
+        "url": "https://www.sudugu.org/5744/"
+      },
+      {
+        "name": "侯爷的掌心娇是朵黑心莲",
+        "url": "https://www.sudugu.org/1630/"
+      },
+      {
+        "name": "成为领主的我被迫种田",
+        "url": "https://www.sudugu.org/5459/"
+      },
+      {
+        "name": "墨燃丹青",
+        "url": "https://www.sudugu.org/2369/"
+      },
+      {
+        "name": "带着系统混兽世",
+        "url": "https://www.sudugu.org/2383/"
+      },
+      {
+        "name": "破怨师",
+        "url": "https://www.sudugu.org/2844/"
+      },
+      {
+        "name": "冠上珠华",
+        "url": "https://www.sudugu.org/2396/"
+      },
+      {
+        "name": "回到九零，她在外科大佬圈火爆了",
+        "url": "https://www.sudugu.org/5727/"
+      },
+      {
+        "name": "前方高能",
+        "url": "https://www.sudugu.org/5720/"
+      },
+      {
+        "name": "娇术",
+        "url": "https://www.sudugu.org/5721/"
+      },
+      {
+        "name": "九姑娘她一身反骨人还狂",
+        "url": "https://www.sudugu.org/5723/"
+      },
+      {
+        "name": "与卿谋",
+        "url": "https://www.sudugu.org/3856/"
+      },
+      {
+        "name": "红楼大当家",
+        "url": "https://www.sudugu.org/5629/"
+      },
+      {
+        "name": "卷王魔女从不认输",
+        "url": "https://www.sudugu.org/2257/"
+      },
+      {
+        "name": "重生九零霸王花",
+        "url": "https://www.sudugu.org/2360/"
+      },
+      {
+        "name": "婚后上瘾",
+        "url": "https://www.sudugu.org/2010/"
+      },
+      {
+        "name": "我不过作作妖，怎么就成了白月光",
+        "url": "https://www.sudugu.org/3708/"
+      },
+      {
+        "name": "糊咖退圈摆摊，怎么就火遍全网了",
+        "url": "https://www.sudugu.org/3957/"
+      },
+      {
+        "name": "我带军文穿越成王妃，嘎嘎乱杀",
+        "url": "https://www.sudugu.org/3916/"
+      },
+      {
+        "name": "囤满空间逃荒，农家娇娇女躺赢",
+        "url": "https://www.sudugu.org/5089/"
+      },
+      {
+        "name": "穿成男主的心机前女友",
+        "url": "https://www.sudugu.org/5071/"
+      },
+      {
+        "name": "逢春",
+        "url": "https://www.sudugu.org/5340/"
+      },
+      {
+        "name": "玉无香",
+        "url": "https://www.sudugu.org/5339/"
+      },
+      {
+        "name": "辞金枝",
+        "url": "https://www.sudugu.org/5338/"
+      },
+      {
+        "name": "掌欢",
+        "url": "https://www.sudugu.org/5337/"
+      },
+      {
+        "name": "韶光慢",
+        "url": "https://www.sudugu.org/5335/"
+      },
+      {
+        "name": "惊山月",
+        "url": "https://www.sudugu.org/5334/"
+      },
+      {
+        "name": "嫁太监？踏破鬼门女帝凤临天下",
+        "url": "https://www.sudugu.org/5019/"
+      },
+      {
+        "name": "恶毒师妹不洗白在宗门创死所有人",
+        "url": "https://www.sudugu.org/5286/"
+      },
+      {
+        "name": "小鼻嘎不过作作妖，爹娘被哄翘嘴",
+        "url": "https://www.sudugu.org/5281/"
+      },
+      {
+        "name": "逢灯纪",
+        "url": "https://www.sudugu.org/3509/"
+      },
+      {
+        "name": "六年后，我携四个幼崽炸翻前夫家",
+        "url": "https://www.sudugu.org/2839/"
+      },
+      {
+        "name": "谁家小娘子这么狂",
+        "url": "https://www.sudugu.org/3663/"
+      },
+      {
+        "name": "我在修仙界搞内卷",
+        "url": "https://www.sudugu.org/5106/"
+      },
+      {
+        "name": "掌上娇娇",
+        "url": "https://www.sudugu.org/5069/"
+      },
+      {
+        "name": "听说我死后成了反派白月光",
+        "url": "https://www.sudugu.org/5068/"
+      },
+      {
+        "name": "吃瓜贵妃的自我修养",
+        "url": "https://www.sudugu.org/3998/"
+      },
+      {
+        "name": "九零：泉水人家",
+        "url": "https://www.sudugu.org/2357/"
+      },
+      {
+        "name": "七零大厂美人，改造反派崽暴富",
+        "url": "https://www.sudugu.org/2733/"
+      },
+      {
+        "name": "逢晴日",
+        "url": "https://www.sudugu.org/2365/"
+      },
+      {
+        "name": "四合如意",
+        "url": "https://www.sudugu.org/2366/"
+      },
+      {
+        "name": "咸鱼一家的穿书生活",
+        "url": "https://www.sudugu.org/2737/"
+      },
+      {
+        "name": "全宗都是舔狗，小师妹是真狗",
+        "url": "https://www.sudugu.org/3936/"
+      },
+      {
+        "name": "癫，都癫，癫点好啊",
+        "url": "https://www.sudugu.org/3935/"
+      },
+      {
+        "name": "千秋我为凰",
+        "url": "https://www.sudugu.org/3886/"
+      },
+      {
+        "name": "奸臣每天都想弄死我",
+        "url": "https://www.sudugu.org/3885/"
+      },
+      {
+        "name": "她的护卫",
+        "url": "https://www.sudugu.org/2363/"
+      },
+      {
+        "name": "雪夜活埋后，我夺了假千金凤命",
+        "url": "https://www.sudugu.org/3766/"
+      },
+      {
+        "name": "重生之将门毒后",
+        "url": "https://www.sudugu.org/3679/"
+      },
+      {
+        "name": "侯府忘恩义？摄政王撑腰，不原谅",
+        "url": "https://www.sudugu.org/3609/"
+      },
+      {
+        "name": "问山河",
+        "url": "https://www.sudugu.org/2368/"
+      },
+      {
+        "name": "被夺一切后她封神回归",
+        "url": "https://www.sudugu.org/3532/"
+      },
+      {
+        "name": "闪婚后，发现老公是亿万富豪",
+        "url": "https://www.sudugu.org/3372/"
+      },
+      {
+        "name": "我在异世封神",
+        "url": "https://www.sudugu.org/1628/"
+      },
+      {
+        "name": "我一夜之间成了丑闻女主角",
+        "url": "https://www.sudugu.org/3226/"
+      },
+      {
+        "name": "小师叔沉迷网络中",
+        "url": "https://www.sudugu.org/3193/"
+      },
+      {
+        "name": "咸鱼贾环的诸天旅行",
+        "url": "https://www.sudugu.org/3192/"
+      },
+      {
+        "name": "相亲当天和豪门大佬闪婚了",
+        "url": "https://www.sudugu.org/2853/"
+      },
+      {
+        "name": "我曝光前世惊炸全网",
+        "url": "https://www.sudugu.org/2851/"
+      },
+      {
+        "name": "小京官之女养家日常",
+        "url": "https://www.sudugu.org/2850/"
+      },
+      {
+        "name": "重生1983：从夺回家产开始",
+        "url": "https://www.sudugu.org/2835/"
+      },
+      {
+        "name": "娇娇王妃驾到，撩拨王爷脸红心跳",
+        "url": "https://www.sudugu.org/2693/"
+      },
+      {
+        "name": "我在诡异世界继承神位后",
+        "url": "https://www.sudugu.org/2399/"
+      },
+      {
+        "name": "蚀骨危情(简童沈修瑾)",
+        "url": "https://www.sudugu.org/2492/"
+      },
+      {
+        "name": "偷偷藏不住",
+        "url": "https://www.sudugu.org/2490/"
+      },
+      {
+        "name": "掌中之物",
+        "url": "https://www.sudugu.org/2489/"
+      },
+      {
+        "name": "食在大宋：我的系统通山海",
+        "url": "https://www.sudugu.org/2379/"
+      },
+      {
+        "name": "第一侯",
+        "url": "https://www.sudugu.org/2400/"
+      },
+      {
+        "name": "白篱梦",
+        "url": "https://www.sudugu.org/2398/"
+      },
+      {
+        "name": "大小姐她总是不求上进",
+        "url": "https://www.sudugu.org/2397/"
+      },
+      {
+        "name": "大帝姬",
+        "url": "https://www.sudugu.org/2395/"
+      },
+      {
+        "name": "长安好",
+        "url": "https://www.sudugu.org/2394/"
+      },
+      {
+        "name": "魏晋干饭人",
+        "url": "https://www.sudugu.org/2393/"
+      },
+      {
+        "name": "锁情扣",
+        "url": "https://www.sudugu.org/2390/"
+      },
+      {
+        "name": "灯花笑",
+        "url": "https://www.sudugu.org/2389/"
+      },
+      {
+        "name": "边关小厨娘",
+        "url": "https://www.sudugu.org/2387/"
+      },
+      {
+        "name": "为奴三年后，整个侯府跪求我原谅",
+        "url": "https://www.sudugu.org/1908/"
+      },
+      {
+        "name": "王妃她不讲武德",
+        "url": "https://www.sudugu.org/2297/"
+      },
+      {
+        "name": "疯批太后重生后，更是狂得没边！",
+        "url": "https://www.sudugu.org/1716/"
+      },
+      {
+        "name": "桃花马上请长缨",
+        "url": "https://www.sudugu.org/1857/"
+      },
+      {
+        "name": "我在惊悚游戏里封神",
+        "url": "https://www.sudugu.org/1753/"
+      },
+      {
+        "name": "大佬归来，假千金她不装了",
+        "url": "https://www.sudugu.org/1725/"
+      },
+      {
+        "name": "春棠欲醉",
+        "url": "https://www.sudugu.org/1724/"
+      },
+      {
+        "name": "神医娘亲美又飒",
+        "url": "https://www.sudugu.org/1720/"
+      },
+      {
+        "name": "四爷的心尖宠妃",
+        "url": "https://www.sudugu.org/1718/"
+      },
+      {
+        "name": "我团宠小师妹，嚣张点怎么了",
+        "url": "https://www.sudugu.org/1721/"
+      },
+      {
+        "name": "第一凤女",
+        "url": "https://www.sudugu.org/1722/"
+      },
+      {
+        "name": "十里芳菲",
+        "url": "https://www.sudugu.org/1632/"
+      },
+      {
+        "name": "他的小祖宗甜又野",
+        "url": "https://www.sudugu.org/1629/"
+      },
+      {
+        "name": "至尊神医之帝君要下嫁",
+        "url": "https://www.sudugu.org/1631/"
+      },
+      {
+        "name": "将军，夫人喊你种田了",
+        "url": "https://www.sudugu.org/619/"
       }
     ]
   }

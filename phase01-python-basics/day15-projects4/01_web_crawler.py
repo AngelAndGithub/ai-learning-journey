@@ -309,16 +309,49 @@ def main():
             response = get_response(novel_url)
             if response:
                 soup = BeautifulSoup(response.text, 'html.parser')
-                # 查找小说分类信息
-                # 尝试不同的选择器来找到分类信息
-                category_elements = soup.select('p span') or soup.select('div[class*="info"] span') or soup.select('span[class*="category"]')
                 
                 novel_category = ""
-                for element in category_elements:
-                    text = element.text.strip()
-                    if '小说' in text:
-                        novel_category = text
+                
+                selectors = [
+                    'p span',
+                    'div[class*="info"] span',
+                    'span[class*="category"]',
+                    'div.breadcrumb a',
+                    'div.path a',
+                    'a[href*="/fenlei/"]',
+                    'a[href*="/xuanhuan/"]',
+                    'a[href*="/xianxia/"]',
+                    'a[href*="/dushi/"]',
+                    'a[href*="/lishi/"]',
+                    'a[href*="/junshi/"]',
+                    'a[href*="/kehuan/"]',
+                    'a[href*="/yanqing/"]',
+                    '.info a',
+                    '.meta a',
+                    '.tags a'
+                ]
+                
+                category_keywords = ['玄幻', '仙侠', '都市', '历史', '军事', '科幻', '言情', '穿越', '重生', '网游', '奇幻']
+                
+                for selector in selectors:
+                    elements = soup.select(selector)
+                    for element in elements:
+                        text = element.text.strip()
+                        if text:
+                            for keyword in category_keywords:
+                                if keyword in text:
+                                    if '小说' not in text:
+                                        novel_category = text + '小说'
+                                    else:
+                                        novel_category = text
+                                    break
+                        if novel_category:
+                            break
+                    if novel_category:
                         break
+                
+                if not novel_category:
+                    logger.warning(f"无法获取小说 {novel_name} 的分类信息")
                 
                 # 检查小说分类是否与当前分类匹配
                 if category_name not in novel_category:

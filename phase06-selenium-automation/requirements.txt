@@ -1,0 +1,20 @@
+# Selenium + Python 自动化测试依赖包
+
+# 核心依赖
+selenium>=4.0.0
+webdriver-manager>=4.0.0
+pytest>=7.0.0
+pytest-html>=3.1.0
+
+# 辅助工具
+selenium-wire>=5.0.0  # 网络请求捕获
+allure-pytest>=2.13.0  # 高级测试报告
+requests>=2.31.0  # API测试
+pyyaml>=6.0  # 配置管理
+openpyxl>=3.1.0  # Excel数据驱动
+faker>=19.0.0  # 测试数据生成
+
+# 开发工具
+black>=23.0.0  # 代码格式化
+flake8>=6.0.0  # 代码检查
+isort>=5.0.0  # 导入排序
